@@ -811,7 +811,9 @@ function pickDistinct(cands, n, keyFn, exclude) {
 }
 const nearFirst = (list, u) => [...shuffle(list.filter(x => x.u === u)), ...shuffle(list.filter(x => Math.abs(x.u - u) <= 2 && x.u !== u)), ...shuffle(list.filter(x => Math.abs(x.u - u) > 2))];
 function qTanim(d) {
-  const tersi = Math.random() < 0.65;
+  // Tanımında kendi adı geçen kavram yalnızca ters yönde sorulur; şıklarda "…i altında" gibi kesik metin çıkmasın
+  const temiz = x => maskTerm(x.x, x.t) === x.x;
+  const tersi = !temiz(d) || Math.random() < 0.65;
   const fk = x => norm(x.t);
   if (tersi) {   // tanımı göster, kavramı sor
     const metin = maskTerm(d.x, d.t);
@@ -819,9 +821,9 @@ function qTanim(d) {
     const dis = pickDistinct(cands, 3, fk, [d]);
     return {key: 'd:' + d.id, u: d.u, s: d.s, long: true, soru: `<small>Aşağıdaki tanım hangi kavrama aittir?</small>${fmt(metin)}`, dogru: d.t, sec: shuffle([d.t, ...dis.map(x => x.t)]), aciklama: `<b>${fmt(d.t)}:</b> ${fmt(d.x)}`};
   }
-  const cands = nearFirst(TANIM.filter(x => x.id !== d.id && norm(x.x) !== norm(d.x)), d.u);
+  const cands = nearFirst(TANIM.filter(x => x.id !== d.id && norm(x.x) !== norm(d.x) && temiz(x)), d.u);
   const dis = pickDistinct(cands, 3, x => norm(x.x).slice(0, 60), [d]);
-  const kisalt = x => plain(maskTerm(x.x, x.t));
+  const kisalt = x => plain(x.x);
   return {key: 'd:' + d.id, u: d.u, s: d.s, soru: `<small>Hangisi bu kavramın tanımıdır?</small><em>${fmt(d.t)}</em>`, dogru: kisalt(d), sec: shuffle([kisalt(d), ...dis.map(kisalt)]), aciklama: `<b>${fmt(d.t)}:</b> ${fmt(d.x)}`};
 }
 function qEser(r) {
