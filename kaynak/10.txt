@@ -197,21 +197,22 @@
 
 ## Tablo: kadının mehri hak ettiği veya mehrin sakıt olduğu durumlar
 ! Kafa karışıklığı olmaması adına başlıklandırma mehrin nikah öncesi belirlendiği (mehr-i müsemmâ) duruma göre yapılmıştır.
-### 1. Mehrin tam verilmesi gereken durumlar
-- Nikah akdinden sonra zifaf veya halvet-i sahiha gerçekleşmiş ise kadın mehrini tam alır. Bundan sonra boşanma kadından bile kaynaklansa, kadın kocasına ihanet etse vb. durumlarda da aynı hüküm geçerlidir.
-- Nikah akdinden sonra zifaf veya halvet-i sahiha gerçekleşmemiş bile olsa taraflardan birinin ölümü ile kadın mehrini tam alır. Ölen koca ise miras paylaşılmadan önce kadına mehri verilir; miras paylaşımı bundan sonra yapılır. Ölen kadın ise koca mehrin tamamını kadının terekesine dahil ettikten sonra miras paylaşılır.
-- Nikah akdinden sonra kocadan kaynaklı bir kusur sebebiyle (kocanın iktidarsız, iğdiş edilmiş veya cinsel organının kesik olması gibi) zifaf olmamış ise kadın yine mehrini tam alır. Zira erkekten kaynaklı bu durum, sahih halvete mani kabul edilmemiştir. (Bu durumda kadın mahkemeye müracaat edip evlilik akdini kendi isteğiyle sonlandıracak olursa fesih kadının talebinden kaynaklandığı için mehir hakkı düşer.)
-- Nikah akdinden sonra cinsel münasebette bulunan çiftlerin sütkardeş oldukları ortaya çıkarsa; belirlenen mehir, mehr-i misilden az ise kadın mehrin tamamını alır. Ancak mehr-i misil daha düşük ise mehr-i misli alır. Yani mehr-i müsemma ile mehr-i misilden hangisi düşük ise onu alır.
-### 2. Mehrin yarısını hak ettiği durumlar
-- Nikah akdinden sonra halvet veya zifaf olmadan evlilik kocanın boşamasıyla sonuçlanırsa; kadın mehrin yarısını alır. Ancak nikah akdi fesihle sonuçlanacak olursa kadının mehir hakkı düşer.
-- Nikah akdinden sonra halvet olmuş ama kadından kaynaklı bir kusur (cinsel organın kapalı olması, vajinismus vb.) sebebiyle cinsel ilişki olmamışsa bu durum halvet-i sahiha'ya mani kabul edilir. Bu durumda; koca kendisi boşarsa kadın mehrinin yarısını alır; mahkeme yoluyla evliliği feshettirirse kadının mehir hakkı düşer.
-### 3. Mehrin tamamen sâkıt olduğu durumlar
-- Nikah akdinden sonra zifaf veya sahih halvetten önce kadının hürmet-i musahareyi gerektirecek bir fiil işlemesi ile (örneğin kocasının babası ile cinsel birliktelik yaşaması) kadının mehir hakkı düşer.
-- Buluğdan önce velisi tarafından evlendirilen erkek çocuk, buluğa ulaştığında muhayyerlik hakkını kullanıp evlenmekten vazgeçecek olsa (red hakkını kullansa) kadının mehir hakkı düşer.
-- Nikah akdinden sonra zifaf veya sahih halvetten önce kadının velisi kefâet (denklik) sebebiyle nikah akdini feshettirecek olsa kadının mehir hakkı düşer.
-- Nikah akdinden sonra kocadan kaynaklı bir kusur sebebiyle zifaf gerçekleşememiş ve kadın da bundan dolayı mahkeme yoluyla evliliği feshettirmişse mehir hakkı düşer.
-- Nikah akdinden sonra kadından kaynaklı bir kusur sebebiyle zifaf gerçekleşememiş ve koca da bundan dolayı mahkemeye müracaat ederek evliliği feshettirmişse mehir hakkı düşer.
-- Nikah akdinden sonra henüz cinsel münasebette bulunmadan çiftlerin sütkardeş oldukları ortaya çıkarsa mehir hakkı düşer. Sahih halvet durumunda da bu hüküm geçerlidir.
+&# Kadının mehri hak ettiği veya mehrin sâkıt olduğu durumlar | 
+& 1. Mehrin tam verilmesi gereken durumlar | 
+&- Nikah akdinden sonra zifaf veya halvet-i sahiha gerçekleşmiş ise kadın mehrini tam alır. Bundan sonra boşanma kadından bile kaynaklansa, kadın kocasına ihanet etse vb. durumlarda da aynı hüküm geçerlidir.
+&- Nikah akdinden sonra zifaf veya halvet-i sahiha gerçekleşmemiş bile olsa taraflardan birinin ölümü ile kadın mehrini tam alır. Ölen koca ise miras paylaşılmadan önce kadına mehri verilir; miras paylaşımı bundan sonra yapılır. Ölen kadın ise koca mehrin tamamını kadının terekesine dahil ettikten sonra miras paylaşılır.
+&- Nikah akdinden sonra kocadan kaynaklı bir kusur sebebiyle (kocanın iktidarsız, iğdiş edilmiş veya cinsel organının kesik olması gibi) zifaf olmamış ise kadın yine mehrini tam alır. Zira erkekten kaynaklı bu durum, sahih halvete mani kabul edilmemiştir. (Bu durumda kadın mahkemeye müracaat edip evlilik akdini kendi isteğiyle sonlandıracak olursa fesih kadının talebinden kaynaklandığı için mehir hakkı düşer.)
+&- Nikah akdinden sonra cinsel münasebette bulunan çiftlerin sütkardeş oldukları ortaya çıkarsa; belirlenen mehir, mehr-i misilden az ise kadın mehrin tamamını alır. Ancak mehr-i misil daha düşük ise mehr-i misli alır. Yani mehr-i müsemma ile mehr-i misilden hangisi düşük ise onu alır.
+& 2. Mehrin yarısını hak ettiği durumlar | 
+&- Nikah akdinden sonra halvet veya zifaf olmadan evlilik kocanın boşamasıyla sonuçlanırsa; kadın mehrin yarısını alır. Ancak nikah akdi fesihle sonuçlanacak olursa kadının mehir hakkı düşer.
+&- Nikah akdinden sonra halvet olmuş ama kadından kaynaklı bir kusur (cinsel organın kapalı olması, vajinismus vb.) sebebiyle cinsel ilişki olmamışsa bu durum halvet-i sahiha'ya mani kabul edilir. Bu durumda; koca kendisi boşarsa kadın mehrinin yarısını alır; mahkeme yoluyla evliliği feshettirirse kadının mehir hakkı düşer.
+& 3. Mehrin tamamen sâkıt olduğu durumlar | 
+&- Nikah akdinden sonra zifaf veya sahih halvetten önce kadının hürmet-i musahareyi gerektirecek bir fiil işlemesi ile (örneğin kocasının babası ile cinsel birliktelik yaşaması) kadının mehir hakkı düşer.
+&- Buluğdan önce velisi tarafından evlendirilen erkek çocuk, buluğa ulaştığında muhayyerlik hakkını kullanıp evlenmekten vazgeçecek olsa (red hakkını kullansa) kadının mehir hakkı düşer.
+&- Nikah akdinden sonra zifaf veya sahih halvetten önce kadının velisi kefâet (denklik) sebebiyle nikah akdini feshettirecek olsa kadının mehir hakkı düşer.
+&- Nikah akdinden sonra kocadan kaynaklı bir kusur sebebiyle zifaf gerçekleşememiş ve kadın da bundan dolayı mahkeme yoluyla evliliği feshettirmişse mehir hakkı düşer.
+&- Nikah akdinden sonra kadından kaynaklı bir kusur sebebiyle zifaf gerçekleşememiş ve koca da bundan dolayı mahkemeye müracaat ederek evliliği feshettirmişse mehir hakkı düşer.
+&- Nikah akdinden sonra henüz cinsel münasebette bulunmadan çiftlerin sütkardeş oldukları ortaya çıkarsa mehir hakkı düşer. Sahih halvet durumunda da bu hüküm geçerlidir.
 | Mehir | Durumlar (mehr-i müsemma belirlenmişse)
 | **Tamamı** | Zifaf ya da halvet-i sahîha olmuşsa · taraflardan biri ölmüşse · kocadan kaynaklı kusurla zifaf olmamışsa · duhulden sonra süt kardeş oldukları anlaşılırsa (müsemma ile misilden düşüğü)
 | **Yarısı** | Zifaf ve halvet olmadan koca boşarsa · kadından kaynaklı kusur halvet-i sahîhaya mani olmuş ve koca kendisi boşarsa

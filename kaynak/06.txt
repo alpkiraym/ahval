@@ -19,15 +19,24 @@
 - Bu kimse, iki kız kardeşi ayrı ayrı nikahlamış olursa; ikinci kız kardeşin nikâhı sahih olmaz. Şayet, durumu kadı bilirse, bunları derhal ayırır. Duhulden önce ayrılmış olurlarsa, hiç bir hüküm sabit olmaz. Fakat bunlar, duhulden sonra ayrılırlarsa, mehr-i mislin en azı gerekir; kadına ise, iddet lâzım gelir. Böylece, nesep açığa çıkıp sabit olur. Bu şahıs da, ayrılan kız kardeşin iddeti bitene kadar, önceki karısı olan kız kardeşin yanına varıp cimâ'da bulunamaz.
 - Bir kimse, iki kız kardeşi ayrı ayrı nikahlamış olsa ve fakat hangisinin önce nikahlanmış olduğu bilinmese; bu durumda, kocaya gerekli açıklamada bulunması emredilir. Bir açıklamada bulunursa, beyana göre hareket edilir. Bir açıklamada bulunmazsa; bu hususta bir araştırma yapılmaz ve bu iki kız kardeş de, o kocadan ayırılır.
 - Bu durumda, bu iki kız kardeşe akid esnasında konuşulan mehirleri müsâvî ise ve talâk duhûlden önce vuku bulmuşsa, yarım mehir verilir; eğer mehirleri değişikse, her birine kendi mehirlerinin dörtte biri verilir. Eğer, ayrılık duhûlden sonra olursa, bu durumda, bu kız kardeşlerden her birine, tam mehir vermek gerekir.
-### Şema: الجمع بين امرأتين يحرم الجمع بينهما
-| Durum | Alt durum | Hükmü
-| «إذا يتزوجهما بعقد واحد» | «إما كلتاهما قابلتان للزواج به» | «فالعقد فاسد بالنسبة لهما جميعا وتجري عليه أحكام الزواج الفاسد»
-| «إذا يتزوجهما بعقد واحد» | «وإما إحداهما ليست قابلة للزواج به كأن تكون أخت الزوج من الرضاع…» | «فهذا النكاح فاسد بالنسبة لهذه، يجري عليه جميع أحكام الزواج الفاسد، وصحيح بالنسبة لمن لا مانع لها»
-| «إن يتزوجهما بعقدين مختلفين» | «إما أن يكون أحد العقدين قد استوفى جميع شروط الصحة وأحد العقدين لم يستوف الشروط» | «فالذي استوفى جميع الشروط هو الصحيح والذي لم يستوفها فاسد، سواء كان متقدما على المستوفي أم كان مقارنا له أم كان متأخرا عنه»
-| «إن يتزوجهما بعقدين مختلفين: أو كلاهما يستوفيان جميع الشروط» | «إما يعلم أن أحدهما سابق على الآخر» | «فالذي علمت أسبقيته صحيح والذي علم تأخره فاسد»
-| «إن يتزوجهما بعقدين مختلفين: أو كلاهما يستوفيان جميع الشروط» | «وإما لا يعلم» | «وإذا لم نعلم أسبقية واحد منهما أو علمت ثم نسيت فكلا العقدين فاسد»
-% Şemanın Türkçesi: Bir adam aralarını cem' etmesi haram olan iki kadınla evlenmeye kalkışırsa: Tek akitle evlenirse, ikisi de onunla evlenmeye elverişliyse akit ikisi için de fasittir ve fasit evlilik hükümleri işler; biri ona elverişli değilse (ör. kocanın süt kız kardeşi) nikah onun için fasit, engeli olmayan için sahihtir. Ayrı akitlerle evlenirse, akitlerden biri sıhhat şartlarının hepsini taşıyıp diğeri taşımıyorsa, önce, birlikte ya da sonra olması fark etmeksizin şartları taşıyan sahih, diğeri fasittir. İkisi de şartları taşıyorsa, önceliği bilinen sahih, sonralığı bilinen fasittir; hangisinin önce olduğu bilinmiyorsa ya da bilinip unutulmuşsa ikisi de fasittir.
-! Tek akitte ikisi de evlenmeye elverişliyse: akit fasit, iki fasit evlilik. Biri elverişli değilse (süt kardeş gibi): onun nikahı fasit olur. Ayrı akitlerde önceliği bilinmeyen: fasit; önce olduğu bilinen: sahih.
+^# Aralarını cem' etmek haram olan iki kadınla evlenmek | إذا أقدم الرجل على الجمع بين امرأتين يحرم الجمع بينهما فما الحكم
+^? Onlarla nasıl evlendi? | 
+^  - Tek akitle
+^    ? İkisi de onunla evlenmeye elverişli mi? | إذا يتزوجهما بعقد واحد
+^      - İkisi de elverişli
+^        = degil | [[Akit ikisi için de fasittir; fasit evlilik hükümleri işler.]] | فالعقد فاسد بالنسبة لهما جميعا وتجري عليه أحكام الزواج الفاسد | Akit fasit; iki fasit evlilik.
+^      - Biri elverişli değil (ör. kocanın süt kız kardeşi)
+^        = ihtilaf | [[Engeli olan için nikah fasit, engeli olmayan için sahihtir.]] | فهذا النكاح فاسد بالنسبة لهذه يجري عليه جميع أحكام الزواج الفاسد، وصحيح بالنسبة لمن لا مانع لها | Fasit olur, süt kardeş gibi.
+^  - Ayrı akitlerle
+^    ? İki akit de sıhhat şartlarını taşıyor mu? | إن يتزوجهما بعقدين مختلفين
+^      - Biri taşıyor, biri taşımıyor
+^        = ihtilaf | [[Şartları taşıyan sahih, taşımayan fasittir; önce, birlikte ya da sonra olması fark etmez.]] | فالذي استوفى جميع الشروط هو الصحيح والذي لم يستوفها فاسد سواء كان متقدما على المستوفي أم كان مقارنا له أم كان متأخرا عنه
+^      - İkisi de taşıyor
+^        ? Hangisinin önce olduğu biliniyor mu? | أو كلاهما يستوفيان جميع الشروط
+^          - Biliniyor
+^            = ihtilaf | [[Önceliği bilinen sahih, sonralığı bilinen fasittir.]] | فالذي علمت أسبقيته صحيح والذي علم تأخره فاسد
+^          - Bilinmiyor ya da unutuldu
+^            = degil | [[İki akit de fasittir.]] | وإذا لم نعلم أسبقية واحد منهما أو علمت ثم نسيت فكلا العقدين فاسد | Fasit, fasit.
 * İki kız kardeşi (ya da kadınla halasını/teyzesini) bir nikahta toplamak haramdır; geçicidir: nikahlının ölümü ya da boşanıp iddetinin bitmesiyle kalkar. Süt kardeşlik de neseb gibidir.
 * Genel kural: iki kadından biri erkek farz edildiğinde aralarında evlenme engeli varsa ikisi bir nikahta toplanamaz (hala-yeğen olmaz, iki amca kızı olur).
 * Tek akitte iki kız kardeş: ayrılırlar; duhulden sonra her birine mehr-i müsemma ile misilden azı. Ayrı akitlerde ikinci nikah sahih olmaz. Hangisinin önce olduğu bilinmezse ikisi de ayrılır; duhulden önceyse mehirler eşitse yarım mehir, farklıysa her birine kendi mehrinin dörtte biri; duhulden sonraysa tam mehir.
@@ -91,16 +100,18 @@
 - **Malikiler:** Erkek, hür kadının mehrine kudreti yoksa ve zinadan da korkuyorsa, bu iki şart ile müslim veya kitabi olan cariye ile evlenmeyi caiz görür. Hür kadınla evli olan erkeğin karısı çocuk doğuramıyor olup erkek doktora gitse ve kadının kısır olduğunu öğrense bu durumda cariye ile evlenebilir.
 * Cariye ile evlilik: Ebû Hanîfe — ibtidaen caiz (kitabî ya da Müslim), hür kadın üzerine haram; Şâfiî — Müslim cariye, iki şartla (zinadan korunma ihtiyacı, hür kadına mali kudret olmaması); Mâlikîler — iki şartla Müslim ya da kitabî cariye, kadın kısırsa da caiz.
 
-## Şema: المحرمات (geçici sebepler)
-| Sebep | Arapçası | Not
-| **İki mahremi bir nikahta toplamak** | «الجمع بين محرمين» | İki mahremi bir nikahta
-| **Başkasının hakkının bulunması** | «تعلق حق الغير بمن يراد العقد عليها» | Başkasının varlığı (evli olması)
-| **Üç talakla boşadığı kadın** | «زواج الرجل بمن طلقها طلقة ثالثة» |
-| **Beşinci kadın** | «زواج الرجل بالخامسة» |
-| **Semavi dine mensup olmayan kadın** | «زواج الرجل بامرأة لا تدين بدين سماوي» | Ateist, Mecusi
-| **Hür kadın üzerine cariye** | «الزواج بالأمة على الحرة» | Hür kadın varken cariyeyi kuma getirmek
-| **İhramlının evlenmesi** | «زواج المُحرم عند الشافعي» | İhramlının evlenmesi; Hanefilere göre evlenebilir ama ilişkiye giremez
-@ ملاحظة / القاعدة: لو فُرِضَتْ إحداهما رجلا لحَرُمَتِ الأخرى عليه | [[İki kadından biri erkek farz edilse diğeri ona haram olurdu (o hâlde ikisi bir nikahta toplanamaz).]]
+## Şema: geçici evlilik engelleri
+&# Geçici haramlık sebepleri | أسباب المحرمة المؤقتة
+& Sebepler | 
+&- «الجمع بين محرمين» [[İki mahremi bir nikahta toplamak]] — Kenar notu: iki mahremi bir nikâhta.
+&- «تعلق حق الغير بمن يراد العقد عليها» [[Evlenilmek istenen kadına başkasının hakkının taalluk etmesi]] — Kenar notu: başkasının varlığı (evli olması).
+&- «زواج الرجل بمن طلقها طلقة ثالثة» [[Üçüncü talakla boşadığı kadınla evlenmesi]]
+&- «زواج الرجل بالخامسة» [[Beşinci kadınla evlenmesi]]
+&- «زواج الرجل بامرأة لا تدين بدين سماوي» [[Semavi bir dine mensup olmayan kadınla evlenmesi]] — Kenar notu: ateist, Mecusi.
+&- «الزواج بالأمة على الحرة» [[Hür kadın üzerine cariye ile evlenmek]] — Kenar notu: hür kadın varken cariyeyi kuma getirmek.
+&- «زواج المُحرم عند الشافعي» [[Şâfiî'ye göre ihramlının evlenmesi]] — Kenar notu: Hanefilere göre evlenebilir ama ilişkiye giremez.
+& Kaide | ملاحظة / القاعدة
+&- «لو فُرِضَتْ إحداهما رجلا لحَرُمَتِ الأخرى عليه» [[İki kadından biri erkek farz edilse diğeri ona haram olurdu (o hâlde ikisi bir nikahta toplanamaz).]]
 * Şemadaki geçici sebepler ayrıca: hür kadın üzerine cariye ile evlenmek ve (Şâfiî'ye göre) ihramlının evlenmesi.
 
 ## Ehl-i Kitab'la evlilik hakkında görüşler
@@ -116,18 +127,18 @@
 2. Karı - koca müslüman olup evlilik devam ederken birisi ölse birbirlerine varis olurlar. Eğer kadın kitabi ise birbirlerine varis olamazlar. Erkeğin kitabi kadına vasiyette bulunması irsin engellerinden değildir. Aksi mümkün değildir.
 3. Çocuklar din konusunda babalarına muvafakat ederler. Onlar babaları gibi Müslümandırlar. Onlardan birisinin malı olsa da ölse varisi babasıdır. Annesi mirasçı olamaz. Aynı şekilde kitabi olan anneye de çocuklar mirasçı olamaz.
 4. Müslüman bir erkek ile evli olan kitabi kadın dininden çıkıp başka bir semavi dine girse bu durumda evlilikleri fesholmaz. Yok eğer gitse de müşrik olsa akid fesholunur.
-### Şema: زواج الكتابيات
-| Suret | Arapçası | Not
-| **1** | «أن يكون الزوج مسلما والزوجة مسلمة» |
-| **2** | «أن يكون الزوج مسلما والزوجة غير مسلمة» |
-| **3** | «أن يكون الزوج غير مسلم والزوجة غير مسلمة» |
-| **4** | «أن يكون الزوج غير مسلم والزوجة مسلمة» | Caiz değil
-@ جميع الأحكام والحقوق والواجبات المترتبة على عقد زواج المسلم بالمسلمة تترتب بنفسها على عقد زواج المسلم بالكتابية إلا في الأمور الآتية | [[Müslüman erkeğin Müslüman kadınla evliliğine bağlanan bütün hüküm, hak ve vecibeler, Müslüman erkeğin kitabî kadınla evliliğine de aynen bağlanır; şu hususlar hariç:]]
-| Hususlar | Arapçası | Not
-| **1. Şahitler** | «يجوز أن يكون شهود هذا العقد من المسلمين أو من أهل الكتاب خلافا للشافعية» | Şâfiî: Müslüman olmalı
-| **2. Miras** | «إذا مات أحدهما لا يرثه الآخر» | Mirasçı olamaz
-| **3. Çocuklar** | «الأولاد يوافقون أباهم في دينه» | Çocuk babaya bağlıdır
-| **4. Din değiştirme** | «إذا خرجت المرأة الكتابية المتزوجة بمسلم من دينها إلى دين سماوي آخر لم ينفسخ زواجها» | Karı Hristiyan iken Yahudiliğe geçse boşanmaz
+&# Ehl-i kitapla evlilik | زواج الكتابيات
+& Evliliğin dört sureti | 
+&- «أن يكون الزوج مسلما والزوجة مسلمة» [[Koca Müslüman, kadın Müslüman]]
+&- «أن يكون الزوج مسلما والزوجة غير مسلمة» [[Koca Müslüman, kadın gayrimüslim]]
+&- «أن يكون الزوج غير مسلم والزوجة غير مسلمة» [[Koca gayrimüslim, kadın gayrimüslim]]
+&- «أن يكون الزوج غير مسلم والزوجة مسلمة» [[Koca gayrimüslim, kadın Müslüman]] — Kenar notu: caiz değil.
+& Müslüman erkeğin kitabî kadınla evliliğinde farklar | إلا في الأمور الآتية
+&- «جميع الأحكام والحقوق والواجبات المترتبة على عقد زواج المسلم بالمسلمة تترتب بنفسها على عقد زواج المسلم بالكتابية إلا في الأمور الآتية» [[Müslüman erkeğin Müslüman kadınla evliliğine bağlanan bütün hüküm, hak ve vecibeler kitabî kadınla evliliğine de aynen bağlanır; şu hususlar hariç:]]
+&- «يجوز أن يكون شهود هذا العقد من المسلمين أو من أهل الكتاب خلافا للشافعية» [[Bu akdin şahitleri Müslümanlardan da Ehl-i kitaptan da olabilir; Şâfiîler buna muhaliftir.]] — Kenar notu: Şâfiî: Müslüman olmalı.
+&- «إذا مات أحدهما لا يرثه الآخر» [[Biri ölürse diğeri ona mirasçı olmaz.]]
+&- «الأولاد يوافقون أباهم في دينه» [[Çocuklar dinde babalarına tabidir.]]
+&- «إذا خرجت المرأة الكتابية المتزوجة بمسلم من دينها إلى دين سماوي آخر لم ينفسخ زواجها» [[Müslümanla evli kitabî kadın başka bir semavi dine geçerse nikahı bozulmaz.]] — Kenar notu: karı Hristiyan iken Yahudiliğe geçse boşanmaz.
 * Ehl-i kitapla evlilikte dört suret; Müslüman kadının gayrimüslim erkekle evliliği icmayla batıldır. Harbî kitabî kadınla evlilik mekruh; Müslüman olması umuluyorsa mendub.
 * Müslüman–kitabî evliliğinde farklar: şahitlerin Müslüman olması şart değil (Şâfiîlere göre şart), birbirlerine mirasçı olmazlar (vasiyet engel değil), çocuklar dinde babaya tabidir, kadın başka semavi dine geçerse nikah bozulmaz, müşrik olursa bozulur.
 

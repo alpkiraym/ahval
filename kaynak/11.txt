@@ -26,12 +26,19 @@
 - **Sünnet:** "Kişiye kölesini aç olarak hapsetmesi günah olarak yeter."
 - **İcma':** Ulemanın icma'sı vardır.
 - **Akli delil:** Çünkü köleler efendilerini terketmekle çalışmaya ve ihtiyaçları için kazanmaya malik değillerdir. Efendilerinin işlerini görmekle mükelleftirler.
-### Şema: أسباب وجوب النفقة وأدلته
-| Sebep | Kitap | Sünnet / icma
-| «١- الزوجية» | «وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ» (سورة البقرة – ٢٣٣) | «اتقوا الله في النساء ولهن عليكم كسوتهن ورزقهن بالمعروف» · «الإجماع»
-| «٢- القرابة» | «وَقَضَى رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا» (سورة الإسراء – ٢٣) | «أنت ومالك لأبيك»
-| «٣- الملكية» | «وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا… وَمَا مَلَكَتْ أَيْمَانُكُمْ» (سورة النساء – ٣٦) | «للمملوك طعامه وكسوته ولا يكلف من العمل ما لا يطيق»
-@ القاعدة: كل من حُبِس لمصلحة غيره ومنفعته فنفقته واجبة على من كان حبسه لمصلحته ومنفعته | [[Kaide: Başkasının maslahatı ve menfaati için hapsedilen herkesin nafakası, kimin maslahatı ve menfaati için hapsedildiyse ona vaciptir.]]
+&# Nafakanın vücub sebepleri ve delilleri | أسباب وجوب النفقة وأدلته
+& 1. Zevciyet | الزوجية
+&- **Kitap:** «وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ» (سورة البقرة – ٢٣٣)
+&- **Hadis:** «اتقوا الله في النساء ولهن عليكم كسوتهن ورزقهن بالمعروف»
+&- **İcma:** «الإجماع»
+& 2. Karabet | القرابة
+&- **Kitap:** «وَقَضَى رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا» (سورة الإسراء – ٢٣)
+&- **Hadis:** «أنت ومالك لأبيك»
+& 3. Milkiyet | الملكية
+&- **Kitap:** «وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا… وَمَا مَلَكَتْ أَيْمَانُكُمْ» (سورة النساء – ٣٦)
+&- **Hadis:** «للمملوك طعامه وكسوته ولا يكلف من العمل ما لا يطيق»
+& Kaide | القاعدة
+&- «كل من حُبِس لمصلحة غيره ومنفعته فنفقته واجبة على من كان حبسه لمصلحته ومنفعته» [[Başkasının maslahatı ve menfaati için hapsedilen herkesin nafakası, kimin maslahatı ve menfaati için hapsedildiyse ona vaciptir.]]
 * Nafakanın delilleri kitap, sünnet, icma ve akıl; kadının nafakasının aklî delili: kendini kocasının evine hapsettiği için kazanamaz.
 * Kaide: başkasının maslahatı için hapsedilenin nafakası, onu hapsedene vaciptir.
 
@@ -49,12 +56,11 @@
 - **d)** Kadının eve gitmemesi ne şer'i ne de kocasından kaynaklı bir gerekçeyle değil de kendinden kaynaklanıyorsa. Örneğin kadın bir suç işledi hakim hapse gönderdi.
 - **e)** Kadının eve gitmemesi ne şer'i ne de kocasından ne de kendinden kaynaklı bir gerekçeyle değil de başka bir sebebe dayanması. Örneğin kadını biri gasbetti, bu yüzden gidemiyor.
 !! d ve e maddelerinde erkek kadını hapsetme hakkını kaybettiği için kadının nafaka hakkı düşer.
-### Şema: شروط استحقاق الزوجة النفقة
-| Şart | Arapçası
-| **1** | «أن يكون زواجهما بعقد صحيح شرعا»
-| **2** | «أن تكون الزوجة صالحة لمتعة الزوج بها بأن تكون كبيرة بالغة أو تكون صغيرة تشتهيها الأزواج، وإن لم تكن كذلك لا تجب عليه نفقتها عند طرفين ولو كان قد احتبسها في داره، وقال أبو يوسف إن كان قد احتبسها في داره فعلا وجبت عليه نفقتها، وهذا هو الأرجح»
-| **3** | «ألا يفوت على الزوج حقه في احتباسها بغير مبرر شرعي وسبب ليس من عنده»
-% Şemanın Türkçesi: 1- Evliliklerinin şer'an sahih bir akitle olması. 2- Kadının kocanın istimta'ına elverişli olması: büyük ve baliğa olması ya da kocaların arzu edeceği bir küçük olması; böyle değilse, koca onu evinde tutmuş olsa bile Tarafeyn'e göre nafakası vacip olmaz; Ebû Yûsuf'a göre koca onu fiilen evinde tutmuşsa nafakası vacip olur ve tercihe şayan olan budur. 3- Kocanın onu (evinde) tutma hakkının, şer'i bir gerekçe olmaksızın ve kocadan kaynaklanmayan bir sebeple kaybolmaması.
+&# Kadının nafakayı hak etmesinin şartları | شروط استحقاق الزوجة النفقة
+& Üç şart | 
+&- «١- أن يكون زواجهما بعقد صحيح شرعا» [[Evliliklerinin şer'an sahih bir akitle olması]]
+&- «٢- أن تكون الزوجة صالحة لمتعة الزوج بها بأن تكون كبيرة بالغة أو تكون صغيرة تشتهيها الأزواج، وإن لم تكن كذلك لا تجب عليه نفقتها عند طرفين ولو كان قد احتبسها في داره، وقال أبو يوسف إن كان قد احتبسها في داره فعلا وجبت عليه نفقتها، وهذا هو الأرجح» [[Kadının kocanın istimta'ına elverişli olması: büyük ve baliğa ya da kocaların arzu edeceği bir küçük olması; değilse koca onu evinde tutsa bile Tarafeyn'e göre nafakası vacip olmaz; Ebû Yûsuf'a göre fiilen evinde tutmuşsa vacip olur ve tercihe şayan budur.]]
+&- «٣- ألا يفوت على الزوج حقه في احتباسها بغير مبرر شرعي وسبب ليس من عنده» [[Kocanın onu tutma hakkının, şer'i gerekçe olmaksızın ve kocadan kaynaklanmayan bir sebeple kaybolmaması]]
 * Kadının nafaka şartları: sahih akit (fasitte nafaka yok, verilmişse teberru), istimta'a elverişlilik (çocuk hariç, hasta ihtilaflı), kocanın ihtibas hakkının şer'i ya da kocadan kaynaklı olmayan bir sebeple kaybolmaması.
 * Kadın kendi suçu yüzünden hapsedilir ya da gasbedilirse nafaka düşer; koca emin olmadığı ya da kusurlu olduğu için eve gitmiyorsa düşmez.
 
@@ -73,12 +79,11 @@
 - Seferin amacı kadına zarar vermek olmamalı
 - Koca mehr-i muacceli vermiş olmalıdır.
 ¶ Ne zaman ki bu şartları haiz olurlarsa kadının naşize olmaması ve nafakasının da düşmemesi için sefere çıkma zorunluluğu vardır.
-### Şema: السفر بالزوجة ومتى يكون امتناعها مسقطا لنفقتها
-@ قال بعض العلماء: ليس للزوج أن يجبر زوجته على السفر معه إلا بثلاثة شروط | [[Bazı alimler: Koca karısını kendisiyle sefere ancak üç şartla zorlayabilir.]]
-| Şart | Arapçası
-| **1** | «أن يكون السفر دون مسافة القصر»
-| **2** | «أن يكون الانتقال من مصر إلى مصر آخر»
-| **3** | «أن يكون الزوج مأمونا عليه»
+&# Kadınla sefer ve kaçınmasının nafakayı düşürmesi | السفر بالزوجة ومتى يكون امتناعها مسقطا لنفقتها
+& Bazı alimlere göre üç şart | قال بعض العلماء: ليس للزوج أن يجبر زوجته على السفر معه إلا بثلاثة شروط
+&- «١- أن يكون السفر دون مسافة القصر» [[Seferin kasr mesafesinden az olması]]
+&- «٢- أن يكون الانتقال من مصر إلى مصر آخر» [[Bir şehirden başka bir şehre taşınma olması]]
+&- «٣- أن يكون الزوج مأمونا عليه» [[Kocanın güvenilir olması]]
 * Sefer: bir görüşe göre kasr mesafesindeyse kadın zorlanamaz, daha azsa zorlanır, gelmezse nâşize olur ve nafaka düşer. Bir görüşe göre şartlar: kasr mesafesinden az, şehirden şehre, koca emin. Diğerine göre: koca emin, zarar kastı yok, mehr-i muaccel verilmiş.
 
 ## Nafakanın takdiri hususundaki görüş / kocanın nafakadan imtina' durumu
@@ -90,18 +95,26 @@
 - Hakim, kocanın kazancının durumuna göre nafakayı belirler. Günlük, aylık veya yıllık kazanan koca nafakasını da bu süre zarfında verir. Yanlış hesaplanan nafaka Bağdat'tan döner.
 - Hakimin kararına rağmen nafakayı ödemeyen koca zenginse açıktaki mallarını kadının nafakasını almak için sattırır (haciz). Eğer zengin olan kocanın malları açıkta değil veya san'at eseri ürettiği bir makine ise kadının üç kez bu durumu talep etmesi durumunda hakim kocayı hapseder.
 - Hakimin kararına rağmen nafakayı ödemeyen koca fakir ise ercah olan görüşe göre hakim boşama gerçekleştiremez. Bu durumda kadının nafakasını yine kadının akrabaları üzerine yıkar onlar da ödemezlerse onları hapseder.
-### Şema: القول في تقدير النفقة
-| Görüş sahibi | Arapçası | Türkçesi
-| **Mâlik ve Ahmed** | «تقدر بحال الزوجين جميعا، وهو الراجح عند علماء الحنفية» | [[İki eşin birlikte hâline göre takdir edilir; Hanefî alimlerine göre tercih edilen budur.]]
-| **Şâfiî** | «تقدر بالنظر إلى حال الزوج وحده، واختار هذا الرأي من علماء الحنفية الكرخي» | [[Yalnız kocanın hâline bakılarak takdir edilir; Hanefî alimlerinden Kerhî bu görüşü seçmiştir.]]
-@ الدليل: لِيُنْفِقْ ذُو سَعَةٍ مِنْ سَعَتِهِ وَمَنْ قُدِرَ عَلَيْهِ رِزْقُهُ فَلْيُنْفِقْ مِمَّا آتَاهُ اللَّهُ (الطلاق، ٦٥/٧) · عَلَى الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدَرُهُ (البقرة، ٢/٢٣٦) | Şâfiî'nin delili.
-### Şema: امتناع الزوج عن الإنفاق بعد حكم القاضي
-| Kocanın durumu | Arapçası
-| **Zengin · açıkta malı var** | «إن كان موسرا: إما له مال ظاهر، فللقاضي أن يبيع عليه ماله ما يقوم بنفقة زوجته»
-| **Zengin · açıkta malı yok** | «وإما لا: فإن طلبت الزوجة حبسه كان للقاضي أن يحبسه، ولكن لا بمجرد طلب الزوجة بل يدعوه إلى مجلس الحكم مرتين أو ثلاثا، وإن لم يؤد مع ذلك أمر بحبسه لأنه متعنت»
-| **Fakir · Hanefiler** | «إن كان معسرا: قال الحنفية: لا يفرق بينه وبين زوجته بسبب الإعسار، بل يفرض القاضي لها النفقة ويأمرها بأن تستدين ليؤخذ من الزوج عند يساره» · «دليلهم: وَإِنْ كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَى مَيْسَرَةٍ (البقرة، ٢/٢٨٠)»
-| **Fakir · Şâfiî (cedîd)** | «وقال الشافعي في الجديد: إن الزوج إذا كان معسرا لزوجته حق مطالبته بفسخ الزواج» · «دليله: أَفْضَلُ الصَّدَقَةِ مَا تَرَكَ غِنًى، وَالْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى، وَابْدَأْ بِمَنْ تَعُولُ؛ تَقُولُ الْمَرْأَةُ: إِمَّا أَنْ تُطْعِمَنِي وَإِمَّا أَنْ تُطَلِّقَنِي… (البخاري، النفقات، ٢ - ٥٣٥٥)»
-% Şemanın Türkçesi: Hakimin kararından sonra koca nafaka vermekten kaçınırsa: Zengin ve açıkta malı varsa hakim onun malından karısının nafakasını karşılayacak kadarını satar. Açıkta malı yoksa ve kadın hapsini isterse hakim onu hapsedebilir; ama sadece kadının talebiyle değil, onu iki ya da üç kez mahkemeye çağırır, yine de ödemezse inatçı olduğu için hapsini emreder. Koca fakirse Hanefilere göre darlık sebebiyle aralarında tefrik yapılmaz; hakim kadına nafaka takdir eder ve kocanın eli genişleyince ondan alınmak üzere borçlanmasını emreder (delil: Bakara 2/280). Şâfiî'nin yeni görüşüne göre koca fakirse kadının nikahın feshini isteme hakkı vardır (delil: Buhârî'deki "ya beni doyur ya boşa" hadisi).
+&# Nafakanın takdiri | القول في تقدير النفقة
+& Mâlik ve Ahmed | قال مالك وأحمد
+&- «تقدر بحال الزوجين جميعا، وهو الراجح عند علماء الحنفية» [[İki eşin birlikte hâline göre takdir edilir; Hanefî alimlerine göre tercih edilen budur.]]
+& Şâfiî | قال الشافعي
+&- «تقدر بالنظر إلى حال الزوج وحده، واختار هذا الرأي من علماء الحنفية الكرخي» [[Yalnız kocanın hâline bakılarak takdir edilir; Hanefî alimlerinden Kerhî bu görüşü seçmiştir.]]
+&- Delil: «لِيُنْفِقْ ذُو سَعَةٍ مِنْ سَعَتِهِ وَمَنْ قُدِرَ عَلَيْهِ رِزْقُهُ فَلْيُنْفِقْ مِمَّا آتَاهُ اللَّهُ» (الطلاق، ٦٥/٧) · «عَلَى الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدَرُهُ» (البقرة، ٢/٢٣٦)
+^# Kocanın hükümden sonra nafakadan kaçınması | امتناع الزوج عن الإنفاق بعد حكم القاضي
+^? Kocanın durumu nedir? | 
+^  - Zengin
+^    ? Açıkta malı var mı? | إن كان موسرا
+^      - Var
+^        = bilgi | [[Hâkim onun malından karısının nafakasını karşılayacak kadarını satar.]] | إما له مال ظاهر: فللقاضي أن يبيع عليه ماله ما يقوم بنفقة زوجته
+^      - Yok
+^        = bilgi | [[Kadın isterse hâkim onu hapsedebilir; ama hemen değil: iki üç kez mahkemeye çağırır, yine ödemezse inatçı olduğu için hapsini emreder.]] | وإما لا: فإن طلبت الزوجة حبسه كان للقاضي أن يحبسه، ولكن لا بمجرد طلب الزوجة بل يدعوه إلى مجلس الحكم مرتين أو ثلاثا، وإن لم يؤد مع ذلك أمر بحبسه لأنه متعنت
+^  - Fakir
+^    ? Hangi mezhebe göre? | إن كان معسرا
+^      - Hanefiler
+^        = bilgi | [[Darlık sebebiyle aralarında tefrik yapılmaz; hâkim nafaka takdir eder ve kocanın eli genişleyince ondan alınmak üzere kadına borçlanmasını emreder.]] | قال الحنفية: لا يفرق بينه وبين زوجته بسبب الإعسار، بل يفرض القاضي لها النفقة ويأمرها بأن تستدين ليؤخذ من الزوج عند يساره | Delil: «وَإِنْ كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَى مَيْسَرَةٍ» (البقرة، ٢/٢٨٠)
+^      - Şâfiî (cedîd)
+^        = bilgi | [[Koca fakirse kadının nikahın feshini isteme hakkı vardır.]] | وقال الشافعي في الجديد: إن الزوج إذا كان معسرا لزوجته حق مطالبته بفسخ الزواج | Delil: «أَفْضَلُ الصَّدَقَةِ مَا تَرَكَ غِنًى، وَالْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى، وَابْدَأْ بِمَنْ تَعُولُ؛ تَقُولُ الْمَرْأَةُ: إِمَّا أَنْ تُطْعِمَنِي وَإِمَّا أَنْ تُطَلِّقَنِي…» (البخاري، النفقات، ٢ - ٥٣٥٥)
 * Nafaka takdiri: Mâlik ve Ahmed'e göre iki eşin hâline göre (Hanefîlerde râcih); Şâfiî'ye göre yalnız kocanın hâline göre (Hanefîlerden Kerhî de bu görüşte).
 * Hükme rağmen nafaka ödemeyen zengin koca: açıktaki malı satılır, mal açıkta değilse iki-üç kez çağrıldıktan sonra hapsedilir. Fakir koca: Hanefîlere göre tefrik yok, kadın borçlanır (ercah); Şâfiî'nin cedîd görüşüne göre kadın fesih isteyebilir.
 

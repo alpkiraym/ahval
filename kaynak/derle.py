@@ -19,6 +19,13 @@ Yazar:     index.html (depo kökü)
   * hızlı tekrar maddesi     (ünite sonundaki "Hızlı tekrar" kutusunda toplanır)
   % ek kutusu (kaynakta olmayan, onay bekleyen tamamlama)
   **kalın**  «Arapça»  [[satır içi ek]] (onay bekleyen tamamlama)
+Şema blokları (art arda gelen satırlar tek blok olur):
+  Karar ağacı (adım adım, bütün şema, kendini dene):   ^# Başlık | Arapça başlık
+     ^? Soru | Arapça            soru düğümü; seçenekleri bir girinti (2 boşluk) içeride
+     ^  - Seçenek                seçenek; altındaki soru ya da sonuç bir girinti daha içeride
+     ^    = tür | Hüküm | Arapça | Not     tür: caiz · degil · ihtilaf · bilgi
+  Açılır kart (liste niteliğindeki şemalar):            &# Başlık | Arapça başlık
+     & Grup başlığı | Arapça     &- madde
 Görüş eşleştirmesi kaynak/kisiler.txt dosyasından gelir (ünite | bölüm | görüş | görüş sahibi).
 """
 import json, re, sys
@@ -39,11 +46,93 @@ def hucre(s):
     return [c.strip() for c in s.split(' | ')] if ' | ' in s else [c.strip() for c in s.split('|')]
 
 
+def iki(x):
+    """'metin | arapça' → (metin, arapça); arapça boş olabilir."""
+    a, _, b = x.partition('|')
+    return a.strip(), b.strip()
+
+
+def agac_oku(satirlar, ad):
+    """^ ile başlayan satırları ağaca çevirir. Girinti: 2 boşluk = 1 seviye."""
+    bas = satirlar[0][1:].strip()
+    if not bas.startswith('# '):
+        hata(f'{ad}: ağaç "^# Başlık" ile başlamalı')
+    t, a = iki(bas[2:])
+    ogeler = []
+    for s in satirlar[1:]:
+        g = s[1:]
+        bos = len(g) - len(g.lstrip(' '))
+        if bos % 2:
+            hata(f'{ad}: ağaçta tek sayıda boşluk: {s[:40]}')
+        ogeler.append((bos // 2, g.strip()))
+    def dugum(i, d):
+        sev, x = ogeler[i]
+        if sev != d:
+            hata(f'{ad}: ağaçta girinti hatası: {x[:40]}')
+        if x.startswith('? '):
+            q, qa = iki(x[2:])
+            n = {'q': q.strip(), 'a': qa.strip(), 'o': []}
+            i += 1
+            while i < len(ogeler) and ogeler[i][0] == d + 1 and ogeler[i][1].startswith('- '):
+                sec = {'x': ogeler[i][1][2:].strip()}
+                i += 1
+                if i >= len(ogeler) or ogeler[i][0] != d + 2:
+                    hata(f'{ad}: "{sec["x"]}" seçeneğinin altı boş')
+                sec['n'], i = dugum(i, d + 2)
+                n['o'].append(sec)
+            if len(n['o']) < 2:
+                hata(f'{ad}: "{q}" sorusunda en az iki seçenek olmalı')
+            return n, i
+        if x.startswith('= '):
+            p = [y.strip() for y in x[2:].split(' | ')] + ['', '', '']
+            if p[0] not in ('caiz', 'degil', 'ihtilaf', 'bilgi'):
+                hata(f'{ad}: sonuç türü caiz/degil/ihtilaf/bilgi olmalı: {x[:40]}')
+            return {'s': p[0], 'x': p[1], 'a': p[2], 'not': p[3]}, i + 1
+        hata(f'{ad}: ağaçta tanınmayan satır: {x[:40]}')
+    kok, son = dugum(0, 0)
+    if son != len(ogeler):
+        hata(f'{ad}: ağaçta fazla satır: {ogeler[son][1][:40]}')
+    return {'k': 'agac', 't': t.strip(), 'a': a.strip(), 'r': kok}
+
+
+def kart_oku(satirlar, ad):
+    bas = satirlar[0]
+    if not bas.startswith('&# '):
+        hata(f'{ad}: açılır kart "&# Başlık" ile başlamalı')
+    t, a = iki(bas[3:])
+    g = []
+    for s in satirlar[1:]:
+        if s.startswith('&- '):
+            if not g:
+                hata(f'{ad}: maddeden önce "& Grup" gerekli')
+            g[-1]['m'].append(s[3:].strip())
+        elif s.startswith('& '):
+            h, ha = iki(s[2:])
+            g.append({'h': h.strip(), 'a': ha.strip(), 'm': []})
+        else:
+            hata(f'{ad}: kartta tanınmayan satır: {s[:40]}')
+    return {'k': 'kart', 't': t.strip(), 'a': a.strip(), 'g': g}
+
+
 def unite_oku(yol):
     u = {'t': '', 'intro': '', 's': [], 'ht': []}
     sec = None
-    for no, satir in enumerate(yol.read_text(encoding='utf-8').splitlines(), 1):
+    blok, bt = [], None   # şema bloğu (^ ağaç, & kart)
+    satirlar = yol.read_text(encoding='utf-8').splitlines() + ['']
+    for no, satir in enumerate(satirlar, 1):
         s = satir.rstrip()
+        tur = '^' if s.startswith('^') else '&' if s.startswith('&') else None
+        if blok and tur != bt:
+            sec['b'].append(agac_oku(blok, yol.name) if bt == '^' else kart_oku(blok, yol.name))
+            blok, bt = [], None
+        if tur:
+            if sec is None:
+                hata(f'{yol.name}:{no} bölüm başlığından önce şema')
+            if blok and s[1:].lstrip().startswith('# ') and s[:2] in ('^#', '&#'):
+                sec['b'].append(agac_oku(blok, yol.name) if bt == '^' else kart_oku(blok, yol.name))
+                blok = []
+            blok.append(s); bt = tur
+            continue
         if not s.strip():
             continue
         if s.startswith('## '):
@@ -219,8 +308,10 @@ def main():
     (KOK / 'index.html').write_text(sablon.replace('/*VERI*/', veri), encoding='utf-8')
     tanim = sum(1 for u in uniteler for s in u['s'] for b in s['b'] if b['k'] == 'd')
     tablo = sum(1 for u in uniteler for s in u['s'] for b in s['b'] if b['k'] == 'tbl')
+    agac = sum(1 for u in uniteler for s in u['s'] for b in s['b'] if b['k'] == 'agac')
+    kart = sum(1 for u in uniteler for s in u['s'] for b in s['b'] if b['k'] == 'kart')
     ht = sum(len(u['ht']) for u in uniteler)
-    print(f'{len(uniteler)} ünite, {sum(len(u["s"]) for u in uniteler)} bölüm, {tanim} tanım, {tablo} tablo, '
+    print(f'{len(uniteler)} ünite, {sum(len(u["s"]) for u in uniteler)} bölüm, {tanim} tanım, {tablo} tablo, {agac} karar ağacı, {kart} açılır kart, '
           f'{ht} hızlı tekrar maddesi, {len(eser)} görüş eşleştirmesi, {len(sorular)} el ile soru, '
           f'{sum(len(g["q"]) for g in sinav)} sınav sorusu → index.html')
 

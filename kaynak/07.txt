@@ -8,12 +8,16 @@
 - Velayet-i ale'l-mâl
 - Velayet-i ale'n-nefs ve'l-mâl
 ¶ Velayet-i ale'n-nefs de velayet-i nedb ve velayet-i icbâr olmak üzere iki kısımdır. Burada nikahla ilintili olduğu için velayet-i ale'n-nefsi inceleyeceğiz.
-### Şema: أنواع الولاية
-: الولاية = «هي حق تنفيذ القول على الغير رضي أو لم يرض» Velayet: Bir kimsenin söz ve tasarruflarının başkası namına geçerli olmasına denir.
-| Nev'i | Arapçası | Kime ait
-| **Mal üzerinde velayet** | «ولاية على المال» | «فهي للأب والجد ووصيهما أو وصي القاضي» [[Baba, dede, bunların vasisi ya da kadının tayin ettiği vasi]]
-| **Nefis üzerinde velayet** | «ولاية على النفس» | Velayet-i nedb (istihbab) ve velayet-i icbar
-| **İkisi üzerinde birden** | «ولاية عليهما جميعا» | «فهي للأب وحده فقط» [[Yalnızca babaya aittir]]
+&# Velayetin nevileri | أنواع الولاية
+& Tanım | الولاية
+&- «هي حق تنفيذ القول على الغير رضي أو لم يرض» Velayet: Bir kimsenin söz ve tasarruflarının başkası namına geçerli olmasına denir.
+& Mal üzerinde velayet | ولاية على المال
+&- «فهي للأب والجد ووصيهما أو وصي القاضي» [[Baba, dede, bunların vasisi ya da hâkimin tayin ettiği vasiye aittir.]]
+& Nefis üzerinde velayet | ولاية على النفس
+&- «ولاية ندب (استحباب)» [[Velayet-i nedb (istihbab)]]
+&- «ولاية الإجبار» [[Velayet-i icbar]]
+& İkisi üzerinde birden | ولاية عليهما جميعا
+&- «فهي للأب وحده فقط» [[Yalnızca babaya aittir.]]
 * Velayetin iki sebebi: acziyet ve ehliyetin noksanlığı. Üç nev'i: nefis üzerinde, mal üzerinde, ikisi üzerinde birden. Nefis üzerindeki velayet: nedb ve icbar.
 
 ## Velayet-i icbarın sebepleri
@@ -52,13 +56,17 @@
 * Tarafeyne göre (müftâbih) baba ya da dede evlendirirse bulûğ muhayyerliği yok, başkası evlendirirse var; Ebû Yûsuf'a göre hiçbir durumda yok. Baba/dedenin sû-i ihtiyarı biliniyor ve kefâet ya da mehirde fahiş aldatma varsa akit geçersizdir.
 * Büyük mecnun ve ma'tûhun velayeti oğullarınındır; oğullar baba ve dededen önce gelir.
 
-## Şema: ولاية الإجبار
-| | Arapçası | Not
-| **Sebepleri** | «١- الصغر (بكرا كانت أو ثيبا) عند الأحناف، والبكارة عند الشافعية» · «٢- الجنون» · «٣- العته (أصليين كانا أم طارئين)» |
-| **Mâlik** | «تثبت على الصغيرة للأب وحده» | Sadece baba
-| **Şâfiî** | «تثبت على الصغيرة لكل من الأب والجد» | Bakireyi baba zorla evlendirebilir; dul olanı rızası olmadan evlendiremez
-| **Ahmed b. Hanbel** | «روايتان: أحدهما كمالك والآخر كالشافعي» |
-| **Hanefiler** | «تثبت للأب والجد عند فقد الأب ولكل ولي عند فقد من هو أولى منه، وتثبت لابني المعتوهة والمجنونة قبل الأب والجد» | Küçük kızı baba ve dede evlendirebilir
+## Şema: velayet-i icbar
+&# Velayet-i icbar | ولاية الإجبار
+& Sebepleri | أسبابها
+&- «١- الصغر (بكرا كانت أو ثيبا) عند الأحناف، والبكارة عند الشافعية» [[Küçüklük (bakire de olsa dul da) Hanefilere göre; bekâret Şâfiîlere göre]]
+&- «٢- الجنون» [[Delilik]]
+&- «٣- العته» [[Bunaklık]] — «أصليين كانا أم طارئين» [[aslî de olsalar arızî de]]
+& Kimin icbar velayeti var? | من له ولاية الإجبار
+&- **Mâlik:** «تثبت على الصغيرة للأب وحده» [[Küçük kız üzerinde yalnız babaya ait]] — Kenar notu: sadece baba.
+&- **Şâfiî:** «تثبت على الصغيرة لكل من الأب والجد» [[Küçük kız üzerinde baba ve dedeye ait]] — Kenar notu: bakireyi baba zorla evlendirebilir; dul olanı rızası olmadan evlendiremez.
+&- **Ahmed b. Hanbel:** «روايتان: أحدهما كمالك والآخر كالشافعي» [[İki rivayet: biri Mâlik gibi, diğeri Şâfiî gibi]]
+&- **Hanefiler:** «تثبت للأب والجد عند فقد الأب ولكل ولي عند فقد من هو أولى منه، وتثبت لابني المعتوهة والمجنونة قبل الأب والجد» [[Babaya, baba yoksa dedeye, daha evlâ olan yoksa her veliye; bunak ve deli kadının oğullarına baba ve dededen önce]] — Kenar notu: küçük kızı baba ve dede evlendirebilir.
 * İcbar sebebi Hanefilere göre küçüklük (bakire ya da dul), Şâfiîlere göre bekâret; ayrıca delilik ve bunaklık.
 
 ## Buluğdan sonra küçük kız veya erkeğin evliliğinin feshi
@@ -84,12 +92,15 @@
 | **İmam Şâfiî, Ahmed b. Hanbel, bir rivayette Ebû Yûsuf** | Hayır, veli gereklidir
 | **İmam Mâlik** | Şeref ve güzellik sahibiyse veli şart; değilse rızasıyla bir yabancı evlendirebilir
 | **İmam Muhammed** | Kefâet ve mehr-i misille evlense de akit mevkuftur
-### Şema: ولاية ندب (استحباب)
-| Görüş sahibi | Arapçası | Not
-| **Ebû Hanîfe, Züfer, bir rivayette Ebû Yûsuf** | «تثبت على المرأة الحرة الكبيرة العاقلة بكرا كانت أم ثيبا» | Her akıllı, büyük kadın (bakire de olsa dul da olsa): veli şart değil, müstehaptır
-| **Şâfiî, Ahmed, diğer rivayette Ebû Yûsuf** | «إلى أنه لا يجوز زواجها إلا بولي ذكر» | Dul bile olsa velidedir
-| **Mâlik** | «إلى أنها إن كانت ذات شرف وجمال لم يصح زواجها إلا بولي ذكر، وإن لم يكن كذلك جاز أن تتولى عقد زواجها أجنبي برضاها» | Güzelse, soyluysa erkek veli evlendirmelidir
-| **Muhammed** | «لو تولت عقد زواجها بنفسها انعقدت موقوفا مطلقا، سواء كان زوجها كفئا أم لم يكن، وسواء أكان مهرها مهر المثل أم لم يكن» | Velinin onayına bağlı; onaylarsa sahihtir
+&# Velayet-i nedb (istihbab) | ولاية ندب (استحباب)
+& Ebû Hanîfe, Züfer, bir rivayette Ebû Yûsuf | عند أبي حنيفة وزفر وفي رواية عن أبي يوسف
+&- «تثبت على المرأة الحرة الكبيرة العاقلة بكرا كانت أم ثيبا» [[Hür, büyük, akıllı kadın üzerinde sabit olur; bakire de olsa dul da.]] — Kenar notu: her akıllı, büyük kadın (bakire de dul da): veli şart değil, müstehaptır.
+& Şâfiî, Ahmed, diğer rivayette Ebû Yûsuf | وذهب الشافعي وأحمد وفي رواية أخرى عن أبي يوسف
+&- «إلى أنه لا يجوز زواجها إلا بولي ذكر» [[Erkek veli olmadan evliliği caiz değildir.]] — Kenar notu: dul bile olsa velidedir.
+& Mâlik | وذهب مالك
+&- «إلى أنها إن كانت ذات شرف وجمال لم يصح زواجها إلا بولي ذكر، وإن لم يكن كذلك جاز أن تتولى عقد زواجها أجنبي برضاها» [[Şeref ve güzellik sahibiyse erkek veli olmadan evliliği sahih olmaz; değilse rızasıyla bir yabancı onu evlendirebilir.]] — Kenar notu: güzelse, soyluysa erkek veli evlendirmelidir.
+& Muhammed | وقال محمد
+&- «لو تولت عقد زواجها بنفسها انعقدت موقوفا مطلقا، سواء كان زوجها كفئا أم لم يكن، وسواء أكان مهرها مهر المثل أم لم يكن» [[Kendi nikahını kendisi kıyarsa, koca denk olsun olmasın, mehir misil olsun olmasın, akit mutlak olarak mevkuf kurulur.]] — Kenar notu: velinin onayına bağlı; onaylarsa sahihtir.
 * Velayet-i nedb: âkil, hür, büyük (bakire ya da dul) kadın üzerinde; evlendirme işini hayâ sebebiyle velisine bırakması.
 * Kadının kendi başına evlenmesi: Ebû Hanîfe/Züfer — kefâet ve mehr-i misille caiz; Şâfiî/Ahmed — veli şart; Mâlik — şerefli ve güzelse veli şart; Muhammed — mevkuf.
 * Bakirenin izni sükûtla, seyyibenin (dulun) izni sözle ya da fiille sabit olur.
@@ -101,12 +112,12 @@
 3. **Akıl:** Mecnun ve ma'tuhun velayeti caiz değildir.
 4. **Dinde muvafakat:** Müslümana gayr-i müslim veya zımminin velayeti caiz değildir. Diyelim ki bir kadının iki kardeşi var ve birisi Müslüman diğeri ise yahudi veya Hıristiyandır. Elbette bu kadına veli olacak Müslüman olan kardeşidir. Aksi de aynıdır.
 !! Bu şartların tamamının bulunması gerekir. Salah (Doğruluk) ve adalet velide aranan şartlardan değildir. Bilakis fasığın velayeti caizdir.
-### Şema: شروط الولي
-| Şart | Arapçası
-| **Hürriyet** | «أن يكون حرا»
-| **Bulûğ** | «أن يكون بالغا»
-| **Akıl** | «أن يكون عاقلا»
-| **Din birliği** | «أن يكون موافقا بمولى عليه في الدين»
+&# Velinin şartları | شروط الولي
+& Dört şart | 
+&- «أن يكون حرا» [[Hür olması]]
+&- «أن يكون بالغا» [[Baliğ olması]]
+&- «أن يكون عاقلا» [[Akıllı olması]]
+&- «أن يكون موافقا بمولى عليه في الدين» [[Velayeti altındakiyle aynı dinde olması]] — Kenar notu: din birliği.
 * Velinin dört şartı: hürriyet, bulûğ, akıl, dinde muvafakat (din birliği). Adalet şart değildir; fâsığın velayeti caizdir.
 
 ## Velayet ne ile sabit olur?
@@ -148,17 +159,18 @@
 ## Sultanın velayeti ile velayet
 ¶ Bunun delili Hz. Peygamber'in şu hadisidir: "Sultan, velisi olmayana velidir." Fakat sultanın işlerinin çokluğundan ötürü onun yerine hakimler vekillik yapar.
 
-## Şema: بم تثبت الولاية
-| Yol | Arapçası | Açıklaması
-| **Milk** | «تثبت بالملك» | «ولاية السيد على عبده وأمته»
-| **Karabet** | «تثبت بالقرابة» | «عند أبي حنيفة: تشمل عصبة وذوي الأرحام من غير العصبة "وأولو الأرحام بعضهم أولى ببعض"» · «وعند الإمامين: تثبت ولاية بالقرابة للعصبة فقط "الإنكاح إلى العصبات"»
-| **Velâ** | «تثبت بالولاء» | «مولى الموالاة»
-| **İmamet** | «تثبت بالإمامة» | «السلطان ولي من لا ولي له»
->> «بنوة» (oğulluk)
->> «أبوة» (babalık)
->> «أخوة» (kardeşlik)
->> «عمومة» (amcalık)
-
+## Şema: velayetin sabit olduğu yollar
+&# Velayet ne ile sabit olur? | بم تثبت الولاية
+& Milk ile | تثبت بالملك
+&- «ولاية السيد على عبده وأمته» [[Efendinin kölesi ve cariyesi üzerindeki velayeti]]
+& Karabet ile | تثبت بالقرابة
+&- **Ebû Hanîfe:** «تشمل عصبة وذوي الأرحام من غير العصبة "وأولو الأرحام بعضهم أولى ببعض"» [[Asabeyi ve asabe dışındaki zevi'l-erhamı kapsar.]]
+&- **İmameyn:** «تثبت ولاية بالقرابة للعصبة فقط "الإنكاح إلى العصبات"» [[Karabetle velayet yalnız asabeye aittir.]]
+&- Sıra: «١- بنوة» (oğulluk) › «٢- أبوة» (babalık) › «٣- أخوة» (kardeşlik) › «٤- عمومة» (amcalık)
+& Velâ ile | تثبت بالولاء
+&- «مولى الموالاة» [[Mevle'l-muvâlât]]
+& İmamet ile | تثبت بالإمامة
+&- «السلطان ولي من لا ولي له» [[Sultan, velisi olmayanın velisidir.]]
 ## Velilerin tertibi
 ¶ Yukarıda da çokça işaret edildiği gibi sıralama şöyledir:
 >> **Karabet:** Bunlar iki derecedir: a) asabe-i nesebiyye b) asabe-i sebebiyye

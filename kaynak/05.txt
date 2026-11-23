@@ -78,16 +78,21 @@
 * Yeterli emme: Şâfiî ve Hanbelî fasılalı 5 emme; Hanefî mideye ulaşan bir damla; Mâlikî en az 3 emme. Süre: cumhur 2 yıl, Ebû Hanîfe 2,5, Züfer 3, Hanefî mezhebi 2; Zâhirîler ve Hz. Âişe'ye göre yaş önemsiz.
 * Süt sahibi kadın ve canlı olmalı; başka süte karışmışsa çok olmalı, pişirilmemeli; kaba sağılan süt de haramlık doğurur.
 
-## Şema: المحرمات (ebedî sebepler)
-| Sebep | Kimler | Delil / not
-| «النسب (القرابة)» · «أصوله» | Usulü | «حرمت عليكم أمهاتكم…»
-| «النسب (القرابة)» · «فروعه» | Furu'u | «… وبناتكم…»
-| «النسب (القرابة)» · «فروع أبويه» | Anne-babasının furu'u | «… وأخواتكم» / «وبنات الأخ» / «وبنات الأخت»
-| «النسب (القرابة)» · «فروع أجداده وجداته بدرجة واحدة» | Dede ve ninelerinin bir derece furu'u: hala, teyze, (kadın için) amca, dayı |
-| «الرضاع» | Süt yoluyla haram olanlar | «وأمهاتكم اللاتي أرضعنكم…» · «يحرم من الرضاع ما يحرم من النسب»
-| «المصاهرة» · «فروع زوجته التي دخل بها» | Duhul ettiği eşinin furu'u | «وربائبكم اللاتي في حجوركم من نسائكم اللاتي دخلتم بهن»
-| «المصاهرة» · «أصول زوجته» | Kaynana | «…وأمهات نسائكم…»
-| «المصاهرة» · «زوجات أصوله» | Üvey anne | «ولا تنكحوا ما نكح آباؤكم…»
-| «المصاهرة» · «زوجات فروعه» | Gelin | «…وحلائل أبنائكم…»
-@ ملاحظة / القاعدة: دخول الأمهات يُحَرِّمُ البنات، ونِكاح البنات يُحَرِّمُ الأمهات | [[Annelere duhul kızları haram kılar; kızları nikahlamak anneleri haram kılar.]]
+## Şema: ebedî evlilik engelleri
+&# Ebedî haramlık sebepleri | أسباب المحرمة المؤبدة
+& Neseb (karabet) · erkeğe dört nevi kadın haramdır | النسب (القرابة)
+&- «أصوله» [[Usulü]] — «حرمت عليكم أمهاتكم…»
+&- «فروعه» [[Furu'u]] — «… وبناتكم…»
+&- «فروع أبويه» [[Anne-babasının furu'u]] — «… وأخواتكم» / «وبنات الأخ» / «وبنات الأخت»
+&- «فروع أجداده وجداته بدرجة واحدة» [[Dede ve ninelerinin bir derece furu'u]] — Kenar notu: hala-teyze, amca-dayı.
+& Rada' (süt emme) | الرضاع
+&- «وأمهاتكم اللاتي أرضعنكم…»
+&- «يحرم من الرضاع ما يحرم من النسب» [[Neseb yoluyla haram olan süt yoluyla da haram olur.]]
+& Musahara | المصاهرة
+&- «فروع زوجته التي دخل بها» [[Duhul ettiği eşinin furu'u]] — «وربائبكم اللاتي في حجوركم من نسائكم اللاتي دخلتم بهن»
+&- «أصول زوجته» [[Eşinin usulü]] — «…وأمهات نسائكم…» — Kenar notu: kaynana.
+&- «زوجات أصوله» [[Usulünün eşleri]] — «ولا تنكحوا ما نكح آباؤكم…» — Kenar notu: üvey anne.
+&- «زوجات فروعه» [[Furu'unun eşleri]] — «…وحلائل أبنائكم…» — Kenar notu: gelin.
+& Kaide | ملاحظة / القاعدة
+&- «دخول الأمهات يُحَرِّمُ البنات، ونِكاح البنات يُحَرِّمُ الأمهات» [[Annelere duhul kızları haram kılar; kızları nikahlamak anneleri haram kılar.]]
 * Kaide: annelere duhul kızları, kızlarla nikah anneleri haram kılar.
