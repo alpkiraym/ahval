@@ -1,0 +1,58 @@
+# Görüş eşleştirme listesi (eşleştirme oyunu, "Bu görüş kimindir?" soruları ve sözlüğün Görüşler sekmesi).
+# Biçim: <ünite no> | <bölüm başlığı (ünite dosyasındaki ## başlıkla aynı)> | <görüş> | <görüş sahibi>
+# Görüşlerde virgül kullanılmaz. Bütün bilgiler ünite metinlerinden alınmıştır.
+1 | Evlilik akdi ve bölümleri | Bir kişi hem icabı hem kabulü (bir tarafın velisi diğerinin vekili olarak) üstlenebilir | Hanefiler
+1 | Evlilik teklifi yapılacak kadına bakma meselesi | Talip olunan kadının edep yerleri hariç bütün bedenine bakılabilir | Dâvûd ez-Zâhirî
+1 | Evlilik teklifi yapılacak kadına bakma meselesi | Talip olunan kadına bakmak onun izniyle caizdir — izinsiz mekruhtur | İmam Mâlik
+1 | Evlilik teklifi yapılacak kadına bakma meselesi | Talip olunan kadının yüzüne ellerine ve ayaklarına bakılabilir | Hanefilerin bir kısmı
+1 | Nişanlılıkta verilen hediyelerin hükmü ve nişanlılıktan dönme durumu | Nişanı kim bozarsa bozsun erkek verdiği hediyelerin hepsini (yoksa kıymetini) geri alır | Şâfiîler
+1 | Nişanlılıkta verilen hediyelerin hükmü ve nişanlılıktan dönme durumu | Nişanı erkek bozduysa hediyeleri geri alamaz — kadın bozduysa geri alır | Mâlikîler
+1 | Nişanlılıkta verilen hediyelerin hükmü ve nişanlılıktan dönme durumu | Erkek nişan hediyelerinin hiçbirini geri alamaz çünkü bunlar hibe hükmündedir | Hanbelîler
+2 | Evliliğin in'ikad (yürürlük) şartları | Kabulün icaptan hemen (fevrî olarak) gelmesi şarttır | Şâfiîler
+2 | Veli şartı | Akıl-baliğ kadın velisiz kendisi evlenebilir — velayet büyük kadın için sıhhat şartı değildir | Ebû Hanîfe
+2 | Veli şartı | Gelinin asabeden en yakın erkek akrabasının nikahta bulunması sıhhat şartıdır | İmam Şâfiî ve Ahmed b. Hanbel
+2 | Evliliğin nefaz şartları | Fuzûlînin kıydığı nikah batıldır | Şâfiîler
+3 | Muvakkat (geçici) nikah | Muvakkat nikahta akit sahih şart batıldır — eşler birbirine mirasçı olur | İmam Züfer
+3 | Şiğar nikahı | Şiğar nikahı duhulden önce de sonra da batıldır | İmam Şâfiî
+3 | Şiğar nikahı | Şiğar nikahı duhulden önce feshedilir — duhulden sonra feshedilmez | İmam Mâlik
+4 | Sonuç (eser) anlamında nikah akdinin hükmü | Batıl evliliği bile bile sürdürene had uygulanmaz çünkü akit şüphesi vardır | Ebû Hanîfe
+5 | Musahara - sıhriyyet | Zina ile sıhriyyet oluşmaz — zina edilen kadının kızıyla evlilik kerahetle caizdir | İmam Şâfiî
+5 | Rada' (süt emme) | Süt hısımlığı için fasılalı beş emme gerekir | İmam Şâfiî (ve Hanbelîler)
+5 | Rada' (süt emme) | Mideye ulaşan bir damla süt bile süt hısımlığı doğurur | Hanefiler
+5 | Rada' (süt emme) | Süt hısımlığı için en az üç emme yeterlidir | Mâlikîler
+5 | Rada' (süt emme) | Emme süresi iki buçuk yıldır | Ebû Hanîfe
+5 | Rada' (süt emme) | Emme süresi üç yıldır | İmam Züfer
+5 | Rada' (süt emme) | Süt emmede yaşın bir önemi yoktur | Zâhirîler ve Hz. Âişe
+6 | Başkasının nikahındaki kadınla evlenmek | Zina eden kadın hamileyse doğum yapmadan başkasıyla evlenemez | Ebû Yûsuf ve Züfer
+6 | Başkasının nikahındaki kadınla evlenmek | Zina eden kadınla başkası evlenecekse kadının iddet beklemesi gerekir | Mâlik ve Hanbel
+6 | Üç talakla boşadığı kadınla evlenmek | Lian geçici bir evlenme engelidir — ayrılık için hakimin tefrik kararı gerekir | Ebû Hanîfe ve İmam Muhammed
+6 | Erkeğin halihazırda dört kadınla evli olması | Bain talakla boşanan dördüncü eşin iddeti içinde beşinci kadınla evlenmek caizdir | İmam Şâfiî
+6 | Kadının semavi bir dine mensup olmaması | Sâbiîler de Ehl-i kitaptır — Hristiyanlığın bir koludur | Ebû Hanîfe
+6 | Kadının semavi bir dine mensup olmaması | Bugün Müslüman erkek de gayrimüslim kadınla evlenmemelidir | Karadâvî
+6 | Erkeğin hür kadından sonra cariye ile evliliği meselesi | Cariye ile ibtidaen evlenmek caizdir ama hür kadının üzerine cariye ile evlenmek haramdır | Ebû Hanîfe
+6 | Erkeğin hür kadından sonra cariye ile evliliği meselesi | Kadın kısırsa hür kadınla evli erkek cariye ile evlenebilir | Mâlikîler
+6 | Gayr-i müslimlerin birbiri ile evlenmesi | Gayrimüslim eşlerin İslam mahkemesine başvurusu için karı-kocadan birinin başvurması yeterlidir | İmam Muhammed
+7 | Velayet-i icbarın sebepleri | Küçük dula icbar velayeti yoktur — büyük bekâr kıza vardır | İmam Şâfiî
+7 | Velayet-i icbara sahip olan kişiler | Küçüğün icbar velisi yalnız babadır | Mâlikîler
+7 | Velayet-i icbara sahip olan kişiler | Küçüğün icbar velisi baba ve dededir — bunlar yoksa bulûğa kadar beklenir | Şâfiîler
+7 | Velayet-i icbara sahip olan kişiler | Küçüğü kim evlendirirse evlendirsin bulûğdan sonra muhayyerlik hakkı yoktur | Ebû Yûsuf
+7 | Velayet-i nedb / istihbab ve ne zaman sabit olur | Şeref ve güzellik sahibi kadın ancak veliyle evlenebilir — değilse rızasıyla bir yabancı evlendirebilir | İmam Mâlik
+7 | Velayet-i nedb / istihbab ve ne zaman sabit olur | Kadın kefâet ve mehr-i misil şartlarıyla evlense de akit mevkuftur | İmam Muhammed
+7 | Karabet yolu ile velayet | Asabe dışındaki akrabalar (zevi'l-erham) da karabet yoluyla veli olabilir | Ebû Hanîfe
+7 | Karabet yolu ile velayet | Karabet yoluyla velayet yalnız asabeye aittir (el-inkâhu ile'l-asabât) | İmameyn
+7 | Velinin azli | Şartlar tamken veli evliliği engellerse velayet hakime geçer | Hanefi mezhebinin mutemed görüşü
+8 | Evlilikte kefaet | Kefâet yalnızca din konusundadır | Mâlik b. Enes ve Süfyân es-Sevrî
+8 | Evlilikte kefaet | Kefâet din ve san'at konusundadır | Ahmed b. Hanbel
+8 | Evlilikte kefaet | Kefâet din neseb ve mal konusundadır | İbn Ebî Leylâ
+8 | Evlilikte kefaet | Kefâet din neseb san'at hürriyet ayıpsızlık zenginlik ve yaş konusundadır | İmam Şâfiî
+8 | Hanefilerin ziyade delillerinin beyanı | Diyanet (salah) kefâetle ilgili değildir çünkü kefâet dünya işlerindendir | İmam Muhammed
+8 | Hanefilerin ziyade delillerinin beyanı | Maldaki kefâet peşin mehri ve bir aylık nafakayı vermeye güç yetirmektir (müftâbih) | Ebû Yûsuf
+10 | Mehrin en azı ve en çoğu | 10 dirhemden az mehir tesmiye edilirse mehr-i misil gerekir | İmam Züfer
+10 | Mehrin en azı ve en çoğu | Mehir altından dinarın dörtte birinden gümüşten üçte birinden az olamaz | İmam Mâlik
+10 | Mehrin en azı ve en çoğu | Mehrin en azının sınırı yoktur — semen olan her şey mehir olur | İmam Şâfiî ve Ahmed b. Hanbel
+10 | Kadına müt'a ne zaman gereklidir? | Müfevviza ile akitten sonra mehir belirlenip duhulden önce boşanırsa mehrin yarısı gerekir | İmam Şâfiî
+11 | Kocanın kadının nafakasını peşin vermesi | Peşin verilen bir yıllık nafaka boşanınca geri istenemez | Şeyhayn
+11 | Kocanın kadının nafakasını peşin vermesi | Peşin verilen nafaka boşanınca geri istenebilir çünkü hapsolma kalmamıştır | İmam Şâfiî ve Muhammed
+11 | Nafakanın takdiri hususundaki görüş / kocanın nafakadan imtina' durumu | Nafaka iki eşin birlikte hâline göre takdir edilir | Mâlik ve Ahmed
+11 | Nafakanın takdiri hususundaki görüş / kocanın nafakadan imtina' durumu | Nafaka yalnız kocanın hâline göre takdir edilir | İmam Şâfiî (Hanefîlerden Kerhî de)
+11 | Nafakanın takdiri hususundaki görüş / kocanın nafakadan imtina' durumu | Fakir kocanın karısı nikahın feshini isteyebilir | İmam Şâfiî (cedîd)

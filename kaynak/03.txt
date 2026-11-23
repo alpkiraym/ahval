@@ -1,0 +1,79 @@
+# Sîgalar; Müt'a, Muvakkat ve Şiğar Nikâhları
+> Nikah akdinde kullanılan sîgalar (müneccez, muallak ve şart izafe edilen akit) ve hükümleri; müt'a, muvakkat (geçici) ve şiğar nikâhları.
+
+## Nikah akdinde kullanılan sigalar ve hükümleri
+### 1. Akd-i müneccez
+: Akd-i müneccez = İcab ve kabulün meydana gelmesinde kullanılan ifadelere ilave yapılmadan mutlak siga ile gerçekleştirilen şartsız bir akid çeşididir.
+! Akit esnasında, taraflar akdi ilerideki bir olaya bağlamamışsa ya da belli bir vakte izafe etmemişse bu akide müneccez akit denir. Kesinlik içerir, muhayyerliğe yer yoktur.
+~ Erkeğin, kıza "Şu miktar mehre benimle evlen" diye veya mehir zikretmeden yaptığı teklife kızın "kabul ettim" vb. lafızları kullanmasıdır.
+¶ Evliliğin şartlarını taşıyorsa bu akid sahih olup, mehir zikredilmişse, mehr-i müsemma, zikredilmemiş ise mehr-i misil geçerli olur.
+### 2. Akd-i muallak
+: Akd-i muallak = İcab veya kabulün veya da ikisinin meydana gelmesi bir şarta ve o şartın gerçekleşmesine bağlı olan akid çeşididir.
+~ Bir kişinin "eğer bana filan yere yolculuğumda arkadaşlık yaparsan kızımı seninle evlendiririm" şeklindeki şartlı teklifine muhatabın "kabul ettim" derse akid "eğer" şart edatı ile şarta bağlanmış olur.
+- **Şart akid esnasında var:** Örneğin erkeğin kıza, "Eğer bakireysen seninle evlenirim" demesine karşılık kız da "kabul ettim" dese ve o sırada da bakire olsa akit sahih ve tamdır. Çünkü burada ta'lik (şart) sûri olup biçimseldir. Ayrıca uygulamada akid müneccez gibidir.
+- **Şart akid esnasında yok:** Taraflar akid meclisinden ayrılmadan evvel şart gerçekleşirse örneğin, erkeğin kıza "şu kadar mehre seninle evlenmek istiyorum" demesi üzerine kızın "eğer abim bu mehre razı olursa evlenirim" demesi; bunun sonucunda da abinin aynı mecliste bu teklife "bu mehri kabul ettim" diyerek onay vermesi ile akid sahih ve tam olur. Bu durumda da akid müneccez akid gibidir.
+- **Şart akid esnasında da taraflar meclisten ayrılmadan önce de yok:** Eğer bu şart gelecekte vukuu mümkün olanlardan ise (esasen bu şartın gerçeklemesi kadar gerçekleşmemesi de ihtimal dahilindedir), örneğin, erkek kıza "bahar gelip yağmur yağdığı zaman seninle şu kadar mehre evlenmek isterim" deyip kız da "kabul ettim" derse bu akid sahih değildir.
+! Bu şart gerçekleşebilir olsa da diğer ihtimalin yani bahar gelse de yağmurun yağmama ihtimalinin de varlığı göz ardı edilmemelidir.
+- **Şart gelecek zamana bağlı:** Örneğin, erkek "Falan ay geldiği zaman seninle evlenirim" dese de kız "kabul ettim" derse bu akid de sahih değildir.
+!! Bu son ikisinin sahih olmamasının gerekçesi şu kuraldır: "Temlik akidleri (evlilik akdi de bundandır) tehlikeli ta'liği kabul etmezler."
+### 3. Akd-i muzâf / şartın izafe edildiği akid
+: Akd-i muzâf = Akid gerçekleştikten sonra kendisine şart ilave edilmiş akittir.
+~ Erkeğin kadına "seninle harcamaman şartıyla şu kadar mehre evlendim" demesine kadının "kabul ettim" demesidir. Dikkat edilirse şart akdin sonuna eklenmiştir.
+¶ Bu durumda akd-i muzafın akd-i muallaktan farkı akid esnasında akdin var olmasıdır. Bu akdin sahih olması akde eklenen şartın durumuna göre değişir:
+- Eğer izafi şart, akdin iktizası (gereği), mülaimi (uygunluğu), şer'i oluşu, örfe münasipliğinden ise sahihtir, şart yerine getirilmelidir. Örneğin, erkek "Evinden izinsiz veya özürsüz çıkmaman şartı ile seninle evlendim" diye akde şart izafe etse kadın bu şartı yerine getirmek zorundadır. Çünkü bu akdin gereklerindendir.
+- Eğer izafi şart yukarıdaki gibi değilse akid sahih şart batıldır yerine getirilemez. Örneğin erkek "Senin nafakanı vermemem şartı ile seninle evlendim" diye akde şart izafe etse bu şart yerine getirilmez.
+| Sîga | Durum | Hükmü
+| **Müneccez** | Şartsız, mutlak sîga | Sahih (mehir zikredilmişse mehr-i müsemma, edilmemişse mehr-i misil)
+| **Muallak** | Şart akid esnasında var | Sahih; müneccez gibi
+| **Muallak** | Şart meclis dağılmadan gerçekleşti | Sahih; müneccez gibi
+| **Muallak** | Şart ne akid esnasında ne meclis dağılmadan var | Sahih değil
+| **Muallak** | Şart gelecek zamana bağlı | Sahih değil
+| **Muzâf** | Şart akdin gereği, uygun, şer'i ya da örfe münasip | Akit de şart da sahih
+| **Muzâf** | Şart böyle değil | Akit sahih, şart batıl
+### Şema: أنواع صيغة الزواج
+| Sîga | Tanımı | Hükmü
+| «١- العقد المنجز» | «هو صدور الصيغة عن العاقدين مطلقة غير مقيدة بشيء أصلا» | «حكمه: صحيح»
+| «٢- العقد المعلق» | «هو الذي علق فيه الإيجاب والقبول أو كلاهما على مضمون جملة أخرى بأداة الشرط» | «إن كان الشرط الذي علقت الصيغة عليه واقعا بالفعل حين العقد فالعقد صحيح» · «وإن كان الشرط الذي علقت الصيغة عليه مستقبلا فالعقد غير صحيح»
+| «٣- العقد الذي أضيف إليه شرط» | «هو العقد الذي صدرت فيه الصيغة أولا غير معلقة على شرط ثم أضيف إليه شرط» | «حكمه: العقد والشرط صحيح معا إن كان الشرط مما يقتضيه العقد أو مما يلائمه أو مما ورد به الشرع أو مما جرى عليه العرف، وإن لم يكن كذلك فالشرط باطل والعقد صحيح، وعند الشافعي العقد باطل أيضا»
+@ ملاحظة: عقود التمليكات لا تقبل التعليق على الخطر | [[Temlik akitleri, gerçekleşip gerçekleşmeyeceği belli olmayan bir şarta bağlanmayı kabul etmez.]]
+% Şemanın Türkçesi: Müneccez akit, sîganın âkidlerden hiçbir şeyle kayıtlanmadan mutlak olarak çıkmasıdır; hükmü sahihtir. Muallak akit, icab ve kabulün ya da ikisinin şart edatıyla başka bir cümlenin içeriğine bağlanmasıdır; bağlanılan şart akit anında fiilen gerçekleşmişse akit sahih, gelecekte ise sahih değildir. Şart izafe edilen akitte sîga önce şarta bağlanmadan çıkar, sonra şart eklenir; şart akdin gereği, ona uygun, şeriatin getirdiği ya da örfün cari olduğu bir şeyse akit de şart da sahihtir; değilse şart batıl akit sahihtir; Şâfiî'ye göre ise akit de batıldır.
+! Muallak akitte önce şart, sonra akit gelir; muzâf akitte önce akit, sonra şart.
+~ "İhtisas okursan evlenirim" (zaten okuyor): şart akit esnasında var, akit sahih. "İhtisas okuyacaksan evlenirim" (henüz okumuyor): şart henüz yok, akit sahih değil.
+! Şart izafe edilen akitte: 1- Şart akdin muktezasına uygun değilse (ör. "çalışmayacaksın" gibi) akit geçerli, şart batıl. 2- Muktezaya uygunsa şart da akit de geçerli.
+! Meclis dağılmadan (şartın gerçekleştiği) haber gelirse yine geçerlidir.
+* Müneccez akit: şartsız, mutlak sîga; sahihtir.
+* Muallak akit: şart akit anında varsa ya da meclis dağılmadan gerçekleşirse sahih; gelecekte gerçekleşecekse ya da gelecek zamana bağlıysa sahih değil (temlik akitleri tehlikeli ta'liki kabul etmez).
+* Muzâf akit (şart sonradan eklenir): şart akdin gereği/uygun/şer'i/örfî ise ikisi de sahih; değilse akit sahih, şart batıl; Şâfiî'ye göre akit de batıl.
+
+## Müt'a nikahı
+: Müt'a nikahı = Bir kadını belli bir mehir karşılığı geçici bir süre için nikahlamak demektir.
+~ Erkeğin kadına "Seninle iki dinara bir kaç gün istifade etmek (istimta') istiyorum" demesine kadının "kabul ettim" demesidir.
+¶ Bu nikahta sürenin belirlenmesi ve şahitlerin varlığı şart değildir. Bilakis mübhem bir zamanın zikredilmesi yeterlidir. Ayrıca istimta' lafzı kullanılır.
+! İslam'ın ilk yıllarında bu nikah caiz olsa da daha sonra ittifak-ı ulema ile nehyedilmiştir. Şia bu nikahı caiz görür ve belirli kurallar dahilinde halen uygular.
+* Müt'a: belli mehirle geçici süre için nikah; süre belirlemek ve şahit şart değil, istimta' lafzı kullanılır. İlk yıllarda caizdi, sonra ittifakla nehyedildi; Şia caiz görür.
+
+## Muvakkat (geçici) nikah
+: Muvakkat (geçici) nikah = Şahitler huzurunda belli bir süre için evlilik ifade eden sözlerle yapılan nikâha denir.
+~ Erkeğin kadına "Seninle şu kadar mehre, bir ay süreyle evlenmek istiyorum" demesi üzerine kadının "kabul ettim" demesidir.
+¶ Bu evliliğin şahitlerin huzurunda, belirli bir süre belirtilerek; ayrıca nikah ve zevac lafızları kullanılarak gerçekleşmesi onu müt'a nikahından ayıran özellikleridir. (şahit + süre + lafız).
+¶ Hanefilere göre muvakkat nikah müt'a gibi batıldır. Eşlerden biri ölse diğeri varis olamaz. İmam Züfer ise bu nikahı kendisine şart izafe edilip mülaim ve şer'i olmayan akde benzetir. Yani akid sahih, şartı batıldır. Birbirlerine mirasçı olurlar.
+| | Müt'a nikahı | Muvakkat nikah
+| **Şahit** | Şart değil | Şahitler huzurunda
+| **Süre** | Belirlenmesi şart değil, mübhem zaman yeter | Belirli süre
+| **Lafız** | İstimta' lafzı | Nikah ve zevac lafızları
+| **Hükmü** | Batıl (ittifakla nehyedildi) | Hanefilere göre batıl, miras yok; Züfer'e göre akit sahih şart batıl, mirasçı olurlar
+* Muvakkat nikahı müt'adan ayıran: şahit + süre + nikah/zevac lafzı. Hanefilere göre batıldır; Züfer'e göre akit sahih şart batıldır.
+
+## Şiğar nikahı
+: Şiğar nikahı = İki kadının mehirsiz olarak biri diğerine mukabil olmak üzere iki erkeğe nikahlanmasına denir.
+~ İki erkeğin bacılarını mehirsiz olarak değiş tokuş yoluyla birbirlerine nikah etmeleri gibi.
+¶ İşte nikahı haram kılan da mehir yerine ikame edilen kadınlardan faydalanma amacıdır. İslam şeriati bunu nehyetmiştir.
+- **İttifak var:** Mehir belirlenmese de akid geçerlidir. Mehrin hiç belirlenmediği akitler gibi mehr-i misil lazımdır.
+- **İhtilaf var:** Mehir yerine ikame edilen kadından faydalanma hususu tartışmalıdır. İmam Şafii'ye göre duhul öncesi ve sonrası farketmez böyle bir evlilik batıldır. İmam Malik'e göre duhulden önce feshedilir ama sonra feshedilmez. Ebu Hanife ve ona tabi olanlara göre bu muzaf akde benzer ki eklenen şart akde uygun değilse akid sahih şart batıldır. Eşlerden her biri için mehr-i misil gerekir. Bunun gerekçesi şudur: Mehir olarak zikredilen kadından istimta' mehre elverişli bir şey değildir. Bilakis mehir mütekavvim maldan olmalıdır. İstimta' ise mal değildir. Zira insan mübadele konusu olmayacak ölçüde değerlidir.
+: Mütekavvim mal = Mali değeri olan şey. Dinen yararlanılması mubah olan veya bilfiil ihraz edilmiş mal anlamında fıkıh terimi.
+| Mezhep | Şiğar nikahının hükmü
+| **İmam Şâfiî** | Duhulden önce de sonra da batıl
+| **İmam Mâlik** | Duhulden önce feshedilir, sonra feshedilmez
+| **Ebû Hanîfe ve ona tabi olanlar** | Muzâf akde benzer: akit sahih, şart batıl; her biri için mehr-i misil gerekir
+* Şiğar: iki kadının mehirsiz olarak birbirine karşılık iki erkeğe nikahlanması. Mehir belirlenmese de akit geçerli, mehr-i misil lazım (ittifak).
+* Şiğarın hükmü: Şâfiî — her durumda batıl; Mâlik — duhulden önce feshedilir; Ebû Hanîfe — akit sahih şart batıl, her birine mehr-i misil (istimta' mal değildir, mehir mütekavvim mal olmalıdır).

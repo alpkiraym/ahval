@@ -1,0 +1,103 @@
+# Evlilikte Vekâlet ve Kefâet
+> Nikahta vekâlet ve vekilin müvekkile muvafakati ya da muhalefeti; kefâet (denklik): mezheplere göre unsurları, Hanefilerin altı unsuru, kefâet hakkının sahibi, şart koşulduğu vakit ve sonuçları.
+
+## Nikahta vekalet
+: Vekalet = Bir kimsenin, kendisinin de yapabileceği muamelattan bir işini başkasına devretmesi, onu kendi yerine ikame etmesi.
+¶ Nikah akdinde vekil, elçi gibidir. Vekil tayin edecek kişi hangi konuda vekil tayin ediyorsa o konuda tasarruf hakkına sahip olmalıdır.
+: Velayet-i kasıra = Kişinin (yapacağı hukuki işlemin) doğrudan kendisiyle sınırlı kaldığı velayettir; asıldır.
+: Velayet-i müteaddiye = Başkaları hakkında (hukukî işlem yapma yetkisinin) bulunduğu velayettir; fer'idir.
+! "Beyyine, hüccet-i müteaddiye ve ikrar, hüccet-i kâsıradır." (Mecelle, 79) Hüccet-i müteaddiye: Etkisini sadece ilgili şahısta göstermeyip, başkasının hakkına da sirayet eden delil. Hüccet-i kâsıra: Etkisini sadece ilgili şahısta gösteren başkasının hakkına sirayet etmeyen delil.
+¶ Şimdiye kadar evliliğin sıhhat şartlarını, akdin kendi başına yapılma şartlarını gördük. Pekiştirmek gerekirse kişi eğer küçük, mecnun, ma'tuh olursa kendi başına evlenemediği için vekil de tayin edemez. Vekile hacet kalmadan velisi evlendirir.
+¶ Vekil tayin etmede kitabet şart değildir. Müvekkilin şahit tutmasının şart olmadığı gibi. Bununla beraber müvekkilin, bu vekaleti, evliliğin iptalini kastetmekle inkar etmesi imkan dahilinde olduğu için müvekkilin şahid göstermesi müstehaptır.
+* Nikahta vekil elçi gibidir; vekil tayin eden o konuda tasarruf ehli olmalıdır (küçük, mecnun, ma'tûh vekil tayin edemez, velisi evlendirir). Vekâlette yazı ve şahit şart değil; şahit tutmak müstehaptır.
+
+## Vekilin başkasını vekil tayin etmesi
+¶ Müvekkil, vekilin, başkasına vekalet verme iznini ya sarahaten verir ya da bu hususta onu men eder; ya onu kendi görüşüyle baş başa bırakır ya da bu sayılanlar hakkında sükut eder. İzin vermesi durumunda ya bu kişiyi tayin eder ya vekilin kendi görüşüne bırakır ya da sükut eder.
+- Müvekkil, vekilin, başkasına vekalet vermesine izin vermiş ve tayin edilen kişiyi de onamış ise bu durumda vekil, ya akdi doğrudan kendisi üstlenir ya da belirlenen kişiyi vekil yapar.
+- Müvekkil, vekilin, başkasına vekalet vermesine izin vermiş ama kişinin onanmasını vekile bırakmışsa bu durumda vekil, ihtiyarına göre hareket eder.
+- Müvekkil, vekilin, başkasına vekalet vermesini men'etmişse akdi bizzat kendisi üstlenir. Mesela "sadece seni vekil tayin ettim" dese artık o akdi başkası gerçekleştiremez.
+* Müvekkil izin verip kişiyi belirlediyse vekil ya kendisi yapar ya o kişiyi vekil yapar; seçimi vekile bıraktıysa vekil ihtiyarına göre davranır; men ettiyse ("sadece seni vekil tayin ettim") akdi bizzat yapar.
+
+## Vekilin sorumluluğu, muvafakati ve muhalefeti
+¶ Yukarıda da ifade ettiğimiz gibi "el-vekil ke'ssefir fi kulli mes'ele" kaidesince vekil elçi gibi sorumsuzdur. Bunun istisnası, vekil, mehrin kamil olması hususunda kadına kefil olmuşsa bu konuda sorumludur. Çünkü vekil, kefil konumundadır.
+¶ Vekil, vekil kılındığı konuda müvekkile muhalefet de muvafakat da edebilir. Muhalefetinde ya "muhalefe ilâ hayr" ya da "muhalefe ilâ şer" olur.
+~ **Muvafakatına dair örnek:** Müvekkil, "Beni falanın kızı falan ile 100 dinar mehir ile evlendir" diyor. Vekil de bunu yapıyor.
+~ **Muhalefe ila hayr'a örnek:** Müvekkil, "Beni falanın kızı falanca ile 100 dinar mehir ile evlendir" diyor. Vekil de müvekkilini falanca kız ile 80 dinara evlendiriyor. Bu ikisinde akidler müvekkil adına nafizdir.
+~ **Muhalefe ila şer'e örnek:** Vekil, müvekkilin istediği kızla değil de başkasıyla evlendirirse ya da 100 dinar mehir yerine 120 dinar mehirle evlendirirse bu akid fuzulinin akdi gibidir. Dolayısıyla müvekkilinin icazeti beklenir.
+| Vekilin tutumu | Örnek | Hükmü
+| **Muvafakat** | 100 dinar istendi, 100 dinara evlendirdi | Müvekkil adına nafiz
+| **Muhalefe ilâ hayr** | 100 dinar istendi, 80 dinara evlendirdi | Müvekkil adına nafiz
+| **Muhalefe ilâ şer** | Başka kızla ya da 120 dinara evlendirdi | Fuzûlînin akdi gibi; müvekkilin icazeti beklenir
+* "El-vekil ke's-sefîr": vekil elçi gibi sorumsuzdur; mehre kefil olmuşsa sorumludur.
+* Muvafakat ve hayra muhalefette akit müvekkil adına nafizdir; şerre muhalefette fuzûlî akdi gibi müvekkilin icazetine kalır.
+
+## Evlilikte kefaet
+: Kefaet = Erkeğin kıza denk olmasıdır. Bundan dolayı da ne kızın ne de kızın ailesinin kınanmamasıdır.
+¶ Tanımdan da anlaşılacağı gibi kefaet kadının lehine, kadın tarafından erkekte aranan bir şarttır. Kefaet akid esnasında muteberdir.
+- **Malik b. Enes ile Süfyan es-Sevri'ye göre** kefaet din konusundadır.
+- **Ahmed b. Hanbel'e göre**, din ve san'at konusundadır.
+- **İbn-i Ebi Leyla'ya göre**, din, neseb ve mal konusundadır. Ebu Hanife'den de bu görüş rivayet edildi.
+- **İmam Şafii'ye göre**, din, neseb, san'at, hürriyet, ayıplardan hali olma, yesar (zenginlik) ve yaş konusundadır.
+- **Ebu Hanife'ye göre**, neseb, İslam, hürriyet, mal, diyanet, meslek (hirfe) konusundadır.
+! Ebû Hüreyre'nin rivayet ettiğine göre Benî Beyâza kabilesinin azatlı hacamatçısı Ebû Hind, Hz. Peygamber'i hacamat etmişti. Hz. Peygamber "Ey Beni Beyâza, Ebû Hind'i evlendirin, onunla evlenin" buyurdu. Hz. Peygamber, bir kabilenin azatlısı ve o zaman insanlar nazarında düşük bir mesleğe sahip bir kişinin, kendinden üst konumda bulunan bir kadın ile evlendirilmesini istemekte ve denkliğe itibar etmemektedir. Şayet kefâet muteber olsaydı, Allah resûlü bunu emretmezdi. [[Mâlik ve Süfyân es-Sevrî]] bu hadis ile kefaetin sadece din hususunda olduğuna delil getirdiler.
+| Görüş sahibi | Kefâetin unsurları
+| **Mâlik b. Enes ve Süfyân es-Sevrî** | Din
+| **Ahmed b. Hanbel** | Din, san'at
+| **İbn Ebî Leylâ (Ebû Hanîfe'den de rivayet edildi)** | Din, neseb, mal
+| **İmam Şâfiî** | Din, neseb, san'at, hürriyet, ayıplardan hâlî olma, yesar (zenginlik), yaş
+| **Ebû Hanîfe** | Neseb, İslam, hürriyet, mal, diyanet, meslek (hirfe)
+¶ Ziyade vasıflarla ilgili bazı deliller öne sürülmüştür. "Size dini ve ahlakı güzel biri evlenmek için geldiği zaman onu evlendirin..."; "Allah, hiçbir şeye gücü yetmeyen ve başkasının malı olan bir köle ile, kendisine verdiğimiz güzel rızıktan gizli ve açık olarak Allah yolunda harcayan kimseyi misal verir. Bunlar hiç eşit olur mu?"; "Araplar birbirlerine, mevali birbirlerine denktir." vb.
+¶ Bütün bu vasıflardan maksat bir ömür boyu hayat sürecek eşlerden birinin diğerinin maslahatına nizam vermesidir. Bu da ancak muvafakat ve yakınlık ile olur. Mesela bir köle bir cariye ile evlense de cariye azad edilse, azad edilmiş bu kadının köle olan kocasından ayrılması caizdir. Bu konuda Allah Resulü'nün uygulaması vardır.
+* Kefâet: erkeğin kıza denk olması; kadın lehine, erkekte aranır, akit anında muteberdir.
+* Kefâetin unsurları: Mâlik ve Sevrî — din; Ahmed — din, san'at; İbn Ebî Leylâ — din, neseb, mal; Şâfiî — din, neseb, san'at, hürriyet, ayıpsızlık, yesar, yaş; Ebû Hanîfe — neseb, İslam, hürriyet, mal, diyanet, hirfe.
+
+## Hanefilerin ziyade delillerinin beyanı
+### 1. Neseb
+¶ Fukaha'ya göre, acem bir erkek Arap bir kızla denk değildir. Yine her Arap da bir değildir. Kureyşliler mesela Emevilere denk değildir. Nesebin kefaet için şart olması Araplar içindir. Çünkü Araplar soylarını muhafaza etmeye özen göstermiş, onu övgü vesilesi yapmışlardır. Soyu ile övünenler için de bu böyledir. Bu konuda bir çok hadise dayanmışlardır: "Kureyşliler birbirinin dengidir. Her sülâle, diğer sülâleye denktir. Araplar birbirinin dengidir. Her kabile, diğer kabileye denktir. Arap olmayanlar da birbirlerinin dengidir. Adam adama denktir."
+### 2. İslam
+¶ Buradaki İslam şartı erkekte aranan bir şart değildir. Malumdur ki akdin sıhhat şartı Müslüman kadının evleneceği erkeğin Müslüman olmasıdır. Aksi bir durumda evlilik zaten batıl olur. Kefaet ise akdin lüzum şartıdır, sıhhat şartı değildir.
+! Kefaet, genel anlamıyla lüzum şartıdır ancak kitapları dikkatle incelediğimizde üç yerde sıhhat şartı olduğu anlaşılmaktadır (dersten notlar).
+¶ Buradaki İslam'dan maksat erkeğin babasının ve dedesinin Müslüman olmasıdır. Daha öncesinin Müslüman olup olmamasının önemi yoktur. Bunun muteber olması Arap olmayanlar nezdindedir. Çünkü Arap olmayanların iftihar vesilesi İslam'dır. Araplarda öncelik neseb olduğu için sadece babası Müslüman olan erkek soyca Müslüman olan kadına denk olur.
+! Müellif burada diyor ki, sahabe-i kiramın bir çoğu babaları müşrik olan Müslüman kadınlarla evlendiler. Yine Peygamberimiz (sav)'in eşleri, bizlerin annelerinin çoğunun babaları gayr-i müslim idiler.
+### 3. Hürriyet
+¶ Bu da İslam sıfatı gibi acemler arasında muteberdir. Burada da baba ve dedenin hür olması yeterlidir. Babası hür ama dedesi köle olan erkek, babası ve dedesi hür bir kadına denk olmaz. Bir köle veya mu'tak bir erkek hür bir kadının dengi değildir.
+### 4. Hirfe (meslek)
+¶ Örfe bakılır. Şerefli bir meslek erbabının kızı ile bayağı / âdi bir meslek sahibi erkeğe denk değildir.
+! Mesleğin bayağı oluşu, zaman ve topluma göre değişiklik arz eder.
+### 5. Diyane
+¶ Bundan maksat salah ve istikamettir. Salih bir adamın saliha kızına ancak salih bir erkek denk olur. Bu Ebu Hanife ile Ebu Yusuf'un görüşüdür. İmam Muhammed'e göre bunların denklikle alakası yoktur. Çünkü bunlar ahirete taalluk eden kul ile rabbi arasında olan işlerdendir. Kefaet ise dünya işlerindendir...
+### 6. Mal
+¶ Bundan maksat zenginlik değildir. Maksat, erkeğin, akid esnasında peşin mehri ödemeye ve bir aylık nafakayı vermeye malik olmasıdır. Hakikaten de öyle insanlar var ki Allah daha sonra kudreti ile ona dilediği kadar vermektedir. Ebu Yusuf'a ait olan ve aynı zamanda müftabih olan bu görüşe Ebu Hanife ile İmam Muhammed muhaliftirler.
+| Unsur | Kimler arasında / ölçü | Not
+| **Neseb** | Araplar arasında | Acem Arap kıza denk değil; Kureyşli Emevîye denk değil
+| **İslam** | Arap olmayanlar arasında | Baba ve dedenin Müslüman olması
+| **Hürriyet** | Arap olmayanlar arasında | Baba ve dedenin hür olması; köle ya da mu'tak hür kadına denk değil
+| **Hirfe (meslek)** | Örfe göre | Bayağı meslek sahibi şerefli meslek erbabının kızına denk değil
+| **Diyanet** | Salah ve istikamet | Ebû Hanîfe ve Ebû Yûsuf'a göre; Muhammed'e göre kefâetle ilgisi yok
+| **Mal** | Peşin mehir + bir aylık nafaka | Ebû Yûsuf'un müftâbih görüşü; Ebû Hanîfe ve Muhammed muhalif
+* Hanefîlere göre kefâetin altı unsuru: neseb (Araplarda), İslam ve hürriyet (Arap olmayanlarda; baba ve dedeye bakılır), hirfe (örfe göre), diyanet (Muhammed hariç), mal (peşin mehir ve bir aylık nafakaya güç; Ebû Yûsuf'un müftâbih görüşü).
+* Kefâet lüzum şartıdır, sıhhat şartı değildir (bazı yerlerde sıhhat şartı olur).
+
+## Kefaete hakkı olanın beyanı
+- Küçüğü baba ve dede dışındaki veli dengi olmayanla evlendirse sahih değildir. Dengi olanla evlendirse küçüğün buluğdan sonra seçme hakkı doğar. Dilerse devam eder dilerse evliliği fesheder.
+- Baliğ, âkil, hür kadın kendisini denk ile evlendirse akid lazım ve nafiz olur. Denk olmayan biri ile evlendi ise müfta-bih olan görüşe göre evlilik akdi kurulmaz, batıldır. Veli akidden evvel denk olmayışa razı olmuşsa akid sahih ve lazım olur.
+- Aynı şekilde baliğ, âkil ve hür olan erkek kendisini şerefi düşük ve zengin olmayan bir kadınla evlendirse buna kimsenin itiraz hakkı yoktur. Erkeğin sefih olup olmaması arasında da fark yoktur.
+¶ Bu durumları özetleyecek olursak:
+1. Denklik erkekte aranır, erkek kadına denk olmalıdır.
+2. Denklik hem kadının hem de velinin hakkıdır. Birinin hakkı düşse diğerinin ki sabittir.
+3. Kadının hakkı iki mes'elede ortaya çıkar: a) Küçük olan kızı baba ve dede dışındaki bir veli dengi olmayanla evlendirmişse b) Küçüğü su-i ihtiyar sahibi olan baba ve dede evlendirmişse ve bu halleri de maruf ise bu iki akidde batıldır.
+4. Kadın kendisi denk olmayan biri ile evlendirmişse velinin geçen iki mes'elede olduğu gibi akdi feshetme hakkı vardır.
+* Denklik erkekte aranır; hem kadının hem velinin hakkıdır, birinin hakkı düşse diğerininki kalır.
+* Baba-dede dışındaki veli küçüğü dengi olmayanla evlendirirse sahih değil; baliğa kadın dengi olmayanla evlenirse müftâbih görüşe göre batıl (veli önceden razıysa sahih ve lazım). Erkek dengi olmayan kadınla evlenirse kimse itiraz edemez.
+
+## Kefaetin şart koşulduğu vakit
+¶ Kefaet başlangıçta aranır. Bu kefaetin evlilik hayatı boyunca baki kalması şart değildir. Zira bu insanlar için meşakkattir. Zamanın değişmesi ile insanın halinin yarın ne olacağı ön görülemeyen şeylerdendir.
+* Kefâet akit başında aranır; evlilik boyunca devam etmesi şart değildir.
+
+## Kefaetin kadının ve velilerin hakkı olmasının neticelerinden bazıları
+- Baliğ, âkil ve hür olan kadın denk olduğunu zannederek bir erkekle kendisi evlendi. Sonra zahir oldu ki erkek denk değilmiş. Bu durumda araştırma yapmadığı için kadının hakkı sakıt olur ama velinin hakkı sakıt olmaz. Akid batıldır.
+- Kadın razı olduğu halde veli denklik şartı aramaksızın ve halini araştırmaksızın evlendirdiyse kadının hakkı düştüğü gibi velinin hakkı da düşer.
+- Eğer denkliği şart koşsalar da hem erkek hem de veli açısından erkeğin denk olmadığı açığa çıksa ikisinin de fesih hakkı vardır. Yine erkek akid esnasında denk olduğunu söylese de sonra öyle olmadığı zahir olsa fesih muhayyerlikleri vardır.
+- Erkeğin nesebi sorulsa o da söylese ama nesebin farklı olduğu anlaşılsa, söylenen neseb ile izhar olan neseb denk ise fesih yok, edna ise fesih var, a'la ise ercah kavle göre fesih yoktur.
+* Kadın araştırmadan dengi sanıp evlenirse kendi hakkı düşer, velininki düşmez. Veli araştırmadan, kadının rızasıyla evlendirirse ikisinin hakkı da düşer. Denklik şart koşulup erkek denk çıkmazsa ya da yalan söylediyse fesih hakkı vardır.
+* Söylenen neseb ile ortaya çıkan neseb denkse fesih yok, daha aşağıysa fesih var, daha yukarıysa (ercah kavle göre) fesih yok.

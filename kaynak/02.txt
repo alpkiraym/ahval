@@ -1,0 +1,103 @@
+# Nikâhın Şartları ve Şahitlik
+> Evlilik akdinin dört grup şartı: in'ikad (kuruluş), sıhhat, nefaz ve lüzum şartları; şahitliğin şartları ve evlilik akdinde ayıp sebebiyle fesih muhayyerliği.
+
+## Evliliğin in'ikad (yürürlük) şartları
+¶ Akdi gerçekleştireni ve akit meclisini ilgilendiren olmak üzere iki nev'i vardır:
+### 1. Akdi yapanı ilgilendiren şartlar
+¶ Bunun tek şartı vardır o da âkidin akıllı olmasıdır. Eğer âkid mecnun veya aklını kullanamaz bir çocuk ise tasarruf ehliyetine sahip olmadığı için taraflar bağ kuramayacaktır. Büluğ şartı "nefâz" şartıdır.
+### 2. Akit meclisini ilgilendiren şartlar
+¶ Üç tanedir:
+#### a. Meclis birliği
+¶ İcab ve kabul aynı mecliste gerçekleşmelidir. Taraflar mecliste hazır bulunduğunda meclis birliğine halel getirecek herhangi bir söz ve davranış bu birliği ortadan kaldırır.
+- Taraflardan biri mecliste yoksa, örneğin adamın yaptığı teklifi aynı mecliste bulunmayan kadın kendisine teklifin ulaştığı başka bir mecliste kabul ederse akdin diğer şartları yerine getirildiği takdirde akid yürürlüğe girmiş olur.
+- Ebu Hanife'ye göre kabulün icabtan, örfen, nikah akdi ile ilgili bir şey ile ayrılması caizdir. Şafiiler ise fevri şart koşmuşlardır.
+#### b. Tarafların birbirinin sözünü işitip anlaması gerekir
+¶ Taraflardan biri sağır ise veya ifadelerden kastedilenin neyle ilgili olduğunu bilmiyorsa akit yürürlüğe girmez. Eğer ifadelerin evlilikle ilgili olduğunu biliyorsa kelimelerin ve cümlelerin manasını anlamasa da akid sahihtir.
+#### c. Kabul icaba uygun olmalıdır
+¶ Örnekler aşağıdaki gibidir.
+~ **Tüm cüzlerde muvafakat olursa sahihtir:** Örneğin Ahmet, Esma'yı velisinden 100 TL mehir ile talep etse, veli de Esma'yı 100 TL mehir ile Ahmet'e verse bu sahihtir.
+~ **Tüm cüzlerde muhalefet olursa sahih değildir:** Örneğin Ahmet'in babası, Esma'yı babasından 50 TL mehir ile istese, Esma'nın babası da "80 TL mehir ile Ayşe'yi oğlun Mehmet'e verdim" derse bu sahih değildir.
+~ **Cüzlerden bazısında muhalefet olursa sahih değildir:** Örneğin Ahmet'in babası Esma'yı babasından 50 TL mehir ile istese de, Esma'nın babası sadece mehri artırarak söylese veya Esma değil de Ayşe dese veya kızını değil de kardeşinin kızını kastetse veya damat adayı Ahmet'i değil de onun kardeşi Mehmet'i kastetse bu tek cüzün değişmesi ile de akid sahih olmaz.
+~ **Hayır olan muhalefet caizdir:** Ahmet, Esma'ya 50 TL mehir teklifi ile gitse de Esma 10 TL yeterli derse; Esma Ahmet'e 100 TL mehir ile varacağını iletse ama Ahmet Esma'ya "olmaz 200 TL mehir veriyorum" dese bu muhalefet sahihtir. Esma aksini istemediği müddetçe Ahmet bu iki mehirden az olanı verir.
+| Kabulün icaba uygunluğu | Hükmü
+| **Tüm cüzlerde muvafakat** | Sahih
+| **Tüm cüzlerde muhalefet** | Sahih değil
+| **Bazı cüzlerde muhalefet** | Sahih değil
+| **Hayır olan muhalefet** | Caiz (sahih)
+* İn'ikad şartları: âkidle ilgili tek şart akıllı olmak (bulûğ nefaz şartıdır); meclisle ilgili üç şart: meclis birliği, tarafların birbirinin sözünü işitip anlaması, kabulün icaba uygunluğu.
+* Ebû Hanîfe'ye göre kabulün icaptan nikahla ilgili bir şeyle ayrılması caizdir; Şafiiler fevriyyet şart koşar.
+* Kabul icaba bütün cüzlerde ya da bir cüzde muhalifse akit sahih olmaz; hayır olan (lehte) muhalefet caizdir, az olan mehir verilir.
+
+## Evliliğin sıhhat şartları
+¶ Evliliğin sıhhati için genel şartlara gelince -Hanefiler nezdinde- iki şartı vardır:
+1. **Kadının akid vaktinde evlenmeye engelinin bulunmaması:** Örneğin kadının kız kardeşi gibi müebbed haram veya karısının kız kardeşi gibi muvakkat haram olması; başkasıyla nikahlı olması ya da başkasından boşandığı için iddet beklemesi bu engellerdendir. Ulema bu konuda ittifak halindedir.
+2. **Akdin şahitlik şartlarını taşıyan iki şahit huzurunda gerçekleşmesi:** Evlilik akdi asırların geçmesiyle değişmeyecek olan nesebin sübutu, hürmet-i musahara, miras gibi hükümlerin çoğu ile ilintilidir. Bundan dolayı bu akdin insanlar arasında ilan edilmesi gereklidir. Bu da şahitler yolu ile olur. Sevgili Peygamberimiz (sav) şöyle buyurmuşlardır: «لَا نِكَاحَ إِلَّا بِشُهُودٍ»
+* Hanefilere göre sıhhat şartları iki: kadında evlenme engeli bulunmaması ve şahitlik şartlarını taşıyan iki şahit («لا نكاح إلا بشهود»).
+
+## Şahitliğin şartları
+¶ Dört şart vardır: Hürriyet, Büluğ, Akıl, Akdin taraflarının icab ve kabulü işitmesi.
+- Hanefilere göre şahitlerin ikisi erkek olabileceği gibi biri erkek iki kadın da olabilir. Şahitlerin görüyor olmaları, adil olmaları şart olmadığı gibi dünürlerin tanımadığı kişiler olmaları da şart değildir. Bilakis âmâ, fasık, gelin ile damatın anne veya babası şahit olabilir.
+- Şahitlerden biri veya ikisi akid anında köle, çocuk, mecnun, sağır, sarhoş, uyuyan vb. olursa akit geçersiz olur.
+- Eşler müslüman olduğunda şahitlerin de müslüman olması gerekir. İkisi de zımmi ise şahitlerin zımmi olması caizdir. Damat Müslüman olup gelin zımmi ise Ebu Hanife ve Ebu Yusuf'a göre şahitlerin ikisi de zımmi olabilir. Gelin için şahitlerin aynı dinden olmaları ya da olmamaları arasında bir fark yoktur. İmam Şafii, Muhammed ve Züfer'e göre damat Müslüman ise şahitlerin zımmi olması caiz olmaz.
+### Şema: شروط الشهادة
+| Şart | Arapçası | Türkçesi
+| **Üzerinde ittifak edilen** | «الإسلام إن كان الزوجان مسلمين» | [[Eşler Müslümansa İslam]]
+| **Üzerinde ittifak edilen** | «الحرية» | [[Hürriyet]]
+| **Üzerinde ittifak edilen** | «البلوغ» | [[Bulûğ]]
+| **Üzerinde ittifak edilen** | «السماع» | [[İşitme]]
+| **İhtilaflı** | «الذكورة في الجمع عند الشافعي وأحمد» | [[Şâfiî ve Ahmed'e göre şahitlerin ikisinin de erkek olması]]
+| **İhtilaflı** | «الذكورة في واحد عند أبي حنيفة» | [[Ebû Hanîfe'ye göre birinin erkek olması]]
+! Taraflar Müslümansa şahitlerin de Müslüman olması lazım. Beşinci şart: akıl.
+* Şahitliğin dört şartı: hürriyet, bulûğ, akıl, icab ve kabulü işitmek; eşler Müslümansa şahitlerin de Müslüman olması gerekir.
+* Hanefilere göre iki erkek ya da bir erkek iki kadın şahit olur; görme, adalet ve tanınmamış olmak şart değildir (âmâ, fâsık, gelin ve damadın anne-babası şahit olabilir).
+* Damat Müslüman, gelin zimmî ise Ebû Hanîfe ve Ebû Yûsuf'a göre şahitler zimmî olabilir; Şâfiî, Muhammed ve Züfer'e göre olamaz.
+
+## Veli şartı
+¶ İmam Şafii, Ahmed b. Hanbel gibi bazı alimler üçüncü bir şart ilave etmişlerdir. Bu da gelinin asabeden en yakın erkek akrabasının nikahta hazır bulunmasıdır. Neseben asabe yoksa sebeben asabe hazır bulunmalıdır. Buna göre kadının tek başına evlenmesi de başka bir kadın tarafından evlendirilmesi de caiz değildir. Onlar bu görüşlerini «فَلَا تَعْضُلُوهُنَّ أَنْ يَنْكِحْنَ أَزْوَاجَهُنَّ» ayetine dayandırmaktadırlar. Bu konuyla ilgili hadisler de mevcuttur.
+¶ Ebu Hanife'ye göre velayet büyük kadın için evliliğin sıhhat şartlarından değildir. Akıl - baliğ olan kadın kendisi evlenebilir. O, bu görüşünü «وَامْرَأَةً مُؤْمِنَةً إِنْ وَهَبَتْ نَفْسَهَا لِلنَّبِيِّ إِنْ أَرَادَ النَّبِيُّ أَنْ يَسْتَنْكِحَهَا» ayetine dayandırmıştır. Yine "Dul konusunda velinin bir yetkisi yoktur"; "Dul kendisini evlendirmeye velisinden daha layıktır" gibi hadisleri delil getirmiştir. Aksi görüş sahipleri bu hadisleri hüccet olarak kabul etmemişlerdir.
+| | Şâfiî, Ahmed b. Hanbel | Ebû Hanîfe
+| **Veli (asabeden en yakın erkek akraba) nikahta bulunmalı mı?** | Evet, sıhhat şartıdır; kadın kendini de başka kadını da evlendiremez. | Hayır, büyük kadın için sıhhat şartı değildir; akıl-baliğ kadın kendisi evlenebilir.
+| **Delil** | «فَلَا تَعْضُلُوهُنَّ أَنْ يَنْكِحْنَ أَزْوَاجَهُنَّ» ayeti ve hadisler | «وَامْرَأَةً مُؤْمِنَةً إِنْ وَهَبَتْ نَفْسَهَا لِلنَّبِيِّ…» ayeti; "Dul kendisini evlendirmeye velisinden daha layıktır" hadisi
+* Şâfiî ve Ahmed b. Hanbel'e göre veli (asabeden en yakın erkek) sıhhat şartıdır; Ebû Hanîfe'ye göre akıl-baliğ kadın kendisi evlenebilir.
+
+## Evliliğin nefaz şartları
+: Nefaz = Akdin kurulmasıyla birlikte derhal işlerlik kazanması anlamına gelir. Zıttı "mevkuf"tur.
+: Mevkuf akid = Yetki eksikliği veya üçüncü şahısların haklarının bulunması sebebiyle hükümlerini meydana getirmesi askıya alınmış akid.
+¶ Taraflar açısından akid dört türlü kurulabilir:
+1. Kendileri akid yaparlar.
+2. Vekil tayin edebilirler.
+3. Birisi kendi diğeri vekil tayin ederek akdi kurabilir.
+! Bu üçünde tarafların akıl, bâliğ ve hür olmaları şarttır. Bu şartlar yoksa nikah velinin izni ile mevkuf olur.
+! Taraflar köle veya cariye ise vekil olmaları veya vekil tayin etmeleri hususunda efendisi, mümeyyiz çocuk ise velisi devreye girer. Taraflar şartları haiz olmalarına rağmen akdi Fuzuli yerine getirdiğinde bu, Şafiilere göre batıl, Hanefilere göre mün'akid olmakla beraber mevkuftur.
+4. Gelin ve damat nakıs ehliyetli iseler akdi velileri kurabilir. Bu velide bulunması gereken şartlar ise dört tane olup, akıl, bâliğ, hürriyet şartları ehliyeti nakıs olana velayet edecek olan kişinin tam ehliyetli olduğunu gösterir. Din birliği (muvafakatü fi'd-din) şartına gelince, örneğin gelinin iki kardeşi olup biri Müslüman diğeri Hıristiyan ise, gelin Müslüman ise Müslüman olan kardeşi, Hıristiyan ise Hıristiyan olan kardeşi gelinin velisi olur.
+* Nefaz: akdin kurulur kurulmaz işlerlik kazanması; zıttı mevkuf (hükmü askıya alınmış) akittir.
+* Taraflar kendileri, vekilleri ya da biri kendi diğeri vekili eliyle akit yaparsa akıl, bulûğ ve hürriyet şarttır; yoksa nikah velinin iznine mevkuftur.
+* Fuzûlînin yaptığı nikah Şafiilere göre batıl, Hanefilere göre mün'akid ama mevkuftur.
+
+## Evliliğin lüzûm şartları
+: Lüzûm = Akdin bağlayıcılığı, taraflardan birinin tek taraflı iradesiyle feshedilemeyecek nitelikte olması anlamındadır.
+- Akdi taraflar kendileri yaparlarsa, lüzum şartları iki olup yalnızca kadın için aranır: 1. **Kefâet:** Koca denk olmalıdır. 2. **Mehr-i Misil:** Mehir bundan az olmamalıdır. Veliler bu iki şartın yerine getirildiğine kanî olmazlarsa akdi feshedebilirler.
+- Akdi tarafların velileri olan baba veya dede yaparsa, bu durumda veliler gelin ile damadın kötülüğünü istemeyecekleri için gerek büluğdan önce gerekse büluğdan sonra tarafların itiraz etmeye hakları yoktur. Bu durumda lüzum şartının gerçekleşmesi için başka şarta da gerek yoktur.
+- Akdi tarafların baba veya dedesinden başka veliler yaparsa, bu durumda çocukların velayet sebebi ortadan kalktığında (baliğ olduklarında) bu vekalete itiraz etme ve nikahın feshini isteme hakları vardır.
+: Bulûğ muhayyerliği = Baba veya dedesi dışındaki bir veli tarafından evlendirilen küçüğün bulûğa erdiğinde evliliği feshetme hakkına sahip olması.
+* Lüzum: akdin tek taraflı iradeyle feshedilememesi. Taraflar kendileri akdederse yalnız kadın için iki şart: kefâet ve mehr-i misil; yoksa veliler feshedebilir.
+* Baba veya dede evlendirirse itiraz hakkı yoktur; başka veli evlendirirse bulûğda fesih hakkı (bulûğ muhayyerliği) vardır.
+
+## Şema: شروط الزواج
+| Şart grubu | Kapsamı | Eksikse
+| **شروط الانعقاد** · in'ikad | «ما يرجع إلى العاقد: أن يكون عاقلا» · «ما يرجع إلى مجلس العقد: اتحاد المجلس، أن يسمع كل من العاقدين كلام الآخر ويفهم ما يراد به، ألا يخالف القبول الإيجاب» | Batıl olur
+| **شروط الصحة** · sıhhat | «أن تكون الزوجة محلا قابلا للزواج» · «أن يكون العقد بحضرة الشاهدين» · «أن يكون للزوجة ولي ذكر (ش-أ)» | Fasit olur
+| **شروط النفاذ** · nefaz | «الحرية» · «البلوغ» · «العقل» | Mevkuf olur
+| **شروط اللزوم** · lüzum | «إن كان المباشر الزوجين: بالنسبة للزوج لم يشترط للزوم العقد شيء أصلا؛ بالنسبة للزوجة يشترط للزومه شرطان: أن يكون الزوج كفئا لها، أن يكون المهر الذي عقدت عليه مهر مثلها» · «إن كان المباشر ولي الزوجين (الأب-الجد) لم يشترط للزوم الزواج شيء» | Feshe kabil olur
+! İn'ikad şartları: 1- Akıllı olmak 2- Meclis birliği 3- Tarafların birbirini anlaması 4- Kabulün icaba uygun olması.
+! Sıhhat şartları: 1- Evliliğe uygun olması (mahrem olmayacak) 2- Şahitlik 3- Erkek veli (Şâfiî, Ahmed b. Hanbel): Hanefîde yok, Şâfiî ve Hanbelî'de var.
+! Lüzum: eşler kendileri evlenirse koca denk olmalı, mehir mehr-i misil olmalı; değilse feshe kabildir. Baba ve dede evlendirirse geçerlidir. Baba ve dede dışındakiler evlendirirse hıyar-ı bulûğ vardır; baba ve dede daha şefkatlidir.
+* Şartlar eksik olunca: in'ikad → batıl, sıhhat → fasit, nefaz → mevkuf, lüzum → feshe kabil.
+
+## Evlilik akdinde muhayyerlik var mıdır?
+¶ Hanefilerin meşhur görüşüne göre üç sebeple ayıp muhayyerliği meydana gelir:
+1. **Mecbub:** Erkeğin edeb mahallinin kesik olması.
+2. **Hasiyy:** Erkeğin hadım olması.
+3. **İnnîn:** Erkeğin iktidarsızlığı.
+: Fesih muhayyerliği = Erkekte bu üç ayıptan (mecbub, hasiyy, innîn) biri bulunursa kadının evliliğin feshini isteyebilmesidir.
+* Hanefilere göre ayıp muhayyerliğinin üç sebebi: mecbûb (edep mahalli kesik), hasiyy (hadım), innîn (iktidarsız); kadın feshi isteyebilir (fesih muhayyerliği).

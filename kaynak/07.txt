@@ -1,0 +1,182 @@
+# Evlilikte Velayet
+> Nikahta velayetin tanımı ve nev'ileri; velayet-i icbar ve velayet-i nedb; bulûğ muhayyerliği; velide aranan şartlar; velayetin sabit olduğu yollar, velilerin tertibi ve velinin azli (adl).
+
+## Nikahta velayet
+: Nikahta velayet = Bir kişinin evlenmesi konusunda diğer birinin sahip olduğu yetki demektir.
+¶ Velayetin acziyet ve ehliyetin noksanlığı olmak üzere iki sebebi vardır. Velayetin üç nev'isi vardır:
+- Velayet-i ale'n-nefs
+- Velayet-i ale'l-mâl
+- Velayet-i ale'n-nefs ve'l-mâl
+¶ Velayet-i ale'n-nefs de velayet-i nedb ve velayet-i icbâr olmak üzere iki kısımdır. Burada nikahla ilintili olduğu için velayet-i ale'n-nefsi inceleyeceğiz.
+### Şema: أنواع الولاية
+: الولاية = «هي حق تنفيذ القول على الغير رضي أو لم يرض» Velayet: Bir kimsenin söz ve tasarruflarının başkası namına geçerli olmasına denir.
+| Nev'i | Arapçası | Kime ait
+| **Mal üzerinde velayet** | «ولاية على المال» | «فهي للأب والجد ووصيهما أو وصي القاضي» [[Baba, dede, bunların vasisi ya da kadının tayin ettiği vasi]]
+| **Nefis üzerinde velayet** | «ولاية على النفس» | Velayet-i nedb (istihbab) ve velayet-i icbar
+| **İkisi üzerinde birden** | «ولاية عليهما جميعا» | «فهي للأب وحده فقط» [[Yalnızca babaya aittir]]
+* Velayetin iki sebebi: acziyet ve ehliyetin noksanlığı. Üç nev'i: nefis üzerinde, mal üzerinde, ikisi üzerinde birden. Nefis üzerindeki velayet: nedb ve icbar.
+
+## Velayet-i icbarın sebepleri
+: Velayet-i icbar = Velayeti altında bulunan bir şahsı, onun rızasına bakmaksızın evlendirebilme yetkisine sahip olma.
+¶ Çocuklar, deliler, bunaklar bu tür bir velayet altındadırlar. Bu velayet türü üç sebepten biri ile sabit olur:
+1. **Küçüklük (Sığar):** Küçük ister bekar isterse dul olsun eşittir.
+2. **Delilik (Cünûn):** Delilik aslen de târien (arızi) de olabilir.
+3. **Bunaklık (Ateh):** Aslen ve târien olabilir.
+! Asli mecnun buluğ çağına deli olarak ulaşmış kimsedir. Arızi mecnun ise buluğ çağına kadar akıllı olup daha sonra delilik isabet etmiş kişidir.
+¶ İmam Şafii iki konuda muhalefet etmiştir. Küçük dul için velayet-i icbarın sabit olmaması ile büyük bekar kız için velayet-i icbarın sabit olmasını savunur.
+* Velayet-i icbarın üç sebebi: küçüklük (bekâr da dul da), delilik ve bunaklık (aslî ya da arızî). Şâfiî'ye göre sebep bekâretliktir: küçük dula icbar yok, büyük bekâr kıza var.
+
+## Velayet-i icbara sahip olan kişiler
+¶ Kişiler hakkında mezheplerin görüşleri farklıdır:
+- **Malikiler:** Küçüğün velisi sadece babadır. Ancak buluğa erdiğinde evlilik için veli olacak kimseye izin verebilir.
+- **Şafiiler:** Küçüğün velisi baba ve dededir. Bu ikisinin dışındakiler velayet sahibi olmaz. Bu ikisi yoksa buluğa kadar bekler.
+- **Ahmed b. Hanbel:** İki rivayet vardır. Birisinde Malikiler gibi diğerinde Şafiiler gibi düşünür.
+- **Hanefiler:** En sahih görüş budur. Önce babadır, o yoksa dededir, o da yoksa velayete en yakın kim ise velayete o geçer. Babanın velayetine dair delil Hz. Aişe'nin evliliğidir. Dede ise hüküm bakımından baba gibidir. Bu ikisi dışındakilerin velayetine dair delil ise Hz. Peygamber'in amcasının kızı Ümame'yi, Seleme ile evlendirmesidir. Sevgili Peygamberimiz şöyle buyurmuştur: "Nikâh, asabeden olan veliye aittir."
+! Kısaca Hanefiler küçük kızın evlendirilmesinde asabe sırasını esas alır.
+| Mezhep | Küçüğün icbar velisi
+| **Mâlikîler** | Yalnız baba
+| **Şâfiîler** | Baba ve dede; bunlar yoksa bulûğa kadar beklenir
+| **Ahmed b. Hanbel** | İki rivayet: Mâlikîler gibi ve Şâfiîler gibi
+| **Hanefiler** | Önce baba, sonra dede, sonra (asabe sırasıyla) en yakın veli
+### Bulûğdan sonra muhayyerlik
+¶ İmam-ı Azam ve İmam Muhammed'e göre küçüğü baba veya dede evlendirmişse bunlar ileri görüşlü ve şefkatli olduklarından dolayı buluğdan sonra küçük için muhayyerlik hakkı yoktur. Eğer bu ikisi dışında bir veli evlendirmişse küçük buluğa erdikten sonra dilerse evliliği devam ettirir dilerse fesheder. Ebu Yusuf'a göre ise kim evlendirirse evlendirsin küçüğün buluğa erdikten sonra muhayyerlik hakkı yoktur. Müftabih olan tarafeynin görüşüdür. Zira Hz. Peygamber amcasının kızı Ümame'yi evlendirdiği zaman "Buluğa erdiği zaman ona muhayyerlik hakkı vardır" buyurmuşlardır. Çünkü baba ve dede dışındaki velilerin yakınlığı nakıstır.
+¶ Büyük mecnun ve büyük matuhun oğullarına gelince bunların velayeti evladır. Oğullar baba ve dededen öncelikli hakka sahiptirler. Diyelim ki oğulları mecnun ve matuhu evlendirdi ve sonra da bunlar ayıldı, bunlar artık fesih hakkına sahip değillerdir.
+! Mecnun ve matuhun oğullarının velayeti de aynı bunlar gibidir. Mecnun ve matuhun durumu asli ise bulûğ ile velayet kaybolmaz. Yok eğer arızi ise velayetin sabit olması için cünun ve ateh durumunun tam bir ay sürmesi gerekir. Mecnun ve atehin aklı başına geldiğinde fesih hakkını kullanırlarsa iki şahit bulundurmaları gerekir. Bundan sonra hakime başvurulması gerekir. Mahkemenin sonunda ancak hakimin fesih kararı ile evlilik fesholunur.
+¶ Denklik olsun veya olmasın, mehir misil veya daha az olsun baba ve dedenin evlendirdiği küçüğün buluğdan sonra muhayyerlik hakkı yoktur. Yalnız şöyle bir incelik de vardır:
+- **Su-i ihtiyar (zararlı tercihi / düşük profili) bilinmiyorsa:** Velayetten önce zannediliyor ki baba ve dede muhtar insanlar. Bu durumda yapılan akid geçerlidir.
+- **Su-i ihtiyar biliniyorsa:** Bu durumda kocanın kefaeti ve mehrin misil olup olmaması durumlarına bakılır. Eğer bunlarda fahiş bir aldatma varsa yapılan akid geçersizdir.
+| Görüş sahibi | Baba/dede evlendirdiyse | Başka veli evlendirdiyse
+| **İmam-ı Âzam ve İmam Muhammed (müftâbih)** | Bulûğdan sonra muhayyerlik yok | Bulûğdan sonra muhayyerlik var
+| **Ebû Yûsuf** | Muhayyerlik yok | Muhayyerlik yok
+* Velayet-i icbar: Mâlikî — yalnız baba; Şâfiî — baba ve dede; Ahmed — iki rivayet; Hanefî — baba, dede, sonra asabe sırasıyla en yakın veli ("Nikâh asabeden olan veliye aittir").
+* Tarafeyne göre (müftâbih) baba ya da dede evlendirirse bulûğ muhayyerliği yok, başkası evlendirirse var; Ebû Yûsuf'a göre hiçbir durumda yok. Baba/dedenin sû-i ihtiyarı biliniyor ve kefâet ya da mehirde fahiş aldatma varsa akit geçersizdir.
+* Büyük mecnun ve ma'tûhun velayeti oğullarınındır; oğullar baba ve dededen önce gelir.
+
+## Şema: ولاية الإجبار
+| | Arapçası | Not
+| **Sebepleri** | «١- الصغر (بكرا كانت أو ثيبا) عند الأحناف، والبكارة عند الشافعية» · «٢- الجنون» · «٣- العته (أصليين كانا أم طارئين)» |
+| **Mâlik** | «تثبت على الصغيرة للأب وحده» | Sadece baba
+| **Şâfiî** | «تثبت على الصغيرة لكل من الأب والجد» | Bakireyi baba zorla evlendirebilir; dul olanı rızası olmadan evlendiremez
+| **Ahmed b. Hanbel** | «روايتان: أحدهما كمالك والآخر كالشافعي» |
+| **Hanefiler** | «تثبت للأب والجد عند فقد الأب ولكل ولي عند فقد من هو أولى منه، وتثبت لابني المعتوهة والمجنونة قبل الأب والجد» | Küçük kızı baba ve dede evlendirebilir
+* İcbar sebebi Hanefilere göre küçüklük (bakire ya da dul), Şâfiîlere göre bekâret; ayrıca delilik ve bunaklık.
+
+## Buluğdan sonra küçük kız veya erkeğin evliliğinin feshi
+¶ Baba ve dedenin dışındaki velinin evlendirdiği küçüklerin nikahı sahih, lazım olup ğayr-i nafizdir. Bunun manası buluğdan sonra hıyar-ı buluğa sahip olmalarıdır. Dilerse bu evliliği kabul ederler dilerse kabul etmezler. Ebu Yusuf'un her halükarda muhayyerliğin bulunmadığına dair görüşünü de biraz evvel okumuştuk.
+?? Fesih talebinin vakti ne zamandır? | Baba ve dede dışındaki velilerin evlendirdiği küçükler eğer buluğdan evvel evlendiklerini biliyorlarsa fesih vakti buluğa erme vaktidir. Yok bilmiyorlarsa ve daha sonra öğrenmişler ise fesih vakti öğrendikleri vakittir.
+¶ Ebu Hanife ile İmam Muhammed, buluğdan evvel nikahı bilen küçüklerin "razı oldum" gibi sözlü bir beyanları ile veya "öpmek, giydirmek, harcama yapmak" gibi fiili bir eylemleri ile evlilik akdinin sahih feshin ise sakıt olduğu görüşündedirler.
+?? Sukûta itibar edilir mi? | Buluğdan sonra veya evliliği bildikten sonra susmak erkek için itibara alınmaz. Bunun duhulden önce olması ile sonra olması arasında da fark yoktur. Kıza gelince, buluğdan sonra fesih için bakire olanın sükut etmesi beyandır. Ancak dul olanın sükutu itibara alınmaz. Dul bu konuda erkek gibidir.
+¶ **Buluğ muhayyerliği hakkındaki cehalet:** Buluğdan sonra feshin yapılabileceğine dair bilgisizlik özür değildir. Aynı şekilde muhayyerlik hakkının kullanılma hakkının bilinmemesi de özür değildir. Esasen her insana gerekli olan şey gerek ibadet gerekse muamelat noktasında ihtiyacı olan hükümleri bilmesidir.
+* Baba ve dede dışındakinin evlendirdiği küçüğün nikahı sahih, lazım, gayr-i nafizdir: hıyâr-ı bulûğ vardır. Fesih vakti bulûğ anı (nikahı biliyorsa) ya da öğrenme anıdır.
+* Sözlü (razı oldum) ya da fiilî (öpmek, giydirmek, harcamak) rıza fesih hakkını düşürür. Sükût: erkek ve dul için itibar edilmez; bakire kızın sükûtu beyandır. Bilgisizlik özür değildir.
+
+## Velayet-i nedb / istihbab ve ne zaman sabit olur
+: Velayet-i nedb = Ergen ve akıl hastası olmayan bir kadının sırf hicabdan dolayı ve kendisini hayasızlığa nispet olunmaktan koruma için evlendirme işini velisine bırakma hali.
+¶ Tanımdan da anlaşılacağı üzere bu velayet âkil, hür ve büyük kadın için sabit olur. Bu görüş Ebu Hanife, Züfer ve bir rivayette Ebu Yusuf'un görüşüdür. Büyük olan kadının bakire olması ile dul olması arasında da fark yoktur.
+### Kadın kendi başına evlenebilir mi?
+¶ Ebu Hanife, Züfer ve bir rivayette Ebu Yusuf'a göre kadının kendi ihtiyarı ile evlenebilmesi için kefaet ve mehr-i misil gerekir. Bu şartlarla kendisi evlenebilen kadının veli tayin etmesi müstehap olmakla beraber bu evliliğe velilerin itirazı da geçerli değildir. Bakirenin veliye verdiği izin sükut ile seyyibenin izni irade beyanı veya fiille sabit olur.
+¶ İmam Şafii, Ahmed b. Hanbel ve bir rivayette de Ebu Yusuf cevaz vermezler. Kadının âkil, hür ve büyük olmasının bir önemi yoktur, veli gereklidir.
+¶ İmam Malik ise kadının şeref, güzellik gibi her erkeğin beğendiği özelliklere sahip olup olmamasına göre hüküm verir. Sahipse veli şarttır, değilse kendi rızası ile bir yabancı onu evlendirebilir.
+¶ İmam Muhammed ise kadın kefaet ve mehr-i misil şartları ile evlense de akid mevkuftur.
+: Mevkuf = Bir hüküm ifade etmesi başka birinin izin ve icazetine muhtaç olan bir fiil veya akittir.
+| Görüş sahibi | Âkil, hür, büyük kadın kendi başına evlenebilir mi?
+| **Ebû Hanîfe, Züfer, bir rivayette Ebû Yûsuf** | Evet, kefâet ve mehr-i misil şartıyla; veli tayini müstehap, velinin itirazı geçersiz
+| **İmam Şâfiî, Ahmed b. Hanbel, bir rivayette Ebû Yûsuf** | Hayır, veli gereklidir
+| **İmam Mâlik** | Şeref ve güzellik sahibiyse veli şart; değilse rızasıyla bir yabancı evlendirebilir
+| **İmam Muhammed** | Kefâet ve mehr-i misille evlense de akit mevkuftur
+### Şema: ولاية ندب (استحباب)
+| Görüş sahibi | Arapçası | Not
+| **Ebû Hanîfe, Züfer, bir rivayette Ebû Yûsuf** | «تثبت على المرأة الحرة الكبيرة العاقلة بكرا كانت أم ثيبا» | Her akıllı, büyük kadın (bakire de olsa dul da olsa): veli şart değil, müstehaptır
+| **Şâfiî, Ahmed, diğer rivayette Ebû Yûsuf** | «إلى أنه لا يجوز زواجها إلا بولي ذكر» | Dul bile olsa velidedir
+| **Mâlik** | «إلى أنها إن كانت ذات شرف وجمال لم يصح زواجها إلا بولي ذكر، وإن لم يكن كذلك جاز أن تتولى عقد زواجها أجنبي برضاها» | Güzelse, soyluysa erkek veli evlendirmelidir
+| **Muhammed** | «لو تولت عقد زواجها بنفسها انعقدت موقوفا مطلقا، سواء كان زوجها كفئا أم لم يكن، وسواء أكان مهرها مهر المثل أم لم يكن» | Velinin onayına bağlı; onaylarsa sahihtir
+* Velayet-i nedb: âkil, hür, büyük (bakire ya da dul) kadın üzerinde; evlendirme işini hayâ sebebiyle velisine bırakması.
+* Kadının kendi başına evlenmesi: Ebû Hanîfe/Züfer — kefâet ve mehr-i misille caiz; Şâfiî/Ahmed — veli şart; Mâlik — şerefli ve güzelse veli şart; Muhammed — mevkuf.
+* Bakirenin izni sükûtla, seyyibenin (dulun) izni sözle ya da fiille sabit olur.
+
+## Velide aranan şartlar
+¶ Dört şart vardır:
+1. **Hürriyet:** Hangi tür olursa olsun kölenin velayeti caiz değildir.
+2. **Buluğ:** Mümeyyiz olsun olmasın sabinin velayeti caiz değildir.
+3. **Akıl:** Mecnun ve ma'tuhun velayeti caiz değildir.
+4. **Dinde muvafakat:** Müslümana gayr-i müslim veya zımminin velayeti caiz değildir. Diyelim ki bir kadının iki kardeşi var ve birisi Müslüman diğeri ise yahudi veya Hıristiyandır. Elbette bu kadına veli olacak Müslüman olan kardeşidir. Aksi de aynıdır.
+!! Bu şartların tamamının bulunması gerekir. Salah (Doğruluk) ve adalet velide aranan şartlardan değildir. Bilakis fasığın velayeti caizdir.
+### Şema: شروط الولي
+| Şart | Arapçası
+| **Hürriyet** | «أن يكون حرا»
+| **Bulûğ** | «أن يكون بالغا»
+| **Akıl** | «أن يكون عاقلا»
+| **Din birliği** | «أن يكون موافقا بمولى عليه في الدين»
+* Velinin dört şartı: hürriyet, bulûğ, akıl, dinde muvafakat (din birliği). Adalet şart değildir; fâsığın velayeti caizdir.
+
+## Velayet ne ile sabit olur?
+¶ Dört durumdan birisi ile velayet sabit olur.
+1. **Milk:** Efendi, kölesini evlendirmeye maliktir. Kölenin küçük, büyük; aklı tam, nakıs ya da akılsız olması arasında da fark yoktur, köle köledir. Şu kadar var ki köle âkil ve büyük olup -erkek veya kadın olabilir- kendisini evlendirse bu akid efendinin icazetine bağlı olarak mevkuf olur. Mümeyyiz olmayan küçük ile mecnun ve ma'tuh olan büyük kölenin kendisini evlendirmesi sahih değildir.
+2. **Karabet:** Asabe ve onun dışındakileri kapsar. Yeri gelince anlatılacaktır.
+3. **Velâ:** Bununla kastedilen "velâ-i muvâlât"tır.
+4. **İmamet:** Bununla kastedilen sultanın veya vekilinin velayetidir. Milkiyet hariç bu üç durumu anlatacağız:
+: Velâ-i muvâlât = Nesebi meçhul olan bir şahsın şartları dahilinde başka bir şahıs ile akdetmiş olduğu bir veladan, bir dayanışma ilişkisinden ibarettir. Bu vela'da nesebi meçhul kişiye "mevla-i esfel", bunu kabul eden kimseye de "mevla-i â'la" denir.
+* Velayet dört şeyle sabit olur: milk (efendinin kölesi üzerinde), karabet, velâ (velâ-i muvâlât), imamet (sultan ya da vekili).
+
+## Karabet yolu ile velayet
+¶ Ebu Hanife'ye göre karabet iki nev'idir: Asabe ve asabenin dışındaki usulü ve furu'u. İmameyn, asabenin dışında karabet yolu ile velayeti kabul etmez. İmameyn bu konuda Hz. Ali kanalıyla merfu' olarak zikredilen «الْإِنْكَاحُ إِلَى الْعَصَبَاتِ» hadisi ile istidlal ederlerken Ebu Hanife «وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ» ayetini delil olarak kullanır.
+! Ayetin meali: "Allah'ın kitabınca, kan akrabaları birbirlerine (varis olmaya) daha layıktırlar."
+¶ Bir başka delili de Abdullah b. Mes'ud'ın kızını evlendirmesi için eşine yani kızın annesine icazet vermesidir. Malumdur ki anne, zevi'l-erham'dandır. Ve yine malumdur ki Abdullah b. Mes'ud gibi bir sahabi kendi aklıyla hareket ederek fetva vermez illa ki bunu Hz. Peygamber (sav)'den işitmiştir.
+: Zevi'l-erham = Rahim veya neseb bağıyla birbirine bağlı akrabalar.
+### Asabe
+: Asabe = Lügatte "baba tarafından olan yakına" verilen isimdir. Böyle bir yakınlığa "usûbe" denir. Ashab-ı feraiz ile beraber bulundukları zaman onların sehimlerinden arta kalan kısmı alan ve ashab-ı feraizle bulunmadığı halde ise terikenin tamamını alan yakındır.
+¶ Asabe iki nev'idir:
+1. **Asabe-i nesebiyye:** Ölüye neseb yoluyla yakınlığı olan kimselerdir. Bunlar dört cihettir: a) **Bünüvvet:** Oğul, oğulun oğlu ve aşağı doğru. b) **Ubüvvet:** Baba, dede ve yukarı doğru. c) **Uhuvvet:** Öz erkek kardeş, baba bir erkek kardeş, öz erkek kardeşin oğlu, baba bir erkek kardeşin oğlu vb. d) **Umûmet:** Öz amca, öz amca oğlu, baba bir amca vb.
+2. **Asabe-i sebebiyye:** Itk (azad) ve akit sebebiyle yakınlığı olan kimselerdir.
+>> **Bünüvvet:** oğul, oğlun oğlu ve aşağı doğru
+>> **Ubüvvet:** baba, dede ve yukarı doğru
+>> **Uhuvvet:** öz ve baba bir erkek kardeş ve oğulları
+>> **Umûmet:** öz amca, öz amca oğlu, baba bir amca
+¶ Birden fazla asabe bulunursa alimler cihet, derece ve kuvvet (akrabalık noktasından) durumlarının dikkate alınacağında müttefiktir. İşin özeti şudur: kadının bir velisi varsa amenna ve saddakna; ancak veli iki veya daha fazla olursa cihet bakımından hangisi yakınsa veli odur. Cihet yakınlığı bakımından eşitlerse derecesi daha kuvvetli olan tercih edilir. Bu ikisinde de eşit olurlarsa kuvvet bakımından üstün olan tercih edilir. Eğer asabe-i nesebiyye bulunmazsa o zaman asabe-i sebebiyye devreye girecektir.
+| Ölçü | Örnek
+| **Cihet** | Mesela, biri oğul diğeri öz erkek kardeş (oğul tercih edilir).
+| **Derece** | Mesela, babalık, oğulluk, kardeşlik, amcalık, dayılık gibi; her biri yeni basamak. Buna göre çocuklar birinci dereceyi, çocukların çocukları ikinci dereceyi oluşturur.
+| **Kuvvet** | Yakınlık kuvveti. Mesela anne baba bir kardeşlerin birbirine olan yakınlığı, baba bir kardeşlerin birbirine yakınlığından daha güçlüdür.
+¶ Azad edilmiş bir cariyenin velisi kendisini azad eden kimsedir (Mu'tik: asabe-i sebebiyye). Bu kişinin erkek veya kadın olması arasında da fark yoktur. Eğer azad eden mevcut değilse o zaman yukarıdaki tertibe göre asabe-i nesebiyye cihet, derece ve kuvvet sırasına göre tecelli eder. Mesela, azad edenin oğlu, azad edenin babasına tercih edilir. Diğerleri de böyledir. Eğer asabe-i nesebiyye de bulunmazsa olay Ebu Hanife'ye göre asabenin dışındaki akrabalarına (zevi'l-erham); imameyne göre ise sultan veya vekiline intikal eder.
+¶ Asabenin dışındaki akrabaların evlasına gelince usul cihetinden sırasıyla, anne, babanın annesi, annenin annesi gelir. Furu'u cihetinden ise sırasıyla, kız, oğlun kızı, kızın kızı gelir. Bunlardan sonra annenin babası vardır ki o, cedd-i fasittir. Sonra asabe-i nesebiyyeye tekrar bakılırsa benzeri uygulanır; uhuvvet, umumet diye devam eder (öz halalar, öz teyzeler vb.).
+* Karabetle velayet: Ebû Hanîfe'ye göre asabe ve asabe dışındaki usul-furu' (zevi'l-erham) — delil: "ulu'l-erham" ayeti ve İbn Mes'ûd'un kızını annesine evlendirtmesi; İmameyn'e göre yalnız asabe — delil: «الإنكاح إلى العصبات».
+* Asabe-i nesebiyyenin dört cihetinin sırası: bünüvvet → ubüvvet → uhuvvet → umûmet. Birden fazla asabede sırasıyla cihet, derece, kuvvet bakılır; asabe-i nesebiyye yoksa asabe-i sebebiyye (mu'tik).
+
+## Velâ yolu ile velayet
+¶ Bir kafir bir Müslüman vesilesi ile Müslüman olduğunda onu velisi yapar ve şöyle der: "Sen benim velimsin. Öldüğüm zaman mirasçımsın, cinayet işlediğimde akilemsin." İşte bu "mevle'l-muvâlât" diye isimlendirilmiştir. Karabet sebebiyle olan velayetten sonra, bu gelir.
+
+## Sultanın velayeti ile velayet
+¶ Bunun delili Hz. Peygamber'in şu hadisidir: "Sultan, velisi olmayana velidir." Fakat sultanın işlerinin çokluğundan ötürü onun yerine hakimler vekillik yapar.
+
+## Şema: بم تثبت الولاية
+| Yol | Arapçası | Açıklaması
+| **Milk** | «تثبت بالملك» | «ولاية السيد على عبده وأمته»
+| **Karabet** | «تثبت بالقرابة» | «عند أبي حنيفة: تشمل عصبة وذوي الأرحام من غير العصبة "وأولو الأرحام بعضهم أولى ببعض"» · «وعند الإمامين: تثبت ولاية بالقرابة للعصبة فقط "الإنكاح إلى العصبات"»
+| **Velâ** | «تثبت بالولاء» | «مولى الموالاة»
+| **İmamet** | «تثبت بالإمامة» | «السلطان ولي من لا ولي له»
+>> «بنوة» (oğulluk)
+>> «أبوة» (babalık)
+>> «أخوة» (kardeşlik)
+>> «عمومة» (amcalık)
+
+## Velilerin tertibi
+¶ Yukarıda da çokça işaret edildiği gibi sıralama şöyledir:
+>> **Karabet:** Bunlar iki derecedir: a) asabe-i nesebiyye b) asabe-i sebebiyye
+>> **Mevle'l-muvâlât**
+>> **Sultan, vekili ya da hakimi.**
+* Velilerin tertibi: karabet (önce asabe-i nesebiyye, sonra sebebiyye) → mevle'l-muvâlât → sultan, vekili ya da hakim ("Sultan velisi olmayanın velisidir").
+
+## Uzak velinin yakın veli varken velayeti
+¶ Bu üç yerdedir:
+1. Yakın velinin uzak veliyi evlendirmek için vekil tayin etmesi / yetki vermesi.
+2. Yakın veli hazır değilken, kadına talip olan denk kişinin (hatib) onun görüşünü almayarak beklememesi.
+3. Yakın veli eğer velayete gerekli şartları haiz değilse uzak veli veli olur.
+* Yakın veli varken uzak veli üç durumda veli olur: yakın veli ona yetki verirse, yakın veli hazır değilken denk talip beklemezse, yakın veli velayet şartlarını taşımıyorsa.
+
+## Velinin azli
+: Azl = Lügatte uzaklaştırma anlamına gelen azl, bir kişiye verilen yetkinin geri alınmasıdır. Konumuzla ilgili olarak azl, velinin, üzerinde velayet hakkına sahip olduğu kişinin evliliğini engellemesidir.
+¶ Bunu yapabilmesi için iki şartın yani kefaet ile mehr-i misil şartının yerine getirilmemesi gerekir. Bu şartlar yerine getirildiği halde yakın veli akde müdahil oluyorsa bu günahtır.
+¶ Mezkur iki şart yerine getirildiği halde böyle bir durumla karşılaşılması durumunda ulema bu durumun önüne geçmek için iki görüş ortaya koymuştur:
+1. Velayet, uzak veliye intikal eder. Nitekim veli hazır değilken de hüküm böyledir.
+2. Velayet, hakime intikal eder. Bu Hanefi mezhebinin mutemed görüşüdür. Bu konudaki asli unsur iki şeydir. Birincisi bu zulümdür, insanlar arasında mezalimin kaldırılması gerekir ki bu iş hakimin işidir. İkincisi, yakın veli göz göre göre tüm şartları haiz olan hatibi bırakıp kızı başka biri ile evlendirmenin hesabı içerisindedir. Burada Hanefilerin intikali hakime vermesi ile mesele kökünden çözülmüş uzak veliye verilmesi durumunda çıkabilecek huzursuzluk önlenmiş olur.
+* Velinin azli (engellemesi) ancak kefâet ya da mehr-i misil eksikse caizdir; şartlar tamken engellemek günahtır. Bu durumda velayet bir görüşe göre uzak veliye, Hanefilerin mutemed görüşüne göre hakime geçer.

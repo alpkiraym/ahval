@@ -1,0 +1,955 @@
+# El ile hazırlanmış sorular. Biçim:
+# ? <ünite no> | soru
+# + doğru cevap
+# - çeldirici (3 adet)
+# = açıklama
+# Bütün bilgiler ünite metinlerinden (01–11.txt) alınmıştır.
+
+# ---------- 1. ünite ----------
+? 1 | Nikah kelimesinin lügat anlamı aşağıdakilerden hangisidir?
++ Katmak, birleştirmek, eklemek (damm)
+- İki şeyden birini diğerine bağlamak
+- Faydalanma hakkı vermek
+- Teklif etmek
+= Nikah lügatte katmak, birleştirmek, eklemek (damm) anlamındadır. "İki şeyden birini diğerine bağlamak" zevacın anlamıdır.
+
+? 1 | Zevac ve nikahın şer'i manası aşağıdakilerden hangisidir?
++ Meşru bir şekilde eşlerden her birine diğerinden faydalanma (istimta') hakkı veren akit
+- Erkeğin kadını evlenmek için istemesi
+- Kocanın karısına ödemek zorunda olduğu mal
+- Bir kişinin evlenmesi konusunda diğer birinin sahip olduğu yetki
+= Şer'i manası: eşlerden her birine diğerinden meşru şekilde faydalanma hakkı veren akittir. Diğerleri sırasıyla hıtbe, mehir ve velayetin tanımlarıdır.
+
+? 1 | Evliliği teşvikle ilgili zikredilen iki büyük sebep hangisinde doğru verilmiştir?
++ İnsanı haramlardan uzak tutması ve neslin çoğalmasını temin etmesi
+- Mehir ve nafakanın vacip olması
+- Mirasın ve nesebin sabit olması
+- Velayet ve vekaletin kurulması
+= Evlilik insanı helal yollarla ihtiyacını gidermeye yönelterek haramlardan uzak tutar ve neslin çoğalmasını temin eder ("Evleniniz, çoğalınız...").
+
+? 1 | Evlilik akdinde "icab" nedir?
++ Taraflardan birisinden ilk olarak çıkan söz (teklif)
+- Mutlaka erkek tarafından yapılan teklif
+- Kendisine teklif yapılan taraftan çıkan söz
+- Velinin verdiği izin
+= İcab taraflardan birinden ilk çıkan sözdür; zevcten, zevceden ya da onları temsil edenden çıkması fark etmez. Teklif yapılan taraftan çıkan söz kabuldür.
+
+? 1 | Hanefilere göre bir kişinin evlilik akdinde hem icabı hem kabulü üstlenmesi hakkında ne söylenebilir?
++ Bir tarafın velisi diğerinin vekili olarak her iki tarafı temsil edebilir.
+- Hiçbir surette caiz değildir.
+- Yalnızca hakim bunu yapabilir.
+- Ancak iki şahit üçüncü bir kişiyi vekil yaparsa caizdir.
+= Hanefilere göre bir kişi bir tarafın velisi diğerinin vekili olarak ya da amcasının küçük kızını kendisine nikahlayarak iki tarafı da temsil edebilir; Şafiilerin cumhuru buna katılmaz.
+
+? 1 | Yazı yazmayı bilen dilsizin nikahta iradesini bildirmesi hakkında müftâbih görüş nedir?
++ İşaretine itibar edilmez; yazı ile bildirmesi gerekir.
+- İşareti her durumda yeterlidir.
+- Ancak velisi aracılığıyla evlenebilir.
+- Nikahı mevkuf olur.
+= Yazı bilmeyen dilsizin işareti caizdir. Yazı bilen dilsiz hakkında ihtilaf vardır; çoğunluğa ve müftâbih görüşe göre işaretine itibar edilmez, yazı ile iradesini bildirmelidir.
+
+? 1 | Taraflar aynı mecliste değilse mektupla (mukâtebe) nikahın sahih olması için ne gerekir?
++ Mektubun kadına ulaşınca iki şahit huzurunda okunması ve kabulün orada bildirilmesi
+- Mektubun noter onaylı olması
+- Kadının mektubu kabul ettiğini velisine yazması
+- Mektubun Arapça yazılması
+= Mektup kadına ulaşınca iki şahit huzurunda okunur (ya da okutulur), kadın kabulünü orada ifade eder. Bunlar olmadan "falanla evlendim" demesi akdi sahih kılmaz; çünkü şahitlerin tarafların sözlerini işitmesi gerekir.
+
+? 1 | Vefat iddeti bekleyen kadına talip olmanın hükmü nedir?
++ Ta'riz (üstü kapalı) yoluyla caizdir.
+- Tasrih yoluyla da caizdir.
+- Hiçbir yolla caiz değildir.
+- Yalnızca Şafiilere göre caizdir.
+= Vefat iddeti bekleyen kadına ittifakla ta'riz yoluyla talip olunabilir; delil Bakara 2/235 "Kadınlara üstü kapalı evlilik teklif etmenizde... günah yoktur." Tasrih caiz değildir.
+
+? 1 | Ric'i talak iddeti bekleyen kadına evlilik teklif edilememesinin gerekçesi nedir?
++ Kocası yeni nikah ve mehir olmadan ona dönebildiği için kadın evli kadın gibidir.
+- Kadının mehri henüz ödenmemiştir.
+- Kadın üç talakla boşanmıştır.
+- Kadının velisi izin vermemiştir.
+= Ric'i talakta ne istimta' ne de kocanın yeni nikah ve mehir olmadan dönmesi haramdır; kadın evli gibi olduğu için ne tasrih ne ta'riz caizdir.
+
+? 1 | Beynûnet-i kübrâ ile boşanmış iddetli kadına ta'riz yoluyla talip olmak kime göre caizdir?
++ Cumhur (ve Şafiiler)
+- Hanefiler
+- Bütün mezheplere göre
+- Hiçbir mezhebe göre
+= Şemaya göre cumhur beynûnet-i kübrâda ta'rizi caiz görür, Hanefiler buna muhaliftir (tasrih de ta'riz de caiz değil). Tabloda da "Şafiilerde ta'riz yoluyla caizdir" denir.
+
+? 1 | Nişanlılıkta mehir olarak verilenlerin nişan bozulunca hükmü nedir?
++ Sebebi ne olursa olsun iade edilir (ittifak).
+- Kim bozduysa ona göre değişir.
+- Hibe hükmündedir, iade edilmez.
+- Yarısı iade edilir.
+= Mehir olarak verilenlerin iadesinde alimler ittifak halindedir. İhtilaf hibe olarak verilen hediyelerdedir.
+
+? 1 | Hanefilere göre nişan hediyelerinin geri alınması hakkında hangisi doğrudur?
++ Hibe hükmündedir; geri alınabilir ama tüketilmişse geri alınamaz.
+- Hiçbir surette geri alınamaz.
+- Kim bozarsa bozsun hepsi geri alınır.
+- Erkek bozduysa geri alınamaz, kadın bozduysa alınır.
+= Hanefilere göre hediyeler hibe gibidir; hibeden rücû caiz olduğu gibi hediyeden de rücû caizdir. Tüketilmişse bu rücûya mani sayılır.
+
+? 1 | Hıtbede "tasrih" nedir?
++ Evlilikten başka bir anlama gelmeyen söz
+- Evlilik isteğine de istememeye de ihtimali olan söz
+- Velinin aracılığıyla yapılan teklif
+- Mektupla yapılan teklif
+= Şemada «الخطبة تصريحا: الكلام الذي لا يحتمل غير الزواج». Evlilik isteğine de istememeye de ihtimali olan söz ta'rizdir.
+
+# ---------- 2. ünite ----------
+? 2 | Hanefilere göre in'ikad şartlarından âkidle ilgili olan tek şart hangisidir?
++ Akıllı olmak
+- Baliğ olmak
+- Hür olmak
+- Müslüman olmak
+= Akdi yapanla ilgili tek in'ikad şartı akıllı olmaktır. Bulûğ şartı nefaz şartıdır.
+
+? 2 | Aşağıdakilerden hangisi akit meclisini ilgilendiren in'ikad şartlarından değildir?
++ İki şahidin bulunması
+- Meclis birliği
+- Tarafların birbirinin sözünü işitip anlaması
+- Kabulün icaba uygun olması
+= Meclisle ilgili üç in'ikad şartı: meclis birliği, birbirini işitip anlama, kabulün icaba uygunluğu. Şahit sıhhat şartıdır.
+
+? 2 | Ahmet 50 TL mehir teklif ettiği hâlde Esma "10 TL yeterli" derse kabul hakkında ne söylenir?
++ Hayır olan muhalefettir, caizdir.
+- Bir cüzde muhalefet olduğu için sahih değildir.
+- Akit mevkuf olur.
+- Mehr-i misil gerekir.
+= Lehte olan (hayır olan) muhalefet caizdir. Esma aksini istemedikçe Ahmet iki mehirden az olanı verir.
+
+? 2 | Hanefilere göre evliliğin sıhhat şartları hangileridir?
++ Kadında evlenme engeli bulunmaması ve iki şahit
+- Akıl, bulûğ ve hürriyet
+- Kefâet ve mehr-i misil
+- Veli izni ve iki şahit
+= Hanefiler nezdinde sıhhat şartları ikidir: kadının akit vaktinde evlenmeye engelinin bulunmaması ve şahitlik şartlarını taşıyan iki şahit. Veli şartını Şâfiî ve Ahmed b. Hanbel ekler.
+
+? 2 | Hanefilere göre nikah şahitliği hakkında hangisi yanlıştır?
++ Şahitlerin adil olması şarttır.
+- Bir erkek ve iki kadın şahit olabilir.
+- Âmâ şahit olabilir.
+- Gelin ve damadın anne-babası şahit olabilir.
+= Hanefilere göre şahitlerin görüyor olması, adil olması ve dünürlerin tanımadığı kişiler olması şart değildir; âmâ, fâsık, gelin ve damadın anne-babası şahit olabilir.
+
+? 2 | Damat Müslüman, gelin zimmî ise şahitlerin zimmî olabileceğini söyleyenler kimlerdir?
++ Ebû Hanîfe ve Ebû Yûsuf
+- İmam Şâfiî ve İmam Muhammed
+- İmam Züfer ve İmam Mâlik
+- Ahmed b. Hanbel ve Dâvûd ez-Zâhirî
+= Ebû Hanîfe ve Ebû Yûsuf'a göre bu durumda şahitler zimmî olabilir; İmam Şâfiî, Muhammed ve Züfer'e göre damat Müslümansa şahitler zimmî olamaz.
+
+? 2 | Akıl-baliğ kadının velisiz kendisini evlendirebileceği görüşünü «وَامْرَأَةً مُؤْمِنَةً إِنْ وَهَبَتْ نَفْسَهَا لِلنَّبِيِّ…» ayetine dayandıran kimdir?
++ Ebû Hanîfe
+- İmam Şâfiî
+- Ahmed b. Hanbel
+- İmam Mâlik
+= Ebû Hanîfe'ye göre velayet büyük kadın için sıhhat şartı değildir; bu ayeti ve "Dul kendisini evlendirmeye velisinden daha layıktır" hadisini delil getirir. Şâfiî ve Ahmed "fe-lâ ta'dulûhunne" ayetine dayanır.
+
+? 2 | Nefaz şartları eksik olan nikah hangi hükmü alır?
++ Mevkuf olur.
+- Batıl olur.
+- Fasit olur.
+- Feshe kabil olur.
+= Şemaya göre: in'ikad şartı eksikse batıl, sıhhat şartı eksikse fasit, nefaz şartı eksikse mevkuf, lüzum şartı eksikse feshe kabil olur.
+
+? 2 | Taraflar kendileri akdederse lüzum şartları kimin için aranır ve nelerdir?
++ Yalnız kadın için: kefâet ve mehr-i misil
+- Yalnız erkek için: kefâet ve nafaka
+- Her ikisi için: akıl ve bulûğ
+- Veli için: şahit ve izin
+= Akdi taraflar kendileri yaparsa lüzum şartları yalnız kadın için aranır: kocanın denk olması (kefâet) ve mehrin mehr-i misilden az olmaması. Değilse veliler feshedebilir.
+
+? 2 | Fuzûlînin kıydığı nikahın hükmü Hanefilere göre nedir?
++ Mün'akid ama mevkuftur.
+- Batıldır.
+- Sahih ve nafizdir.
+- Fasittir.
+= Taraflar şartları haiz oldukları hâlde akdi fuzûlî yaparsa Şafiilere göre batıl, Hanefilere göre mün'akid olmakla beraber mevkuftur.
+
+? 2 | Baba ya da dede dışındaki bir velinin evlendirdiği küçüğün bulûğda evliliği feshetme hakkına ne ad verilir?
++ Bulûğ muhayyerliği (hıyâr-ı bulûğ)
+- Ayıp muhayyerliği
+- Şart muhayyerliği
+- Fesih muhayyerliği
+= Baba veya dede dışındaki bir velinin evlendirdiği küçüğün bulûğda evliliği feshetme hakkı bulûğ muhayyerliğidir. Baba veya dede evlendirmişse bu hak yoktur.
+
+? 2 | Hanefilerin meşhur görüşüne göre ayıp muhayyerliği doğuran üç sebepten biri değildir?
++ Kadının kısır olması
+- Mecbûb (erkeğin edep mahallinin kesik olması)
+- Hasiyy (erkeğin hadım olması)
+- İnnîn (erkeğin iktidarsızlığı)
+= Hanefilerin meşhur görüşüne göre üç sebep erkekle ilgilidir: mecbûb, hasiyy, innîn. Bunlardan biri varsa kadın feshi isteyebilir.
+
+# ---------- 3. ünite ----------
+? 3 | "Eğer bakireysen seninle evlenirim" denip kız "kabul ettim" der ve o sırada bakire ise akdin hükmü nedir?
++ Sahih ve tamdır; şart sûrîdir, akit müneccez gibidir.
+- Sahih değildir; temlik akitleri ta'liki kabul etmez.
+- Mevkuftur.
+- Akit sahih şart batıldır.
+= Şart akit esnasında mevcut olduğu için ta'lik sûrî (biçimsel) kalır; akit uygulamada müneccez gibidir.
+
+? 3 | "Bahar gelip yağmur yağdığı zaman seninle evlenirim" şeklindeki akdin sahih olmamasının gerekçesi nedir?
++ Temlik akitleri tehlikeli ta'liki kabul etmez.
+- Mehir zikredilmemiştir.
+- Şahit yoktur.
+- Akit fuzûlî tarafından yapılmıştır.
+= Gelecekte gerçekleşmesi de gerçekleşmemesi de mümkün bir şarta bağlanan akit sahih değildir; kaide: "Temlik akitleri (evlilik de bunlardandır) tehlikeli ta'liki kabul etmez."
+
+? 3 | Akd-i muzâfı akd-i muallaktan ayıran özellik nedir?
++ Akit esnasında akdin var olması, şartın akdin sonuna eklenmesi
+- Şartın akitten önce gelmesi
+- Mehrin zikredilmemesi
+- Şahitsiz yapılması
+= Muzâf akitte önce akit kurulur sonra şart eklenir; muallakta ise akit şarta bağlanır (önce şart, sonra akit).
+
+? 3 | "Senin nafakanı vermemem şartıyla seninle evlendim" denirse hüküm nedir?
++ Akit sahih, şart batıldır.
+- Akit de şart da sahihtir.
+- Akit de şart da batıldır.
+- Akit mevkuftur.
+= Akdin gereğine ve şer'e uygun olmayan izafî şartta akit sahih, şart batıldır. Şemaya göre Şâfiî'ye göre akit de batıldır.
+
+? 3 | "Evinden izinsiz çıkmaman şartıyla seninle evlendim" denirse hüküm nedir?
++ Akit ve şart sahihtir; kadın şartı yerine getirmelidir.
+- Akit sahih, şart batıldır.
+- Akit mevkuftur.
+- Akit batıldır.
+= Bu şart akdin gereklerindendir; akdin iktizası, mülâimi, şer'î ya da örfe münasip şartlarda akit de şart da sahihtir.
+
+? 3 | Muvakkat nikahı müt'a nikahından ayıran üç özellik hangisidir?
++ Şahit, belirli süre ve nikah/zevac lafzı
+- Mehir, veli ve icab
+- İstimta' lafzı, mübhem süre ve şahitsizlik
+- Kefâet, mehr-i misil ve bulûğ
+= Muvakkat nikah şahitler huzurunda, belirli süreyle ve nikah ve zevac lafızlarıyla yapılır (şahit + süre + lafız). Müt'ada şahit ve süre belirlemek şart değildir, istimta' lafzı kullanılır.
+
+? 3 | Muvakkat nikahta akdin sahih şartın batıl olduğunu ve eşlerin birbirine mirasçı olacağını söyleyen kimdir?
++ İmam Züfer
+- Ebû Hanîfe
+- İmam Şâfiî
+- İmam Mâlik
+= Hanefilere göre muvakkat nikah müt'a gibi batıldır ve miras yoktur. İmam Züfer ise onu mülâim olmayan şart eklenmiş akde benzetir: akit sahih, şart batıl; mirasçı olurlar.
+
+? 3 | Şiğar nikahı nedir?
++ İki kadının mehirsiz olarak birbirine karşılık iki erkeğe nikahlanması
+- Belli mehir karşılığı geçici süre için nikah
+- Şahitler huzurunda belli süre için yapılan nikah
+- Mehirsiz ya da mehri veliye havale ederek kıyılan nikah
+= Şiğar: iki kadının mehirsiz olarak biri diğerine karşılık iki erkeğe nikahlanmasıdır; ör. iki erkeğin kız kardeşlerini değiş tokuş etmesi. Son seçenek nikah-ı tefvizdir.
+
+? 3 | Ebû Hanîfe'ye göre şiğar nikahında her bir kadın için ne gerekir?
++ Mehr-i misil
+- Mehr-i müsemma
+- Müt'a
+- Hiçbir şey; akit batıldır
+= Ebû Hanîfe ve ona tabi olanlara göre şiğar muzâf akde benzer: akit sahih, şart batıldır; her biri için mehr-i misil gerekir. Çünkü istimta' mal değildir, mehir mütekavvim mal olmalıdır.
+
+? 3 | Müt'a nikahı hakkında hangisi yanlıştır?
++ Şahit ve belirli süre şarttır.
+- İstimta' lafzı kullanılır.
+- İslam'ın ilk yıllarında caizdi, sonra ittifakla nehyedildi.
+- Şia bu nikahı caiz görür.
+= Müt'ada sürenin belirlenmesi ve şahit şart değildir; mübhem bir zaman yeterlidir. Şahit ve belirli süre muvakkat nikahın özellikleridir.
+
+# ---------- 4. ünite ----------
+? 4 | Malı olan, eşine iyilikle davranabilecek ve evlenmezse zinaya düşeceği kesin olan kişi için evliliğin hükmü nedir?
++ Farz
+- Vacip
+- Mubah
+- Mekruh
+= Mehir ve nafakaya gücü yeten, eşine iyilikle davranacak olgunlukta olan ve evlenmezse zinaya düşme korkusu yaşayan kişi için evlilik farzdır. Zinaya düşme ihtimali varsa vacip olur.
+
+? 4 | Malı olan, zinaya düşme korkusu olmayan fakat eşine kötü davranmaktan çekinen kişinin evlenmesi hükmü nedir?
++ Mekruh
+- Haram
+- Mubah
+- Vacip
+= Malı var, zina korkusu yok ama eşine kötü davranmaktan çekiniyorsa evlenmesi mekruhtur. Malı yoksa ya da eşine iyi davranamayacağı belliyse haramdır.
+
+? 4 | Şemadaki ملاحظة'ya göre evliliğin hükmünde geçen "mal"dan maksat nedir?
++ Mehri ve evliliğin diğer masraflarını karşılayacak mal
+- Zengin olmak
+- Bir yıllık nafaka
+- Kendine ait bir ev
+= «المراد بالمال هنا أن يجد مالا يقوم بالمهر وسائر نفقات الزوجية»: mehri ve evliliğin diğer nafakalarını karşılayacak mala sahip olmak.
+
+? 4 | Sahih-nâfiz evlilikte aşağıdakilerden hangisi kocanın sorumluluklarından değildir?
++ Kocaya itaat
+- Mehir
+- Nafaka
+- Eşler arasında adalet
+= Kocanın dört sorumluluğu: mehir, nafaka, adalet, eziyet etmemek. Kocaya itaat kadının sorumluluğudur.
+
+? 4 | Sahih-nâfiz evlilikte eşlerin ortak sorumluluklarından biri değildir?
++ Mehir
+- Nesebin sübûtu
+- Veraset
+- Hürmet-i musahara
+= Ortak beş sorumluluk: nesebin sübûtu, veraset, hürmet-i musahara, istimta' hakkı, geçim ehli olmak. Mehir kocanın sorumluluğudur.
+
+? 4 | Sıhhat şartları tam olup nikah sahibinin ya da velinin icazetine bağlı olan nikah hangisidir?
++ Sahih-mevkuf
+- Fâsid
+- Bâtıl
+- Sahih-nâfiz lazım
+= Mevkuf nikah sıhhat şartlarını taşır ama icazete bağlıdır (gayr-i nafiz). İcazetten önce duhul olursa fasit hükümleri işler ve veli feshedebilir.
+
+? 4 | Fasit nikahta duhulden sonra ayrılık olursa aşağıdakilerden hangisi vacip olmaz?
++ Tarafların birbirine mirasçı olması
+- Müsemma ile misilden az olan mehir
+- Hürmet-i musahara
+- İddet ve iddet nafakası
+= Duhulden sonra fasit nikahta dört şey vacip olur: az olan mehir, (en az 6 ay sonra doğan çocuğun) nesebi, hürmet-i musahara, iddet ve nafakası. Veraset, nafaka (evlilik nafakası), istimta' ve itaat terettüp etmez.
+
+? 4 | Fasit nikahta nesebin sabit olması için çocuğun akit tarihinden itibaren en az ne kadar sonra doğması gerekir?
++ Altı ay
+- Dokuz ay
+- Bir yıl
+- Üç ay
+= Akit tarihinden başlamak üzere en az altı ay geçtikten sonra doğan çocuğun nesebi sabit olur.
+
+? 4 | Batıl evliliği bile bile sürdürenlere had uygulanmayacağını, çünkü akit şüphesi bulunduğunu söyleyen kimdir?
++ Ebû Hanîfe
+- İmam Şâfiî
+- İmam Mâlik
+- Ahmed b. Hanbel
+= Ebû Hanîfe dışındaki imamlara göre had uygulanır; Ebû Hanîfe'ye göre akit şüphesi vardır.
+
+? 4 | Şemaya göre "feshe kabil olan nikah" nikahın hangi kısmıdır?
++ Nafiz nikahın gayr-i lazım olanı
+- Fasit nikah
+- Batıl nikah
+- Mevkuf nikah
+= Sahih nikah nafiz ya da mevkuftur; nafiz nikah lazım (feshe kabil olmayan) ya da gayr-i lazım (feshe kabil olan, ör. hıyâr-ı bulûğ) olur.
+
+# ---------- 5. ünite ----------
+? 5 | Aşağıdakilerden hangisi muvakkat (geçici) haramlık sebeplerinden değildir?
++ Süt emme (rada')
+- İki mahremi bir nikahta toplamak
+- Kadının üç talakla boşanmış olması
+- Erkeğin dört eşe sahip olması
+= Rada' müebbed haramlık sebebidir (karabet, musahara ve rada' ile birlikte). Muvakkat haramlık beş şeyle olur.
+
+? 5 | Neseb yoluyla haram olan "dede ve ninenin furu'u" hakkında hangisi doğrudur?
++ Yalnız bir derece ayrılanlar (hala, teyze) haramdır; amca, hala ve teyze kızları haram değildir.
+- Dede ve ninenin bütün furu'u haramdır.
+- Hiçbiri haram değildir.
+- Yalnız amca kızları haramdır.
+= Dede ve ninenin bir dereceden ayrılan furu'u (hala, teyze) haramdır; iki dereceden ayrılanlar (amca, hala, teyze kızları) haram değildir.
+
+? 5 | Üvey kızın erkeğe haram olması için ne şarttır?
++ Annesine duhul etmiş olmak
+- Annesiyle nikahın kıyılmış olması yeterlidir
+- Üvey kızın erkeğin evinde büyümüş olması
+- Annesiyle halvet-i sahîhanın gerçekleşmiş olması yeterlidir
+= Kadının furu'u ancak anneye duhulle haram olur: «وربائبكم اللاتي في حجوركم من نسائكم اللاتي دخلتم بهن». Duhul olmadan boşanırsa kızları haram olmaz. Halvet-i sahîha da yetmez.
+
+? 5 | Kayınvalidenin (eşin annesinin) erkeğe haram olması için ne gerekir?
++ Kızıyla nikah yeterlidir; duhule bakılmaz.
+- Kızına duhul etmiş olmak
+- Kızıyla halvet-i sahîha
+- Kızından çocuk sahibi olmak
+= Kadının usulünde duhule bakılmaz, nikah yeterlidir: «وأمهات نسائكم». Kaide: "Kızları nikahlamak anneleri haram kılar, annelere duhul kızları haram kılar."
+
+? 5 | Evlatlığın boşadığı eşiyle evlenmenin caiz olduğunun delili hangisidir?
++ «فَلَمَّا قَضَى زَيْدٌ مِنْهَا وَطَرًا زَوَّجْنَاكَهَا…» ayeti
+- «وَأُمَّهَاتُ نِسَائِكُمْ» ayeti
+- «يحرم من الرضاع ما يحرم من النسب» hadisi
+- «لا نكاح إلا بشهود» hadisi
+= Gelinlerin haramlığı "sulbünüzden olan oğullarınızın eşleri" kaydıyladır; evlatlık evlat değildir. Zeyd ayeti bunun delilidir.
+
+? 5 | Zina ile sıhriyyetin oluşmayacağı görüşünü benimseyen Osmanlı düzenlemesi hangisidir?
++ Osmanlı Aile Hukuku Kararnamesi
+- Mecelle
+- Kânûnnâme-i Âl-i Osman
+- Tanzimat Fermanı
+= Ebû Hanîfe'ye göre zina ile sıhriyyet oluşur; Şâfiî'ye göre oluşmaz. Osmanlı Aile Hukuk kararnamesi zinanın sıhriyyet oluşturmayacağı görüşünü benimsemiştir.
+
+? 5 | Rada' ile ilgili kaide hangisidir?
++ "Emenin emzirene nefsi, emzirenin emene nesli haramdır."
+- "Mani zail olunca memnu' avdet eder."
+- "Temlik akitleri tehlikeli ta'liki kabul etmez."
+- "İbtidaen caiz olmayan bekaen de caiz değildir."
+= Süt emmede kaide: emen çocuk kendisi (nefsi) emzirene, emziren kadın ise nesliyle (çocuklarıyla) emene haram olur.
+
+? 5 | Hanefilere göre süt hısımlığının oluşması için ne kadar emme yeterlidir?
++ Mideye ulaşan bir damla
+- Fasılalı beş emme
+- En az üç emme
+- Doyuncaya kadar on emme
+= Şâfiî ve Hanbelîlere göre fasılalı 5 emme, Mâlikîlere göre en az üç emme, Hanefilere göre mideye ulaşan bir damla yeterlidir.
+
+? 5 | Hanefi mezhebinin kabul ettiği emme süresi nedir?
++ 2 yıl
+- 2,5 yıl
+- 3 yıl
+- Yaşın önemi yoktur
+= Emme süresi: cumhur 2 yıl, Ebû Hanîfe 2,5 yıl, İmam Züfer 3 yıl, Hanefi mezhebi 2 yıl; Zâhirîler ve Hz. Âişe'ye göre yaşın önemi yoktur.
+
+? 5 | Aşağıdakilerden hangisiyle evlenmek caizdir?
++ Süt oğlunun öz kız kardeşi
+- Süt teyze
+- Eşinin süt annesi
+- Süt babanın eşi
+= Süt oğlun öz kız kardeşi, süt kardeşin annesi, süt oğul veya kızın ninesi, süt kardeşin kız kardeşi ile evlenilebilir. Diğerleri haram olan süt akrabalarıdır.
+
+# ---------- 6. ünite ----------
+? 6 | İki kız kardeşi bir nikahta toplama haramlığı hakkında hangisi doğrudur?
++ Geçicidir; nikahlının ölümü ya da boşanıp iddetinin bitmesiyle kalkar.
+- Ebedîdir.
+- Yalnız duhulden sonra başlar.
+- Süt kardeşler için geçerli değildir.
+= Bu geçici bir haramlıktır. Süt kardeşlik de neseb gibidir; süt kardeş iki kadın da bir nikahta toplanamaz.
+
+? 6 | Aynı nikahta toplama yasağı için fakihlerin genel kuralı nedir?
++ İki kadından biri erkek farz edildiğinde aralarında evlenme engeli varsa ikisi bir nikahta toplanamaz.
+- Aynı aileden iki kadın hiçbir surette bir nikahta toplanamaz.
+- Yalnız kız kardeşler bir nikahta toplanamaz.
+- Aralarında miras ilişkisi varsa toplanamazlar.
+= «لو فرضت إحداهما رجلا لحرمت الأخرى عليه». Bu yüzden hala ile yeğeni toplanamaz, iki amca kızı toplanabilir.
+
+? 6 | Bir kimse iki kız kardeşi tek akitle nikahlar ve duhulden sonra ayrılırlarsa her birine ne verilir?
++ Mehr-i müsemma ile misilden azı
+- Tam mehr-i müsemma
+- Yarım mehir
+- Hiçbir şey
+= Tek akitte hemen ayrılırlar; duhulden önceyse bir şey gerekmez, duhulden sonraysa her birine müsemma ile misilden az olanı verilir.
+
+? 6 | İki kız kardeşi ayrı akitlerle nikahlayan ve hangisinin önce olduğu bilinmeyen kişi duhulden önce ayrılırsa ve mehirler eşitse ne gerekir?
++ İkisine (toplam) yarım mehir verilir.
+- Her birine tam mehir verilir.
+- Hiçbir şey gerekmez.
+- Her birine mehr-i misil verilir.
+= Mehirler eşit ve talak duhulden önceyse yarım mehir verilir; mehirler farklıysa her birine kendi mehrinin dörtte biri; ayrılık duhulden sonraysa her birine tam mehir.
+
+? 6 | Başkası ile evli olmaktan doğan evlenme engeline ne ad verilir?
++ Hakku'l-ğayr
+- Hürmet-i musahara
+- Velayet-i icbar
+- Beynûnet-i kübrâ
+= Kadın başkasıyla evliyken ya da iddet beklerken evlenemez; bu engele hakku'l-ğayr (başkasına aidiyet) denir. İddet "hükmî evlilik" sayılır.
+
+? 6 | Üç talakla boşanan kadının ilk kocasıyla yeniden evlenebilmesi için aşağıdakilerden hangisi aranmaz?
++ İkinci kocanın onu en az bir yıl nikahında tutması
+- Başka bir erkekle sahih nikah
+- Fiilî duhul
+- Yeniden iddet beklemesi
+= Beş şart: iddet → başka erkekle hukuka uygun nikah → duhul → boşama/ölüm → yeniden iddet. Süre şartı yoktur. Zifaftan önce koca ölürse engel devam eder.
+
+? 6 | Lianın geçici bir evlenme engeli olduğunu kabul edenler kimlerdir?
++ Ebû Hanîfe ve İmam Muhammed
+- Şâfiî ve Mâlik
+- Ebû Yûsuf ve İmam Züfer
+- Zâhirîler ve İmâmiyye
+= Yalnız Ebû Hanîfe ve İmam Muhammed lianı geçici engel sayar ve hakimin tefrik kararını şart koşar. Diğerlerine göre lian ebedî engeldir, yargı kararı aranmaz.
+
+? 6 | Dördüncü eşini bain talakla boşayan erkeğin onun iddeti içinde beşinci kadınla evlenmesini caiz gören kimdir?
++ İmam Şâfiî
+- Ebû Hanîfe
+- İmam Mâlik
+- Ahmed b. Hanbel
+= İddet bekleyen kadının evliliğinin bazı sonuçları hükmen devam ettiği için genel kural caiz olmamaktır. Şâfiî bain talakla evlilik bağının tamamen kesildiği kanaatinde olduğundan caiz görmüştür.
+
+? 6 | Ebû Hanîfe'ye göre Sâbiîler hakkında hangisi doğrudur?
++ Ehl-i kitaptır, Hristiyanlığın bir koludur.
+- Mecusilerle aynıdır.
+- Müşriktir.
+- Yahudiliğin bir koludur.
+= Ebû Hanîfe'ye göre Sâbiîler Ehl-i kitaptır; cumhur aksi görüştedir ve Sâbiîliği semavi olmayan dinlerden sayar.
+
+? 6 | Müslüman erkekle kitabî kadın evliliğinde aşağıdakilerden hangisi Müslüman kadınla evlilikten farklı değildir?
++ Mehir ve nafaka hakkı
+- Şahitlerin Müslüman olması şartı
+- Birbirlerine mirasçı olmaları
+- Kadının başka semavi dine geçmesinin sonucu
+= Şemaya göre bütün hüküm, hak ve vecibeler aynıdır; yalnız şahitler, miras, çocukların dini ve kadının din değiştirmesi konularında fark vardır.
+
+? 6 | Müslüman erkekle evli kitabî kadın Hristiyanlıktan Yahudiliğe geçerse ne olur?
++ Nikah bozulmaz.
+- Nikah kendiliğinden bozulur.
+- Hakim ayırır.
+- Kadın mehrini kaybeder.
+= Başka bir semavi dine geçerse evlilik fesholmaz; müşrik olursa akit fesholunur.
+
+? 6 | Ebû Hanîfe'ye göre cariye ile evlilik hakkında hangisi doğrudur?
++ İbtidaen caizdir ama hür kadının üzerine haramdır.
+- Hiçbir surette caiz değildir.
+- Yalnız Müslüman cariye ile ve iki şartla caizdir.
+- Kadın kısırsa caizdir.
+= Ebû Hanîfe'ye göre ibtidaen cariye (kitabî ya da Müslim) ile evlenmek caizdir; hür kadından sonra haramdır: "Hür kadının üzerine cariye kuma getirilmez."
+
+? 6 | Gayrimüslim evli çiftte yalnız kadın Müslüman olursa ne yapılır?
++ Kocaya İslam tebliğ edilir; kabul ederse evlilik devam eder, etmezse ayrılırlar.
+- Hemen ayrılırlar.
+- Kocanın kitabî olması yeterlidir, evlilik devam eder.
+- Kadının iddeti beklenir, sonra evlilik devam eder.
+= Koca baliğ, âkil ise ona İslam tebliğ edilir; mecnunsa ebeveynine, gayr-i mümeyyizse temyiz yaşı beklenir. Kocanın kitabî olması fark etmez.
+
+# ---------- 7. ünite ----------
+? 7 | Velayet-i icbarın sebepleri hangisinde doğru verilmiştir?
++ Küçüklük, delilik, bunaklık
+- Kadınlık, bekâret, fakirlik
+- Kölelik, küçüklük, sefeh
+- Bulûğ, akıl, hürriyet
+= Velayet-i icbar üç sebepten biriyle sabit olur: küçüklük (sığar), delilik (cünûn), bunaklık (ateh). Şâfiî'ye göre sebep bekârettir.
+
+? 7 | Hanefilere göre küçüğün icbar velisi kimdir?
++ Önce baba, sonra dede, sonra (asabe sırasıyla) en yakın veli
+- Yalnız baba
+- Baba ve dede; yoksa bulûğa kadar beklenir
+- Yalnız hakim
+= Hanefilere göre en sahih görüş: önce baba, sonra dede, sonra velayete en yakın olan. Delil: "Nikâh asabeden olan veliye aittir" ve Hz. Peygamber'in Ümâme'yi evlendirmesi.
+
+? 7 | İmam-ı Âzam ve İmam Muhammed'e göre küçüğü baba ya da dede evlendirmişse bulûğdan sonra durum nedir?
++ Muhayyerlik hakkı yoktur.
+- Muhayyerlik hakkı vardır.
+- Nikah mevkuftur.
+- Nikah fasittir.
+= Baba ve dede ileri görüşlü ve şefkatli olduğu için muhayyerlik yoktur; başka veli evlendirmişse vardır. Müftâbih olan Tarafeyn'in görüşüdür.
+
+? 7 | Bulûğdan sonra fesih için kimin sükûtu beyan (rıza) sayılır?
++ Bakire kızın
+- Erkeğin
+- Dul kadının
+- Hepsinin
+= Erkeğin ve dulun sükûtuna itibar edilmez; bakire kızın sükûtu beyandır.
+
+? 7 | Bulûğ muhayyerliğinin bilinmemesi hakkında hangisi doğrudur?
++ Özür değildir.
+- Fesih süresini uzatır.
+- Akdi batıl kılar.
+- Ancak kız için özürdür.
+= Bulûğdan sonra feshin yapılabileceğine dair bilgisizlik de muhayyerlik hakkının bilinmemesi de özür değildir; herkes ihtiyacı olan hükümleri bilmelidir.
+
+? 7 | Velayet-i nedb kimler üzerinde sabit olur?
++ Âkil, hür ve büyük kadın (bakire ya da dul)
+- Küçük kız
+- Mecnun ve ma'tûh
+- Köle ve cariye
+= Velayet-i nedb, ergen ve akıl hastası olmayan kadının hayâ sebebiyle evlendirme işini velisine bırakmasıdır; Ebû Hanîfe, Züfer ve bir rivayette Ebû Yûsuf'un görüşüdür.
+
+? 7 | Aşağıdakilerden hangisi velide aranan şartlardan değildir?
++ Adalet
+- Hürriyet
+- Bulûğ
+- Dinde muvafakat
+= Velinin dört şartı: hürriyet, bulûğ, akıl, dinde muvafakat. Salah ve adalet şart değildir; fâsığın velayeti caizdir.
+
+? 7 | Ebû Hanîfe'nin asabe dışındaki akrabaların da veli olabileceğine dair delillerinden biri hangisidir?
++ Abdullah b. Mes'ûd'un kızını evlendirmesi için annesine izin vermesi
+- «الإنكاح إلى العصبات» hadisi
+- Hz. Âişe'nin evliliği
+- "Sultan velisi olmayanın velisidir" hadisi
+= Ebû Hanîfe "ulu'l-erham" ayetini ve İbn Mes'ûd'un kızını annesine evlendirtmesini delil getirir (anne zevi'l-erhamdandır). İmameyn «الإنكاح إلى العصبات» hadisine dayanır.
+
+? 7 | Asabe-i nesebiyyenin dört cihetinin doğru sırası hangisidir?
++ Bünüvvet, ubüvvet, uhuvvet, umûmet
+- Ubüvvet, bünüvvet, umûmet, uhuvvet
+- Uhuvvet, umûmet, bünüvvet, ubüvvet
+- Bünüvvet, uhuvvet, ubüvvet, umûmet
+= Asabe-i nesebiyye: bünüvvet (oğul ve aşağısı), ubüvvet (baba ve yukarısı), uhuvvet (kardeşler ve oğulları), umûmet (amcalar ve oğulları).
+
+? 7 | Birden fazla asabe bulunursa hangi sıraya göre tercih yapılır?
++ Cihet, derece, kuvvet
+- Yaş, servet, ilim
+- Kuvvet, cihet, derece
+- Derece, kuvvet, cihet
+= Önce cihet bakımından yakın olan; eşitlerse derecesi kuvvetli olan; o da eşitse kuvvet bakımından üstün olan (ör. öz kardeş baba bir kardeşe) tercih edilir.
+
+? 7 | Velilerin tertibi hangisinde doğru verilmiştir?
++ Karabet, mevle'l-muvâlât, sultan (vekili ya da hakim)
+- Sultan, karabet, mevle'l-muvâlât
+- Mevle'l-muvâlât, karabet, sultan
+- Karabet, sultan, mevle'l-muvâlât
+= Önce karabet (asabe-i nesebiyye, sonra sebebiyye), sonra mevle'l-muvâlât, sonra sultan ya da vekili/hakim.
+
+? 7 | Şartlar tamken yakın veli evliliği engellerse (azl) Hanefi mezhebinin mutemed görüşüne göre velayet kime geçer?
++ Hakime
+- Uzak veliye
+- Anneye
+- Kadının kendisine
+= Bir görüşe göre uzak veliye geçer; Hanefi mezhebinin mutemed görüşüne göre hakime geçer, böylece zulüm kaldırılır ve uzak veliye vermekle çıkabilecek huzursuzluk önlenir.
+
+# ---------- 8. ünite ----------
+? 8 | "El-vekîl ke's-sefîr" kaidesine göre nikah vekili ne zaman sorumlu olur?
++ Mehrin kamil olması hususunda kadına kefil olmuşsa
+- Hiçbir zaman
+- Akit fasit olursa
+- Müvekkil ölürse
+= Vekil elçi gibi sorumsuzdur; istisnası mehre kefil olmasıdır, çünkü o zaman kefil konumundadır.
+
+? 8 | Müvekkil 100 dinar mehirle evlendirilmeyi istediği hâlde vekil onu 120 dinarla evlendirirse akdin hükmü nedir?
++ Fuzûlînin akdi gibidir; müvekkilin icazeti beklenir.
+- Müvekkil adına nafizdir.
+- Batıldır.
+- Fazla kısım vekilin üzerine kalır, akit nafizdir.
+= Bu "muhalefe ilâ şer"dir; akit fuzûlî akdi gibidir. 80 dinara evlendirseydi muhalefe ilâ hayr olur, akit nafiz olurdu.
+
+? 8 | Nikahta vekil tayin etmek hakkında hangisi doğrudur?
++ Yazı ve şahit şart değildir; şahit tutmak müstehaptır.
+- Yazılı olması şarttır.
+- İki şahit huzurunda yapılması şarttır.
+- Ancak hakim huzurunda yapılabilir.
+= Kitabet ve şahit şart değildir; ancak müvekkil vekaleti inkâr ederek evliliğin iptalini kastedebileceği için şahit göstermesi müstehaptır.
+
+? 8 | Kefâetin yalnız din konusunda olduğunu söyleyenler kimlerdir?
++ Mâlik b. Enes ve Süfyân es-Sevrî
+- Ahmed b. Hanbel
+- İbn Ebî Leylâ
+- İmam Şâfiî
+= Mâlik ve Sevrî'ye göre kefâet dindedir (Ebû Hind hadisi). Ahmed din ve san'at, İbn Ebî Leylâ din, neseb ve mal, Şâfiî daha fazla unsur sayar.
+
+? 8 | Ebû Hanîfe'ye göre aşağıdakilerden hangisi kefâet unsurlarından değildir?
++ Yaş
+- Neseb
+- Hirfe (meslek)
+- Diyanet
+= Ebû Hanîfe'ye göre kefâet: neseb, İslam, hürriyet, mal, diyanet, hirfe. Yaşı ve ayıplardan hâlî olmayı Şâfiî sayar.
+
+? 8 | Hanefilere göre kefâette nesebin şart olması kimler içindir?
++ Araplar
+- Arap olmayanlar
+- Bütün Müslümanlar
+- Yalnız Kureyşliler
+= Nesebin kefâet için şart olması Araplar içindir; çünkü onlar soylarını muhafaza edip övünç vesilesi yapmıştır. İslam ve hürriyet ise Arap olmayanlar arasında muteberdir.
+
+? 8 | Kefâetteki "İslam" unsurundan maksat nedir?
++ Erkeğin babasının ve dedesinin Müslüman olması
+- Erkeğin Müslüman olması
+- Kadının Müslüman olması
+- Şahitlerin Müslüman olması
+= Erkeğin Müslüman olması zaten sıhhat şartıdır. Kefâetteki İslam, baba ve dedenin Müslüman olmasıdır; daha öncesinin önemi yoktur.
+
+? 8 | Kefâette "mal" unsurundan maksat nedir?
++ Peşin mehri ve bir aylık nafakayı vermeye malik olmak
+- Kadının ailesi kadar zengin olmak
+- Bir ev sahibi olmak
+- Bir yıllık nafakaya malik olmak
+= Maksat zenginlik değil, akit esnasında peşin mehri ve bir aylık nafakayı vermeye malik olmaktır. Bu Ebû Yûsuf'un müftâbih görüşüdür; Ebû Hanîfe ve Muhammed muhaliftir.
+
+? 8 | Diyanetin (salah) kefâetle ilgisinin olmadığını, çünkü kefâetin dünya işlerinden olduğunu söyleyen kimdir?
++ İmam Muhammed
+- Ebû Hanîfe
+- Ebû Yûsuf
+- İmam Züfer
+= Ebû Hanîfe ve Ebû Yûsuf'a göre salih adamın kızına ancak salih erkek denktir; İmam Muhammed'e göre bunlar kul ile Rabbi arasındadır, kefâet ise dünya işidir.
+
+? 8 | Baliğa, âkile, hür kadın dengi olmayan biriyle evlenirse müftâbih görüşe göre hüküm nedir?
++ Akit kurulmaz, batıldır; veli önceden razıysa sahih ve lazımdır.
+- Akit sahih ve lazımdır.
+- Akit mevkuftur, kadının icazetine bağlıdır.
+- Akit sahihtir, yalnız mehr-i misil gerekir.
+= Dengiyle evlenirse akit lazım ve nafizdir; dengi olmayanla evlenirse müftâbih görüşe göre batıldır; veli akitten önce razı olmuşsa sahih ve lazımdır.
+
+? 8 | Kefâet ne zaman aranır?
++ Akdin başlangıcında
+- Evlilik boyunca
+- Duhulden sonra
+- Boşanma anında
+= Kefâet başlangıçta aranır; evlilik boyunca devam etmesi şart değildir, çünkü bu meşakkattir.
+
+? 8 | Kadın araştırmadan dengi sandığı biriyle evlenir ve erkek denk çıkmazsa ne olur?
++ Kadının hakkı düşer, velinin hakkı düşmez.
+- İkisinin hakkı da düşer.
+- İkisinin hakkı da devam eder.
+- Velinin hakkı düşer, kadınınki düşmez.
+= Kadın araştırma yapmadığı için kendi hakkı sakıt olur ama velinin hakkı sakıt olmaz. Veli araştırmadan, kadının rızasıyla evlendirirse ikisinin hakkı da düşer.
+
+# ---------- 9. ünite ----------
+? 9 | Evlilik akdindeki şer'i ispat yolları hangileridir?
++ İkrar, beyyine, yeminden nükûl
+- Şahit, yazı, karine
+- İkrar, şahit, hakim kararı
+- Beyyine, örf, yemin
+= Evlilik akdinde şer'i ispat yolları üçtür: ikrar, beyyine ve yeminden nükûl.
+
+? 9 | Yemin etmekten kaçınan kimseye ne ad verilir?
++ Nâkil
+- Mukır
+- Müvekkil
+- Fuzûlî
+= Nükûl ani'l-yemin: davalı ya da davacının yemine yanaşmamasıdır; yemin etmekten kaçınana nâkil denir.
+
+? 9 | Kadının kocasının evinde oturması için aranan şartlardan biri değildir?
++ Evin kadın adına tapulu olması
+- Mehr-i muacceli almış olması
+- Evin kadının statüsüne uygun olması
+- Kocanın güvenilir biri olması
+= Dört şart: mehr-i muacceli ödemesi, evin kadının statüsüne uygunluğu, can ve mal güvenliği, kocanın güvenilir olması.
+
+? 9 | Kocanın te'dib hakkının mertebeleri hangi sırayladır?
++ Nasihat, yatakta mehcur bırakmak, acı vermeyecek şekilde vurmak
+- Yatakta mehcur bırakmak, nasihat, vurmak
+- Vurmak, nasihat, mehcur bırakmak
+- Nasihat, hakime başvurmak, boşamak
+= Te'dib üç mertebedir: şefkat ve yumuşaklıkla nasihat, yatağında mehcur bırakmak, acı vermeyecek şekilde vurmak.
+
+? 9 | Kadının kocasının evinden izinsiz çıkmaması için aranan iki şart hangisidir?
++ Mehr-i muacceli almış olması ve sıla-i rahme engel olunmaması
+- Kocanın zengin olması ve evin müstakil olması
+- Şahit bulunması ve velinin izni
+- Nafakanın peşin verilmesi ve hizmetçi tutulması
+= İzinsiz çıkmama şartları: mehr-i muaccel ödenmiş olması ve sıla-i rahme engel olunmaması. Mehr-i muacceli almayan kadın izinsiz dışarı çıkabilir.
+
+? 9 | Kadının kocasının emirlerine uyma şartlarından biri değildir?
++ Emrin kocanın şahsi işiyle ilgili olması
+- Emrin evliliğe dair işlerden olması
+- Emrin şeriate uygun olması
+- Kocanın karısına karşı görevlerini yerine getirmesi
+= Emir evliliğe dair işlerden olmalıdır; kocanın şahsi işleri bu kapsamda değildir.
+
+? 9 | Kadın anne-babasını izinsiz ne sıklıkla ziyaret edebilir?
++ Haftada bir
+- Ayda bir
+- Yılda bir
+- Hiç, izin gerekir
+= Kadının anne-babasına izinsiz haftada bir kere gitmesine müdahale edilmez; diğer mahremlerine senede bir (bir görüşe göre her ay) gidebilir.
+
+? 9 | Koca karısının malını izinsiz alırsa hüküm nedir?
++ Gasbetmiş olur; malı iade eder, telef olduysa mislini ya da kıymetini öder.
+- Kocanın hakkıdır, iade gerekmez.
+- Nafakadan mahsup edilir.
+- Mehirden düşülür.
+= Koca karısı vekalet vermedikçe malına dokunamaz; izinsiz alırsa gasptır: iade eder, telef olduysa mislîse mislini, kıyemîse kıymetini öder.
+
+? 9 | Eşler arasındaki müşterek haklardan biri değildir?
++ Mehr-i muaccel
+- Âdâb-ı muâşerete riayet
+- Hürmet-i musaharaya riayet
+- Birbirlerine mirasçı olmaları
+= En önemli dört müşterek hak: âdâb-ı muâşeret («ولهن مثل الذي عليهن بالمعروف»), hürmet-i musahara, karşılıklı mirasçılık, istimta'. Mehr-i muaccel kocanın ödevidir.
+
+# ---------- 10. ünite ----------
+? 10 | Fasit evlilikte mehri vacip kılan şey nedir?
++ Zifaf (duhul)
+- Akdin kendisi
+- Mehrin tesmiyesi
+- Halvet-i fâside
+= «الوطء» ile sahih akdin kendisi ya da zifaf kastedilir; fasit evlilikte mehri vacip kılan zifaftır. Duhulden önce ayrılırlarsa mehirden bir şey gerekmez.
+
+? 10 | Aşağıdakilerden hangisi mehrin diğer adlarından değildir?
++ Kisve
+- Nihle
+- Sadaka
+- Ukr
+= Mehir sadaka, nihle, ferîza, tavl, hibâ, ecr, ukr, nikah gibi isimlerle de anılır. Kisve giyim (nafaka) demektir.
+
+? 10 | Hanefilere göre mehrin en az miktarı nedir?
++ 10 dirhem (7 miskal)
+- Dinarın dörtte biri
+- Sınırı yoktur
+- 20 miskal
+= Hanefilere göre mehir 10 dirhemden az olamaz ("Mehir 10 dirhemden aşağı olmaz"); ölçüsü 7 miskaldir. Mâlik dinarın 1/4'ü der, Şâfiî ve Ahmed'e göre sınır yoktur.
+
+? 10 | Mehir 10 dirhemden az tesmiye edilirse Ebû Hanîfe ve İmameyn'e göre ne gerekir?
++ 10 dirhem
+- Mehr-i misil
+- Tesmiye edilen miktar
+- Müt'a
+= Tesmiye sahih olmaz, koca 10 dirhemi öder. İmam Züfer'e göre mehr-i misle dönüşür.
+
+? 10 | Aşağıdakilerden hangisi mehir olabilir?
++ Mütekavvim maldan elde edilen menfaat
+- Şarap
+- Akıtılmış kan
+- Domuz
+= Altın, gümüş, akar, menkul mal ve mütekavvim mallardan elde edilen menfaat mehir olur. Meyte ve kan mal değildir; şarap ve domuz mütekavvim değildir.
+
+? 10 | "İnsanların önünde övünmek için gizli mehirden bambaşka bir mehrin zikredilmesi"ne ne denir?
++ Mehr-i sır
+- Mehr-i misil
+- Mehr-i müeccel
+- Müt'a
+= Bu mehr-i sırdır; mehirde aleniyet var olduğu için bu (açıklanan) mehrin verilmesi gerekir.
+
+? 10 | İbtida durumunda mehre müteallik "Allah hakkı" nedir?
++ Mehrin ortadan kaldırılamaması ve 7 miskalden az olamaması
+- Velinin mehri misilden az belirleyememesi
+- Kadının mehri kocaya hibe edebilmesi
+- Mehrin peşin ödenmesi
+= İbtidada üç hak vardır: Allah hakkı (mehir kaldırılamaz, 7 miskalden az olamaz), kadının hakkı, velinin hakkı. Bekâda yalnız kadının hakkı vardır.
+
+? 10 | Aşağıdakilerden hangisi fasit tesmiye örneği değildir?
++ 10 dirhem gümüş
+- Bir küp su
+- Şarap
+- Kur'an öğretmek
+= Dört fasit tesmiye: gayr-i mütekavvim mal (bir küp su), yalnız gayrimüslimler için mütekavvim olan (şarap), fahiş cehaletli mal (20 miskal), ücret alınamayan menfaat (Kur'an eğitimi).
+
+? 10 | Fasit bir akitte sahih tesmiye ile mehir belirlenmiş ve duhul gerçekleşmişse ne vacip olur?
++ Mehr-i müsemma ile mehr-i misilden az olanı
+- Mehr-i müsemma
+- Mehr-i misil
+- Müt'a
+= Bu, "mehr-i misil ve müsemmadan daha az olanın vacip olduğu" tek durumdur.
+
+? 10 | Mehr-i misilde kadının emsalleri kimlerdir?
++ Babası tarafından, yoksa memleket ahalisinden yaş, güzellik, bekâret gibi yönlerden akranı olan kadınlar
+- Annesi tarafından akrabası olan kadınlar
+- Kocasının kız kardeşleri
+- Aynı yıl evlenen bütün kadınlar
+= Mehr-i misil zevcenin babası tarafından, olmazsa memleket ahalisinden akit tarihinde yaş, güzellik, bekâret gibi özelliklerde emsal kadınların mehridir.
+
+? 10 | Mehirden indirimin geçerli olması için aşağıdakilerden hangisi gerekmez?
++ Kocanın indirimi kabul etmesi
+- Mehri bizzat kadının düşürmesi
+- Kadının ehliyet sahibi olması
+- İkrah olmaması
+= İndirimde kocanın kabulü şart değildir, çünkü iskatte kabule ihtiyaç yoktur. Ziyadede ise kadının ya da velisinin kabulü şarttır.
+
+? 10 | Sahih akitte mehrin tamamının vacip olduğu üç yer hangisidir?
++ Hakiki duhul, halvet-i sahîha, duhulden önce eşlerden birinin ölümü
+- Akit, şahit, mehrin tesmiyesi
+- Halvet-i fâside, nişan, nikah
+- Duhul, boşama, iddet
+= Sahih akitte mehrin tamamı hakiki duhulle, sahih halvetle ve duhul ve halvetten önce eşlerden birinin ölümüyle gerekli olur.
+
+? 10 | Halvet-i sahîha ile hakiki duhulün birleştiği yerler hangileridir?
++ Mehrin tamamının vacip olması ve iddet
+- İhsan ve miras
+- Üvey kızın haramlığı ve ric'i talak
+- Üç talaktan sonra ilk kocaya dönüş ve ihsan
+= İkisi mehrin tamamı ve iddette birleşir; ihsan, üç talaktan sonra dönüş, üvey kızın haramlığı, talakın niteliği ve mirasta ayrılır.
+
+? 10 | Halvet-i sahîhadan sonra yapılan boşama nasıldır?
++ Bain
+- Ric'i
+- Batıl
+- Mevkuf
+= Halvet-i sahîha ile olan boşamalar baindir; duhulden sonra ise ric'i olabilir.
+
+? 10 | Mehrin yarısının vacip olmasının şartlarından biri değildir?
++ Ayrılığın kadından kaynaklanması
+- Mehrin müsemma olması
+- Dokunmadan önce boşanması
+- Kadının mehrin tamamını bağışlamamış olması
+= Yarım mehrin üç şartı: mehir müsemma, dokunmadan önce koca boşamış, kadın mehri bağışlamamış. Ayrılık kocaya taalluk etmelidir (talak, lian, îlâ, zıhar…).
+
+? 10 | Mehir belirlenmemiş ve duhul ile halvet-i sahîha gerçekleşmeden boşanan kadına ne verilir?
++ Müt'a
+- Yarım mehir
+- Mehr-i misil
+- Hiçbir şey
+= Bu durumda mehir verilmez, müt'a verilir. Müt'anın miktarı örfe göre belirlenir.
+
+? 10 | Mehir tablosuna göre zifaf veya halvet-i sahîhadan önce kadın, kocasından kaynaklı kusur yüzünden mahkeme yoluyla evliliği feshettirirse mehir ne olur?
++ Mehir hakkı düşer.
+- Mehrin tamamını alır.
+- Mehrin yarısını alır.
+- Müt'a alır.
+= Tabloya göre fesih kadının talebinden kaynaklandığı için mehir hakkı düşer. Koca kusurluyken fesih istemezse kadın mehrini tam alır.
+
+? 10 | Mehir tablosuna göre cinsel münasebetten sonra eşlerin süt kardeş oldukları anlaşılırsa kadın ne alır?
++ Mehr-i müsemma ile mehr-i misilden düşük olanı
+- Mehrin yarısını
+- Hiçbir şey
+- Mehr-i müsemmanın tamamını
+= Duhulden sonra süt kardeşlik anlaşılırsa kadın müsemma ile misilden hangisi düşükse onu alır; duhulden önce anlaşılırsa mehir hakkı düşer.
+
+# ---------- 11. ünite ----------
+? 11 | Nafakayı gerektiren üç sebep hangisidir?
++ Evlilik, yakınlık, milkiyet
+- Evlilik, miras, vasiyet
+- Yakınlık, komşuluk, velayet
+- Milkiyet, kefâet, vekâlet
+= İnsan başkasına evlilik, yakınlık ya da milkiyet sebebiyle harcama yapar.
+
+? 11 | Kadının nafakayı hak etmesinin sebebi nedir?
++ Sahih akit sebebiyle kocası için hapsolunması
+- Fakir olması
+- Gayrimüslim olup İslam'a ısındırılması
+- Mehrini almamış olması
+= Kaide: "Her insan başka bir insandan ötürü hapsolunmuştur." Sebep kadının fakirliği ya da te'lif-i kalb değildir.
+
+? 11 | Fasit akitte kocanın kadına nafaka vermesinin hükmü nedir?
++ Nafaka yoktur; vermişse teberrudur.
+- Nafaka vaciptir.
+- Nafakanın yarısı vaciptir.
+- Hakim takdir ederse vaciptir.
+= Nafakanın birinci şartı şer'an sahih akittir; fasit akitte nafaka yoktur, verilmişse teberru sayılır.
+
+? 11 | Aşağıdaki durumlardan hangisinde kadının nafaka hakkı düşer?
++ Kadın bir suç işlediği için hakim tarafından hapse gönderilmişse
+- Koca emin olmadığı için kadın eve gitmiyorsa
+- Kocanın kusuru yüzünden kadın eve gitmiyorsa
+- Kadın evdeyse
+= d ve e durumlarında (kadının kendinden kaynaklanan ya da başka sebeple, ör. hapis veya gasp) erkek hapsetme hakkını kaybettiği için nafaka düşer.
+
+? 11 | Şemaya göre koca karısını sefere ancak hangi üç şartla zorlayabilir?
++ Sefer kasr mesafesinden az, şehirden şehre ve koca güvenilir olmalı
+- Kadın razı, mehir ödenmiş ve şahit bulunmalı
+- Sefer bir aydan kısa, mahrem bulunmalı ve nafaka peşin verilmeli
+- Hakim izni, velinin izni ve kadının rızası olmalı
+= «ليس للزوج أن يجبر زوجته على السفر معه إلا بثلاثة شروط: دون مسافة القصر، من مصر إلى مصر، الزوج مأمونا عليه».
+
+? 11 | Kocasının hanesinden izinsiz çıkıp kendisini haksız yere kocasından men eden kadına ne denir?
++ Nâşize
+- Müfevviza
+- Mu'tedde
+- Mefkûde
+= Nâşize: kocasının evinden izinsiz çıkıp kendisini haksız yere kocasından men eden kadın; nafakası düşer.
+
+? 11 | Nafakanın iki eşin birlikte hâline göre takdir edileceğini söyleyenler kimlerdir?
++ Mâlik ve Ahmed (Hanefîlerde râcih)
+- Şâfiî ve Kerhî
+- Ebû Yûsuf ve Züfer
+- Dâvûd ez-Zâhirî
+= Mâlik ve Ahmed'e göre iki eşin hâline göre takdir edilir, Hanefî alimlerine göre râcih olan da budur. Şâfiî'ye göre yalnız kocanın hâline bakılır; Hanefîlerden Kerhî bunu seçmiştir.
+
+? 11 | Hükme rağmen nafaka ödemeyen zengin kocanın açıkta malı yoksa hakim ne yapar?
++ İki üç kez mahkemeye çağırır, yine ödemezse hapseder.
+- Hemen nikahı fesheder.
+- Kadının akrabalarına yükler.
+- Kadına borçlanmasını emreder.
+= Açıkta malı varsa hakim onu satar; yoksa kadın isterse iki-üç kez çağırdıktan sonra inatçı olduğu için hapsini emreder.
+
+? 11 | Hanefilere göre nafaka ödeyemeyen fakir koca hakkında ne yapılır?
++ Aralarında tefrik yapılmaz; hakim nafaka takdir eder, kadın borçlanır.
+- Nikah hemen feshedilir.
+- Koca hapsedilir.
+- Kadın talak isteyebilir.
+= Hanefiler: darlık sebebiyle tefrik yapılmaz (Bakara 2/280 "darlık içindeyse genişliğe kadar mühlet"). Şâfiî'nin cedîd görüşüne göre kadın fesih isteyebilir.
+
+? 11 | Aşağıdakilerden hangisi meskenin şartlarından değildir?
++ Müstakil bir ev olması
+- Kocanın mali hâline yaraşır olması
+- Boş olması
+- Kadının can ve malından güvende olması
+= Evin müstakil olması ile kat olması aynıdır; örf belirleyicidir. Dört şart: kocanın hâline yaraşır, boş, ihtiyaçları karşılayan, güvenli.
+
+? 11 | Kayıp (mefkûd) kocanın karısı hakkında Şâfiîlere göre koca fakir ve yeri bilinmiyorsa ne olur?
++ Kadın akdi fesheder.
+- Kadın kocanın malından nafaka alır.
+- Hakim kocanın bulunduğu yerdeki hakime mektup yazar.
+- Kadın borçlanır.
+= Şâfiîlere göre koca zengin ve yeri biliniyorsa oradaki hakime mektup yazılır; zengin ama yeri bilinmiyorsa ihtilaflıdır; fakir ve yeri bilinmiyorsa kadın akdi fesheder.
+
+? 11 | Hanefilere göre "gayr-i sahih borç" olan nafaka neyle düşer?
++ Eda, ibra, talak, ölüm ve nüşuz
+- Yalnız eda ve ibra
+- Hiçbir şeyle düşmez
+- Yalnız talak
+= Gayr-i sahih borç eda, ibra, talak, ölüm ve nüşuzla düşer; sahih borç yalnız eda ve ibra ile düşer.
+
+? 11 | Koca bir yıllık nafakayı peşin verip sonra boşarsa Şeyhayn'a göre hüküm nedir?
++ Nafakayı geri isteyemez.
+- Kalan kısmı geri isteyebilir.
+- Tamamını geri isteyebilir.
+- Hakim karar verir.
+= Şeyhayn'a göre geri isteyemez; İmam Şâfiî ve Muhammed'e göre isteyebilir, çünkü nafakanın kaidesi olan hapsolma kalmamıştır.
+
+? 11 | Babanın çocuğa nafakası için aranan beş şarttan biri değildir?
++ Çocuğun Müslüman olması
+- Çocuğun fakir olması
+- Çocuğun kazanmaktan aciz olması
+- Babanın nafakaya muktedir olması
+= Beş şart: çocuk fakir, kazanmaktan aciz (küçük, hasta, kız), baba muktedir, çocuk hür, baba hür. Usul-furu' nafakasında din farkı mani değildir.
+
+? 11 | Zevi'l-erhamın nafakası nasıl takdir edilir?
++ Miras payı oranında
+- Eşit olarak
+- Hakimin takdiriyle
+- Nafakayı isteyenin ihtiyacına göre, mirasa bakılmaksızın
+= İrs esası: zevi'l-erhamın nafakası miras oranında takdir edilir; mirasçı olmayan ve farklı dinden olan çıkar. Nafaka yükümlüsü mutlaka zengin olmalıdır.

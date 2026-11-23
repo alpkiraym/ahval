@@ -1,0 +1,106 @@
+# Nikâh Akdinin Hükmü
+> Hükmün iki anlamı: evliliğin şer'i vasfı (farz, vacip, haram, mekruh, mubah) ve nikah akdinin doğurduğu sonuçlar (sahih-nafiz, sahih-mevkuf, fasit ve batıl evlilik).
+
+## Hükmün iki anlamı
+¶ Hüküm iki anlamdadır:
+1. **Şer'i vasıf anlamında kullanılır:** Namazın hükmü vücubiyet, zinanın hükmü hürmet ifade eder.
+2. **Bir şeyin üzerine şer'an gerekli olan sonuç (eser) anlamında kullanılır:** Bey'in hükmü malın mülkiyetinin müşteriye naklidir. Şimdi evliliğin hükmünü, hükmün bu iki anlamı ile konuşacağız.
+* Hükmün iki anlamı: şer'i vasıf (namaz → vücub, zina → hürmet) ve şer'an gerekli olan sonuç/eser (bey' → mülkiyetin müşteriye nakli).
+
+## Şer'i vasıf anlamında nikah akdinin hükmü
+¶ Bu konuda alimler derin ihtilaflara düşmüşlerdir. Müellife göre pratikte tüm mükellefler için tek bir hüküm konulamaz aksine evlilik vücub, nedb, kerahet, tahrim ve ibaha olmak üzere beş hükme de ihtimallidir. Bu hükümler kişinin mali, bedeni ve ahlaki durumuna göre değişiklik arzeder.
+: Farz evlilik = Mükellefin mehir ve nafakayı verebilmesi, eşine iyilikle davranacak olgunlukta olması, evlenmediği zaman zinaya düşme korkusu yaşaması gibi sebeplerin bir araya gelmesi ile o evlilik terkedilemez, farzdır.
+: Vacip evlilik = Yukarıdaki şartları haiz olmakla beraber evliliği terk ettiği zaman zina bataklığına düşme ihtimali hem olan hem olmayan, bu konudaki sabır eşiği güven vermeyen kişilere evlenmek vaciptir. Bu derece olarak farzdan bir tık daha aşağıdadır.
+: Haram evlilik = Mükellefin mehir ve nafakayı vermeye güç yetirebilecek malı yok, evlendiği zaman eşine iyi davranacak bir olgunluğa sahip olmadığı da belli oluyorsa bu kişinin evlenmesi haramdır. Çünkü bu kişinin evliliği nikahladığı kızcağız için bir travmadır.
+: Mekruh evlilik = Mükellefin malı var, dengeli bir ahlaki çizgiye sahip olduğu için zina bataklığına düşme gibi bir korkusu da yok ama eşine kötü davranmaktan çekiniyorsa bu kişinin evlenmesi mekruhtur.
+: Mubah evlilik = Mükellefin malı var, bekar kalsa zina yapmıyor, evlense eşine kötülük yapmıyor bu kişinin evlenmesi sünnettir.
+! Kitaptaki "mubah" lafzı sünnet olarak alınmıştır (dersten).
+| Hüküm | Malı var mı? | Zinaya düşme korkusu | Eşine kötü davranma endişesi
+| **Farz** | Var | Var (evlenmezse zinaya düşer) | Yok, iyilikle davranır
+| **Vacip** | Var | İhtimal var (sabır eşiği güven vermiyor) | Yok
+| **Haram** | Yok (ya da eşinin hakkını veremeyeceği belli) | — | Eşine iyi davranamayacağı belli
+| **Mekruh** | Var | Yok | Var
+| **Mubah (sünnet)** | Var | Yok | Yok
+### Şema: الوصف الشرعي
+| Hüküm | Arapçası | Türkçesi
+| **Farz** | «لمن يجد المال ويثق أنه سيعاشرها بالمعروف وأنه إن لم يتزوج وقع في الزنا» | [[Malı olan, eşine iyilikle davranacağından emin olan ve evlenmezse zinaya düşecek olan için]]
+| **Vacip** | «لمن يجد المال ويثق أنه سيعاشرها بالمعروف وهو سليم البدن ولكن يحتمل أن يقع في الزنا» | [[Malı olan, eşine iyilikle davranacağından emin olan, bedeni sağlam fakat zinaya düşme ihtimali olan için]]
+| **Haram** | «لمن لا يجد المال أو يجد ويرى في نفسه أنه لا يؤدي حق الزوجة وأنه لا يستطيع أن يعاشرها بالمعروف» | [[Malı olmayan ya da malı olup eşinin hakkını veremeyeceğini ve ona iyilikle davranamayacağını gören için]]
+| **Mekruh** | «لمن يجد المال ولا يخشى الوقوع في الزنا ولكن يخشى أن يسيء إليها» | [[Malı olan, zinaya düşmekten korkmayan fakat eşine kötülük etmekten korkan için]]
+| **Mubah** | «لمن يجد المال ولا يخشى الوقوع في الزنا ولا يخشى أن يسيء إليها» | [[Malı olan, zinaya düşmekten de eşine kötülük etmekten de korkmayan için]]
+@ ملاحظة: المراد بالمال هنا أن يجد مالا يقوم بالمهر وسائر نفقات الزوجية | [[Buradaki "mal"dan maksat, mehri ve evliliğin diğer masraflarını karşılayacak mala sahip olmaktır.]]
+* Evliliğin beş hükmü kişinin mali, bedeni ve ahlaki durumuna göre değişir: farz (mal var + zina korkusu kesin), vacip (zina ihtimali), haram (mal yok ya da eşine iyi davranamayacak), mekruh (eşine kötü davranma endişesi), mubah/sünnet (ne zina korkusu ne kötülük endişesi).
+* Buradaki "mal": mehri ve evliliğin diğer nafakalarını karşılayacak mal.
+
+## Sonuç (eser) anlamında nikah akdinin hükmü
+¶ Nikah akdini, sahih nafiz, sahih mevkuf, fasid ve batıl olmak üzere dörde taksim ederiz. Bu taksimatın doğurduğu sonuçlar aşağıdaki gibidir:
+### a. Sahih - nâfiz evlilik
+: Sahih - nâfiz evlilik = İn'ikad, sıhhat ve nefaz şartlarının tamamının yerine getirildiği nikah akdidir.
+¶ Bunun sonuçları üç kısımda incelenir:
+#### Kocanın sorumlulukları
+¶ Dört tanedir: Mehir, nafaka, adalet, eziyet etmemek.
+- **Nafaka:** it'am, kisve, mesken ve hizmetçi varsa ücret-i hâdim.
+- **Adalet:** Birden fazla eşle evli olan erkek eşler arasında adaleti tesis etmelidir.
+- **Eziyet etmemek:** Şeriatin kendisine izin verdiği ölçünün dışına taşarak sözlü ve fiili eziyet etmek yasaklanmıştır.
+#### Kadının sorumlulukları
+¶ Dört tanedir: Kadın "kocaya itaat etmeli ve kendisi için hazırlanan evde oturmalı", "izinsiz evden çıkmamalı", "şeriatin engel koymadığı konularda kocaya uymalı", "kocanın te'dip hakkını kabul etmek."
+! Kadının (kocası için hazırlanan evde oturma) şartını yerine getirebilmesi için üç şart gereklidir: (1) Oturacağı evin kadına layık olması. (2) Mehr-i muacceli almış olması. (3) Kocanın kadının canı ve malı hususunda güvenilir olması.
+! İzinsiz evden çıkmama: Şeriatin izin verdiği durumlar hariç.
+#### Ortak sorumluluklar
+¶ Beş tanedir. Nesebin sübûtu, veraset, hurmet-i musahara, istimta' hakkı, geçim ehli olmak.
+### b. Sahih - mevkuf (bağlı) evlilik
+¶ Mevkuf nikah, ğayr-i nafiz (yürürlülük kazanmayan) bir akiddir.
+: Mevkuf nikah = Sıhhat şartlarını tam olarak bulundurmakla birlikte, nikah sahibinin veya velisinin icazetine bağlı olan nikahtır.
+¶ Eğer duhul icazetten evvel meydana gelmişse fasid nikah hükümlerine tabi olur. Duhul, bu nikahın reddi hususundaki velinin hakkını düşürmez. Yani veli nikahı feshedebilir.
+¶ Bununla fasid akidde meydana gelecek tüm sonuçlar ortaya çıkar: İstimta' ile had gerekmez, mehir gerekir; nesebin sübutu, hürmet-i musahara gerçekleşir, boşadığı zaman kadına iddet gerekir.
+### c. Fâsid evlilik
+: Fâsid nikah = Sıhhat şartlarını tam olarak bulundurmayan nikahtır. Şahitsiz akdedilen nikah gibi.
+¶ Fasid akitte in'ikad şartları bulunur. Aynı şekilde ikrah altında yapılan akitlerde fasittir. Yine muvakkat akitler de fasittir.
+¶ Fasid evlenme akdinde tarafların evliliği sürdürmeleri caiz değildir. Aksine derhal ayrılmaları gerekir. Eğer kendiliklerinden ayrılmazlarsa adli makamlar bu evliliğe derhal son verirler. Çünkü Müslümanların dini ve dünyevi maslahatları bunu gerektirir.
+¶ Taraflar duhulden evvel ayrılmışlarsa veya hakim kararıyla ayrılmışlarsa bu akid asla hiç bir sonuç doğurmaz. Duhulden sonra ayrılık meydana gelirse dört şey vacip olur:
+1. Mehr-i misil ile mehr-i müsemmadan hangisi daha az ise kadın ona hak sahibi olur. Fasit akitler kıymetine göre değerlendirilir.
+2. Akid tarihinden başlamak üzere en az altı ay geçtikten sonra doğan çocuğun nesebi sabit olur.
+3. Hürmet-i musahara meydana gelir.
+4. Eğer ayrılma olursa iddet ve iddet süresince nafaka da gerekir.
+!! Fasid akid üzerine sahih akid üzerine doğan neticeler terettüp etmez. Bunlar kısaca şunlardır: "Kadının nafakası, tarafların veraseti, karşılıklı istimta', kadının kocasına itaati."
+### d. Bâtıl evlilik
+: Bâtıl evlilik = İn'ikad şartlarında bir eksiklik bulunan akde denir.
+~ Birbiriyle evlenmesine mani bulunan kişilerin evlenmesi ile bir çocuğun ya da akıl hastasının kendi başına evlenmesi böyle bir evliliktir.
+¶ Kusur ana unsurlarda olduğu için bu akid hiç bir hüküm ifade etmez. Duhulün varlığı veya yokluğu eşittir. Taraflar derhal ayrılmalıdır. Ayrılmazlarsa kadı ayırmalıdır. Bile bile bu işe devam edenler zina yapmış olurlar. Ebu Hanife dışındaki imamlara göre had uygulanır. Ebu Hanife'ye göre akid şüphesi vardır.
+¶ Batıl akdin neticesi ile kadın iddet beklemez, neseb sabit olmaz, taraflar birbirlerine mirasçı olamazlar, ne mehir, ne nafaka ve ne de itaat gerekli değildir.
+! Anne ile çocuk arasında miras ilişkisi bulunur. Çocuk veled-i zina da olsa böyledir.
+| Evlilik | Eksik olan | Sonuç
+| **Sahih - nâfiz** | Hiçbiri (in'ikad, sıhhat, nefaz tam) | Bütün hükümler: kocanın, kadının ve ortak sorumluluklar
+| **Sahih - mevkuf** | Nefaz şartı (icazete bağlı) | İcazetten önce duhul olursa fasit hükümleri; veli feshedebilir
+| **Fâsid** | Sıhhat şartı (ör. şahitsiz) | Derhal ayrılırlar; duhulden sonra: az olan mehir, neseb (6 ay), hürmet-i musahara, iddet ve nafakası
+| **Bâtıl** | İn'ikad şartı | Hiçbir hüküm yok; iddet, neseb, miras, mehir, nafaka, itaat yok
+* Sahih-nâfiz: kocaya 4 sorumluluk (mehir, nafaka, adalet, eziyet etmemek); kadına 4 (itaat ve evde oturma, izinsiz çıkmama, şer'e aykırı olmayanda uyma, te'dip hakkını kabul); ortak 5 (neseb, veraset, hürmet-i musahara, istimta', geçim ehli olmak).
+* Mevkuf: sıhhat şartları tam, nikah sahibinin ya da velinin icazetine bağlı; icazetten önce duhul olursa fasit hükümleri işler, veli feshedebilir.
+* Fasit: duhulden sonra ayrılınca 4 şey vacip: mehr-i misil ile müsemmadan azı, (en az 6 ay sonra doğan çocuğun) nesebi, hürmet-i musahara, iddet ve iddet nafakası.
+* Batıl: hiçbir hüküm doğurmaz; Ebû Hanîfe dışındakilere göre had uygulanır, Ebû Hanîfe'ye göre akit şüphesi vardır.
+
+## Şema: حكم الزواج (eser anlamında)
+| Evlilik | Tanımı | Sonuçları
+| «الزواج الصحيح النافذ» | «هو الذي استوفى جميع شروط الانعقاد والصحة والنفاذ» | «١- آثار تجب للزوجة على الزوج: المهر والنفقة والعدل وعدم الإيذاء» · «٢- آثار تجب للزوج على الزوجة: الطاعة في كل أمور لا تخالف الشرع» · «٣- آثار تجب لكل واحد منهما للآخر: ثبوت النسب والتوارث وحرمة المصاهرة والاستمتاع بالآخر وحسن المعاشرة»
+| «الزواج الصحيح الموقوف» | «هو الذي فقد شرطا من شروط النفاذ» | «فلو دخل بها قبل الإجازة فكالفاسد بعد الدخول»
+| «الزواج الفاسد» | «هو الذي اختل فيه شرط من شروط الصحة» | «١- إن افترقا قبل الدخول لا يجب شيء» · «٢- إن افترقا بعد الدخول يجب بهذا العقد ثبوت النسب وحرمة المصاهرة والعدة ومهر المثل إن لم يسم المهر والأقل من المهر المسمى والمثل إن سمي»
+| «الزواج الباطل» | «هو الذي فقد شرطا من شروط الانعقاد» | «لا يترتب عليه أثر لأن وجوده كعدمه»
+! İn'ikad, nefaz ve sıhhat şartları tam ise nikah tam geçerlidir.
+! Kocaya düşenler: mehir, nafaka, adalet, eziyet yapmamak. Kadına düşen: (şer'e aykırı olmayan) bütün işlerde itaat. Her birine düşenler: miras, neseb, (birbirinden) faydalanma, hürmet-i musahara, iyi davranma.
+! Mevkuf: nefaz şartlarını taşımayan nikah.
+! Fasit nikahta duhulden sonra: neseb, hürmet-i musahara, iddet, mehr-i misil.
+
+## Nikahın kısımları
+### Şema: أقسام النكاح
+| Kısım | Açıklaması
+| «النكاح الصحيح» | Sıhhat şartları tam (ve in'ikad şartları tam olan) nikah
+| «النكاح الصحيح: نافذ» | Hiç kimsenin icâzetine bağlı olmayan nikâh
+| «النكاح الصحيح: غير نافذ (موقوف)» | Nikâh sahibinin veya velisinin icâzetine bağlı nikah
+| «النكاح النافذ: لازم» | Feshe kâbil olmayan nikâh
+| «النكاح النافذ: غير لازم» | Feshe kâbil olan nikâh (ör. hıyâr-ı bulûğ)
+| «النكاح الفاسد» | Sıhhat şartları noksan; şahitsiz kıyılan nikâh
+| «النكاح الباطل» | İn'ikâd şartları noksan; üzerine nikâh hükümleri terettüp etmeyen nikâh
+>> **Nikah** sahih, fasit ya da batıldır.
+>> **Sahih nikah** nafiz ya da mevkuftur (gayr-i nafiz).
+>> **Nafiz nikah** lazım (feshe kabil olmayan) ya da gayr-i lazımdır (feshe kabil olan, ör. hıyâr-ı bulûğ).
+* Nikahın kısımları: sahih (nafiz → lazım / gayr-i lazım; mevkuf), fasit (sıhhat şartı eksik, ör. şahitsiz), batıl (in'ikad şartı eksik).

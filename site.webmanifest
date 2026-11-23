@@ -1,0 +1,25 @@
+{
+  "name": "Ahvalu'ş-Şahsiyye · Giray Akademi",
+  "short_name": "Ahval",
+  "description": "Nikâh, velayet, kefâet, mehir ve nafaka",
+  "start_url": "/ahval/",
+  "scope": "/ahval/",
+  "display": "standalone",
+  "background_color": "#f7f3ea",
+  "theme_color": "#1f5a45",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/ahval/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/ahval/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
