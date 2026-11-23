@@ -24,24 +24,24 @@
 ^# Evliliğin şer'i vasfı | الوصف الشرعي
 ^? Mehri ve evliliğin diğer masraflarını karşılayacak malı var mı? | 
 ^  - Yok
-^    = bilgi | **Haram** — [[Malı olmayan için evlenmek haramdır.]] | حرام: لمن لا يجد المال
+^    = bilgi | **Haram** — Malı olmayan için evlenmek haramdır. | حرام: لمن لا يجد المال
 ^  - Var
 ^    ? Eşinin hakkını verip ona iyilikle davranabilecek mi? | 
 ^      - Hayır, veremeyeceğini görüyor
-^        = bilgi | **Haram** — [[Malı olsa da eşinin hakkını veremeyeceğini ve ona iyilikle davranamayacağını görüyorsa evlenmesi haramdır.]] | حرام: لمن يجد ويرى في نفسه أنه لا يؤدي حق الزوجة وأنه لا يستطيع أن يعاشرها بالمعروف
+^        = bilgi | **Haram** — Malı olsa da eşinin hakkını veremeyeceğini ve ona iyilikle davranamayacağını görüyorsa evlenmesi haramdır. | حرام: لمن يجد ويرى في نفسه أنه لا يؤدي حق الزوجة وأنه لا يستطيع أن يعاشرها بالمعروف
 ^      - Evet
 ^        ? Evlenmezse zinaya düşer mi? | 
 ^          - Kesin düşer
-^            = bilgi | **Farz** — [[Malı olan, eşine iyilikle davranacağından emin olan ve evlenmezse zinaya düşecek olan için farzdır.]] | فرض: لمن يجد المال ويثق أنه سيعاشرها بالمعروف وأنه إن لم يتزوج وقع في الزنا
+^            = bilgi | **Farz** — Malı olan, eşine iyilikle davranacağından emin olan ve evlenmezse zinaya düşecek olan için farzdır. | فرض: لمن يجد المال ويثق أنه سيعاشرها بالمعروف وأنه إن لم يتزوج وقع في الزنا
 ^          - Düşme ihtimali var
-^            = bilgi | **Vacip** — [[Malı olan, eşine iyilikle davranacağından emin, bedeni sağlam fakat zinaya düşme ihtimali olan için vaciptir.]] | واجب: لمن يجد المال ويثق أنه سيعاشرها بالمعروف وهو سليم البدن ولكن يحتمل أن يقع في الزنا
+^            = bilgi | **Vacip** — Malı olan, eşine iyilikle davranacağından emin, bedeni sağlam fakat zinaya düşme ihtimali olan için vaciptir. | واجب: لمن يجد المال ويثق أنه سيعاشرها بالمعروف وهو سليم البدن ولكن يحتمل أن يقع في الزنا
 ^          - Korkusu yok
 ^            ? Eşine kötülük etmekten korkuyor mu? | 
 ^              - Korkuyor
-^                = bilgi | **Mekruh** — [[Malı olan, zinaya düşmekten korkmayan fakat eşine kötülük etmekten korkan için mekruhtur.]] | مكروه: لمن يجد المال ولا يخشى الوقوع في الزنا ولكن يخشى أن يسيء إليها
+^                = bilgi | **Mekruh** — Malı olan, zinaya düşmekten korkmayan fakat eşine kötülük etmekten korkan için mekruhtur. | مكروه: لمن يجد المال ولا يخشى الوقوع في الزنا ولكن يخشى أن يسيء إليها
 ^              - Korkmuyor
-^                = bilgi | **Mubah** — [[Malı olan, zinaya düşmekten de eşine kötülük etmekten de korkmayan için mubahtır.]] | مباح: لمن يجد المال ولا يخشى الوقوع في الزنا ولا يخشى أن يسيء إليها
-@ ملاحظة: المراد بالمال هنا أن يجد مالا يقوم بالمهر وسائر نفقات الزوجية | [[Buradaki "mal"dan maksat, mehri ve evliliğin diğer masraflarını karşılayacak mala sahip olmaktır.]]
+^                = bilgi | **Mubah** — Malı olan, zinaya düşmekten de eşine kötülük etmekten de korkmayan için mubahtır. | مباح: لمن يجد المال ولا يخشى الوقوع في الزنا ولا يخشى أن يسيء إليها
+@ ملاحظة: المراد بالمال هنا أن يجد مالا يقوم بالمهر وسائر نفقات الزوجية | Buradaki "mal"dan maksat, mehri ve evliliğin diğer masraflarını karşılayacak mala sahip olmaktır.
 * Evliliğin beş hükmü kişinin mali, bedeni ve ahlaki durumuna göre değişir: farz (mal var + zina korkusu kesin), vacip (zina ihtimali), haram (mal yok ya da eşine iyi davranamayacak), mekruh (eşine kötü davranma endişesi), mubah/sünnet (ne zina korkusu ne kötülük endişesi).
 * Buradaki "mal": mehri ve evliliğin diğer nafakalarını karşılayacak mal.
 
@@ -95,19 +95,19 @@
 ## Şema: nikâhın sonuçları
 &# Nikâhın hükmü (eser anlamında) | الأثر الذي يترتب شرعا على ذلك الشيء
 & Sahih-nâfiz evlilik | الزواج الصحيح النافذ
-&- «هو الذي استوفى جميع شروط الانعقاد والصحة والنفاذ» [[İn'ikad, sıhhat ve nefaz şartlarının hepsini taşıyan evliliktir.]] — Kenar notu: in'ikad, nefaz ve sıhhat şartları tam ise nikah tam geçerlidir.
-&- «آثار تجب للزوجة على الزوج: المهر والنفقة والعدل وعدم الإيذاء» [[Kocanın kadına karşı yükümlülükleri: mehir, nafaka, adalet, eziyet etmemek.]]
-&- «آثار تجب للزوج على الزوجة: الطاعة في كل أمور لا تخالف الشرع» [[Kadının kocaya karşı yükümlülüğü: şer'e aykırı olmayan her işte itaat.]]
-&- «آثار تجب لكل واحد منهما للآخر: ثبوت النسب والتوارث وحرمة المصاهرة والاستمتاع بالآخر وحسن المعاشرة» [[Her birinin diğerine karşı: nesebin sübûtu, mirasçılık, hürmet-i musahara, birbirinden faydalanma, iyi geçinme.]]
+&- «هو الذي استوفى جميع شروط الانعقاد والصحة والنفاذ» İn'ikad, sıhhat ve nefaz şartlarının hepsini taşıyan evliliktir. — Kenar notu: in'ikad, nefaz ve sıhhat şartları tam ise nikah tam geçerlidir.
+&- «آثار تجب للزوجة على الزوج: المهر والنفقة والعدل وعدم الإيذاء» Kocanın kadına karşı yükümlülükleri: mehir, nafaka, adalet, eziyet etmemek.
+&- «آثار تجب للزوج على الزوجة: الطاعة في كل أمور لا تخالف الشرع» Kadının kocaya karşı yükümlülüğü: şer'e aykırı olmayan her işte itaat.
+&- «آثار تجب لكل واحد منهما للآخر: ثبوت النسب والتوارث وحرمة المصاهرة والاستمتاع بالآخر وحسن المعاشرة» Her birinin diğerine karşı: nesebin sübûtu, mirasçılık, hürmet-i musahara, birbirinden faydalanma, iyi geçinme.
 & Sahih-mevkuf evlilik | الزواج الصحيح الموقوف
-&- «هو الذي فقد شرطا من شروط النفاذ» [[Nefaz şartlarından birini taşımayan evliliktir.]]
-&- «فلو دخل بها قبل الإجازة فكالفاسد بعد الدخول» [[İcazetten önce duhul ederse, duhulden sonraki fasit evlilik gibidir.]]
+&- «هو الذي فقد شرطا من شروط النفاذ» Nefaz şartlarından birini taşımayan evliliktir.
+&- «فلو دخل بها قبل الإجازة فكالفاسد بعد الدخول» İcazetten önce duhul ederse, duhulden sonraki fasit evlilik gibidir.
 & Fasit evlilik | الزواج الفاسد
-&- «هو الذي اختل فيه شرط من شروط الصحة» [[Sıhhat şartlarından biri bozuk olan evliliktir.]]
-&- «إن افترقا قبل الدخول لا يجب شيء» [[Duhulden önce ayrılırlarsa hiçbir şey vacip olmaz.]]
-&- «إن افترقا بعد الدخول يجب بهذا العقد ثبوت النسب وحرمة المصاهرة والعدة، ومهر المثل إن لم يسم المهر، والأقل من المهر المسمى والمثل إن سمي» [[Duhulden sonra ayrılırlarsa: neseb, hürmet-i musahara, iddet; mehir belirlenmemişse mehr-i misil, belirlenmişse müsemma ile misilden azı.]]
+&- «هو الذي اختل فيه شرط من شروط الصحة» Sıhhat şartlarından biri bozuk olan evliliktir.
+&- «إن افترقا قبل الدخول لا يجب شيء» Duhulden önce ayrılırlarsa hiçbir şey vacip olmaz.
+&- «إن افترقا بعد الدخول يجب بهذا العقد ثبوت النسب وحرمة المصاهرة والعدة، ومهر المثل إن لم يسم المهر، والأقل من المهر المسمى والمثل إن سمي» Duhulden sonra ayrılırlarsa: neseb, hürmet-i musahara, iddet; mehir belirlenmemişse mehr-i misil, belirlenmişse müsemma ile misilden azı.
 & Batıl evlilik | الزواج الباطل
-&- «هو الذي فقد شرطا من شروط الانعقاد، لا يترتب عليه أثر لأن وجوده كعدمه» [[İn'ikad şartlarından birini taşımayan evliliktir; varlığı yokluğu gibi olduğu için hiçbir sonuç doğurmaz.]]
+&- «هو الذي فقد شرطا من شروط الانعقاد، لا يترتب عليه أثر لأن وجوده كعدمه» İn'ikad şartlarından birini taşımayan evliliktir; varlığı yokluğu gibi olduğu için hiçbir sonuç doğurmaz.
 ## Nikahın kısımları
 ^# Nikâhın kısımları | أقسام النكاح
 ^? İn'ikad şartları tam mı? | 

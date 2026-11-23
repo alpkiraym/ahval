@@ -24,19 +24,19 @@
 ^  - Tek akitle
 ^    ? İkisi de onunla evlenmeye elverişli mi? | إذا يتزوجهما بعقد واحد
 ^      - İkisi de elverişli
-^        = degil | [[Akit ikisi için de fasittir; fasit evlilik hükümleri işler.]] | فالعقد فاسد بالنسبة لهما جميعا وتجري عليه أحكام الزواج الفاسد | Akit fasit; iki fasit evlilik.
+^        = degil | Akit ikisi için de fasittir; fasit evlilik hükümleri işler. | فالعقد فاسد بالنسبة لهما جميعا وتجري عليه أحكام الزواج الفاسد | Akit fasit; iki fasit evlilik.
 ^      - Biri elverişli değil (ör. kocanın süt kız kardeşi)
-^        = ihtilaf | [[Engeli olan için nikah fasit, engeli olmayan için sahihtir.]] | فهذا النكاح فاسد بالنسبة لهذه يجري عليه جميع أحكام الزواج الفاسد، وصحيح بالنسبة لمن لا مانع لها | Fasit olur, süt kardeş gibi.
+^        = ihtilaf | Engeli olan için nikah fasit, engeli olmayan için sahihtir. | فهذا النكاح فاسد بالنسبة لهذه يجري عليه جميع أحكام الزواج الفاسد، وصحيح بالنسبة لمن لا مانع لها | Fasit olur, süt kardeş gibi.
 ^  - Ayrı akitlerle
 ^    ? İki akit de sıhhat şartlarını taşıyor mu? | إن يتزوجهما بعقدين مختلفين
 ^      - Biri taşıyor, biri taşımıyor
-^        = ihtilaf | [[Şartları taşıyan sahih, taşımayan fasittir; önce, birlikte ya da sonra olması fark etmez.]] | فالذي استوفى جميع الشروط هو الصحيح والذي لم يستوفها فاسد سواء كان متقدما على المستوفي أم كان مقارنا له أم كان متأخرا عنه
+^        = ihtilaf | Şartları taşıyan sahih, taşımayan fasittir; önce, birlikte ya da sonra olması fark etmez. | فالذي استوفى جميع الشروط هو الصحيح والذي لم يستوفها فاسد سواء كان متقدما على المستوفي أم كان مقارنا له أم كان متأخرا عنه
 ^      - İkisi de taşıyor
 ^        ? Hangisinin önce olduğu biliniyor mu? | أو كلاهما يستوفيان جميع الشروط
 ^          - Biliniyor
-^            = ihtilaf | [[Önceliği bilinen sahih, sonralığı bilinen fasittir.]] | فالذي علمت أسبقيته صحيح والذي علم تأخره فاسد
+^            = ihtilaf | Önceliği bilinen sahih, sonralığı bilinen fasittir. | فالذي علمت أسبقيته صحيح والذي علم تأخره فاسد
 ^          - Bilinmiyor ya da unutuldu
-^            = degil | [[İki akit de fasittir.]] | وإذا لم نعلم أسبقية واحد منهما أو علمت ثم نسيت فكلا العقدين فاسد | Fasit, fasit.
+^            = degil | İki akit de fasittir. | وإذا لم نعلم أسبقية واحد منهما أو علمت ثم نسيت فكلا العقدين فاسد | Fasit, fasit.
 * İki kız kardeşi (ya da kadınla halasını/teyzesini) bir nikahta toplamak haramdır; geçicidir: nikahlının ölümü ya da boşanıp iddetinin bitmesiyle kalkar. Süt kardeşlik de neseb gibidir.
 * Genel kural: iki kadından biri erkek farz edildiğinde aralarında evlenme engeli varsa ikisi bir nikahta toplanamaz (hala-yeğen olmaz, iki amca kızı olur).
 * Tek akitte iki kız kardeş: ayrılırlar; duhulden sonra her birine mehr-i müsemma ile misilden azı. Ayrı akitlerde ikinci nikah sahih olmaz. Hangisinin önce olduğu bilinmezse ikisi de ayrılır; duhulden önceyse mehirler eşitse yarım mehir, farklıysa her birine kendi mehrinin dörtte biri; duhulden sonraysa tam mehir.
@@ -103,15 +103,15 @@
 ## Şema: geçici evlilik engelleri
 &# Geçici haramlık sebepleri | أسباب المحرمة المؤقتة
 & Sebepler | 
-&- «الجمع بين محرمين» [[İki mahremi bir nikahta toplamak]] — Kenar notu: iki mahremi bir nikâhta.
-&- «تعلق حق الغير بمن يراد العقد عليها» [[Evlenilmek istenen kadına başkasının hakkının taalluk etmesi]] — Kenar notu: başkasının varlığı (evli olması).
-&- «زواج الرجل بمن طلقها طلقة ثالثة» [[Üçüncü talakla boşadığı kadınla evlenmesi]]
-&- «زواج الرجل بالخامسة» [[Beşinci kadınla evlenmesi]]
-&- «زواج الرجل بامرأة لا تدين بدين سماوي» [[Semavi bir dine mensup olmayan kadınla evlenmesi]] — Kenar notu: ateist, Mecusi.
-&- «الزواج بالأمة على الحرة» [[Hür kadın üzerine cariye ile evlenmek]] — Kenar notu: hür kadın varken cariyeyi kuma getirmek.
-&- «زواج المُحرم عند الشافعي» [[Şâfiî'ye göre ihramlının evlenmesi]] — Kenar notu: Hanefilere göre evlenebilir ama ilişkiye giremez.
+&- «الجمع بين محرمين» İki mahremi bir nikahta toplamak — Kenar notu: iki mahremi bir nikâhta.
+&- «تعلق حق الغير بمن يراد العقد عليها» Evlenilmek istenen kadına başkasının hakkının taalluk etmesi — Kenar notu: başkasının varlığı (evli olması).
+&- «زواج الرجل بمن طلقها طلقة ثالثة» Üçüncü talakla boşadığı kadınla evlenmesi
+&- «زواج الرجل بالخامسة» Beşinci kadınla evlenmesi
+&- «زواج الرجل بامرأة لا تدين بدين سماوي» Semavi bir dine mensup olmayan kadınla evlenmesi — Kenar notu: ateist, Mecusi.
+&- «الزواج بالأمة على الحرة» Hür kadın üzerine cariye ile evlenmek — Kenar notu: hür kadın varken cariyeyi kuma getirmek.
+&- «زواج المُحرم عند الشافعي» Şâfiî'ye göre ihramlının evlenmesi — Kenar notu: Hanefilere göre evlenebilir ama ilişkiye giremez.
 & Kaide | ملاحظة / القاعدة
-&- «لو فُرِضَتْ إحداهما رجلا لحَرُمَتِ الأخرى عليه» [[İki kadından biri erkek farz edilse diğeri ona haram olurdu (o hâlde ikisi bir nikahta toplanamaz).]]
+&- «لو فُرِضَتْ إحداهما رجلا لحَرُمَتِ الأخرى عليه» İki kadından biri erkek farz edilse diğeri ona haram olurdu (o hâlde ikisi bir nikahta toplanamaz).
 * Şemadaki geçici sebepler ayrıca: hür kadın üzerine cariye ile evlenmek ve (Şâfiî'ye göre) ihramlının evlenmesi.
 
 ## Ehl-i Kitab'la evlilik hakkında görüşler
@@ -129,16 +129,16 @@
 4. Müslüman bir erkek ile evli olan kitabi kadın dininden çıkıp başka bir semavi dine girse bu durumda evlilikleri fesholmaz. Yok eğer gitse de müşrik olsa akid fesholunur.
 &# Ehl-i kitapla evlilik | زواج الكتابيات
 & Evliliğin dört sureti | 
-&- «أن يكون الزوج مسلما والزوجة مسلمة» [[Koca Müslüman, kadın Müslüman]]
-&- «أن يكون الزوج مسلما والزوجة غير مسلمة» [[Koca Müslüman, kadın gayrimüslim]]
-&- «أن يكون الزوج غير مسلم والزوجة غير مسلمة» [[Koca gayrimüslim, kadın gayrimüslim]]
-&- «أن يكون الزوج غير مسلم والزوجة مسلمة» [[Koca gayrimüslim, kadın Müslüman]] — Kenar notu: caiz değil.
+&- «أن يكون الزوج مسلما والزوجة مسلمة» Koca Müslüman, kadın Müslüman
+&- «أن يكون الزوج مسلما والزوجة غير مسلمة» Koca Müslüman, kadın gayrimüslim
+&- «أن يكون الزوج غير مسلم والزوجة غير مسلمة» Koca gayrimüslim, kadın gayrimüslim
+&- «أن يكون الزوج غير مسلم والزوجة مسلمة» Koca gayrimüslim, kadın Müslüman — Kenar notu: caiz değil.
 & Müslüman erkeğin kitabî kadınla evliliğinde farklar | إلا في الأمور الآتية
-&- «جميع الأحكام والحقوق والواجبات المترتبة على عقد زواج المسلم بالمسلمة تترتب بنفسها على عقد زواج المسلم بالكتابية إلا في الأمور الآتية» [[Müslüman erkeğin Müslüman kadınla evliliğine bağlanan bütün hüküm, hak ve vecibeler kitabî kadınla evliliğine de aynen bağlanır; şu hususlar hariç:]]
-&- «يجوز أن يكون شهود هذا العقد من المسلمين أو من أهل الكتاب خلافا للشافعية» [[Bu akdin şahitleri Müslümanlardan da Ehl-i kitaptan da olabilir; Şâfiîler buna muhaliftir.]] — Kenar notu: Şâfiî: Müslüman olmalı.
-&- «إذا مات أحدهما لا يرثه الآخر» [[Biri ölürse diğeri ona mirasçı olmaz.]]
-&- «الأولاد يوافقون أباهم في دينه» [[Çocuklar dinde babalarına tabidir.]]
-&- «إذا خرجت المرأة الكتابية المتزوجة بمسلم من دينها إلى دين سماوي آخر لم ينفسخ زواجها» [[Müslümanla evli kitabî kadın başka bir semavi dine geçerse nikahı bozulmaz.]] — Kenar notu: karı Hristiyan iken Yahudiliğe geçse boşanmaz.
+&- «جميع الأحكام والحقوق والواجبات المترتبة على عقد زواج المسلم بالمسلمة تترتب بنفسها على عقد زواج المسلم بالكتابية إلا في الأمور الآتية» Müslüman erkeğin Müslüman kadınla evliliğine bağlanan bütün hüküm, hak ve vecibeler kitabî kadınla evliliğine de aynen bağlanır; şu hususlar hariç:
+&- «يجوز أن يكون شهود هذا العقد من المسلمين أو من أهل الكتاب خلافا للشافعية» Bu akdin şahitleri Müslümanlardan da Ehl-i kitaptan da olabilir; Şâfiîler buna muhaliftir. — Kenar notu: Şâfiî: Müslüman olmalı.
+&- «إذا مات أحدهما لا يرثه الآخر» Biri ölürse diğeri ona mirasçı olmaz.
+&- «الأولاد يوافقون أباهم في دينه» Çocuklar dinde babalarına tabidir.
+&- «إذا خرجت المرأة الكتابية المتزوجة بمسلم من دينها إلى دين سماوي آخر لم ينفسخ زواجها» Müslümanla evli kitabî kadın başka bir semavi dine geçerse nikahı bozulmaz. — Kenar notu: karı Hristiyan iken Yahudiliğe geçse boşanmaz.
 * Ehl-i kitapla evlilikte dört suret; Müslüman kadının gayrimüslim erkekle evliliği icmayla batıldır. Harbî kitabî kadınla evlilik mekruh; Müslüman olması umuluyorsa mendub.
 * Müslüman–kitabî evliliğinde farklar: şahitlerin Müslüman olması şart değil (Şâfiîlere göre şart), birbirlerine mirasçı olmazlar (vasiyet engel değil), çocuklar dinde babaya tabidir, kadın başka semavi dine geçerse nikah bozulmaz, müşrik olursa bozulur.
 

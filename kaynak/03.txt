@@ -33,19 +33,19 @@
 ^# Sîganın çeşitleri | أنواع صيغة الزواج
 ^? Sîga nasıl çıktı? | 
 ^  - Hiçbir şeyle kayıtlanmadan, mutlak (müneccez)
-^    = caiz | [[Sîga âkidlerden hiçbir şeyle kayıtlanmadan mutlak olarak çıkmıştır; hükmü sahihtir.]] | العقد المنجز: هو صدور الصيغة عن العاقدين مطلقة غير مقيدة بشيء أصلا. حكمه: صحيح
+^    = caiz | Sîga âkidlerden hiçbir şeyle kayıtlanmadan mutlak olarak çıkmıştır; hükmü sahihtir. | العقد المنجز: هو صدور الصيغة عن العاقدين مطلقة غير مقيدة بشيء أصلا. حكمه: صحيح
 ^  - Şart edatıyla bir şarta bağlandı (muallak)
 ^    ? Bağlanılan şart akit anında gerçekleşmiş mi? | العقد المعلق
 ^      - Akit anında fiilen var
-^        = caiz | [[Akit sahihtir.]] | إن كان الشرط الذي علقت الصيغة عليه واقعا بالفعل حين العقد فالعقد صحيح | Örnek: "İhtisas okursan evlenirim" (zaten okuyor). Akit esnasında var olan şart. Meclis dağılmadan haber gelirse yine geçerlidir.
+^        = caiz | Akit sahihtir. | إن كان الشرط الذي علقت الصيغة عليه واقعا بالفعل حين العقد فالعقد صحيح | Örnek: "İhtisas okursan evlenirim" (zaten okuyor). Akit esnasında var olan şart. Meclis dağılmadan haber gelirse yine geçerlidir.
 ^      - Gelecekte gerçekleşecek
-^        = degil | [[Akit sahih değildir.]] | وإن كان الشرط الذي علقت الصيغة عليه مستقبلا فالعقد غير صحيح | Örnek: "İhtisas okuyacaksan evlenirim" (henüz okumuyor). Önce şart, sonra akit. Kaide: «عقود التمليكات لا تقبل التعليق على الخطر» [[Temlik akitleri, gerçekleşip gerçekleşmeyeceği belli olmayan bir şarta bağlanmayı kabul etmez.]]
+^        = degil | Akit sahih değildir. | وإن كان الشرط الذي علقت الصيغة عليه مستقبلا فالعقد غير صحيح | Örnek: "İhtisas okuyacaksan evlenirim" (henüz okumuyor). Önce şart, sonra akit. Kaide: «عقود التمليكات لا تقبل التعليق على الخطر» Temlik akitleri, gerçekleşip gerçekleşmeyeceği belli olmayan bir şarta bağlanmayı kabul etmez.
 ^  - Önce şartsız çıktı, sonra şart eklendi (muzâf)
 ^    ? Eklenen şart akdin gereği, ona uygun, şer'î ya da örfî mi? | العقد الذي أضيف إليه شرط
 ^      - Evet
-^        = caiz | [[Akit de şart da sahihtir.]] | العقد والشرط صحيح معا إن كان الشرط مما يقتضيه العقد أو مما يلائمه أو مما ورد به الشرع أو مما جرى عليه العرف | Önce akit, sonra şart. Muktezaya uygunsa şart da akit de geçerli.
+^        = caiz | Akit de şart da sahihtir. | العقد والشرط صحيح معا إن كان الشرط مما يقتضيه العقد أو مما يلائمه أو مما ورد به الشرع أو مما جرى عليه العرف | Önce akit, sonra şart. Muktezaya uygunsa şart da akit de geçerli.
 ^      - Hayır
-^        = ihtilaf | [[Şart batıl, akit sahihtir; Şâfiî'ye göre akit de batıldır.]] | وإن لم يكن كذلك فالشرط باطل والعقد صحيح، وعند الشافعي العقد باطل أيضا | Akdin muktezasına uygun değilse (ör. "çalışmayacaksın" gibi) akit geçerli, şart batıl.
+^        = ihtilaf | Şart batıl, akit sahihtir; Şâfiî'ye göre akit de batıldır. | وإن لم يكن كذلك فالشرط باطل والعقد صحيح، وعند الشافعي العقد باطل أيضا | Akdin muktezasına uygun değilse (ör. "çalışmayacaksın" gibi) akit geçerli, şart batıl.
 * Müneccez akit: şartsız, mutlak sîga; sahihtir.
 * Muallak akit: şart akit anında varsa ya da meclis dağılmadan gerçekleşirse sahih; gelecekte gerçekleşecekse ya da gelecek zamana bağlıysa sahih değil (temlik akitleri tehlikeli ta'liki kabul etmez).
 * Muzâf akit (şart sonradan eklenir): şart akdin gereği/uygun/şer'i/örfî ise ikisi de sahih; değilse akit sahih, şart batıl; Şâfiî'ye göre akit de batıl.

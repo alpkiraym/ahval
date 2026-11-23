@@ -81,18 +81,18 @@
 ## Şema: ebedî evlilik engelleri
 &# Ebedî haramlık sebepleri | أسباب المحرمة المؤبدة
 & Neseb (karabet) · erkeğe dört nevi kadın haramdır | النسب (القرابة)
-&- «أصوله» [[Usulü]] — «حرمت عليكم أمهاتكم…»
-&- «فروعه» [[Furu'u]] — «… وبناتكم…»
-&- «فروع أبويه» [[Anne-babasının furu'u]] — «… وأخواتكم» / «وبنات الأخ» / «وبنات الأخت»
-&- «فروع أجداده وجداته بدرجة واحدة» [[Dede ve ninelerinin bir derece furu'u]] — Kenar notu: hala-teyze, amca-dayı.
+&- «أصوله» Usulü — «حرمت عليكم أمهاتكم…»
+&- «فروعه» Furu'u — «… وبناتكم…»
+&- «فروع أبويه» Anne-babasının furu'u — «… وأخواتكم» / «وبنات الأخ» / «وبنات الأخت»
+&- «فروع أجداده وجداته بدرجة واحدة» Dede ve ninelerinin bir derece furu'u — Kenar notu: hala-teyze, amca-dayı.
 & Rada' (süt emme) | الرضاع
 &- «وأمهاتكم اللاتي أرضعنكم…»
-&- «يحرم من الرضاع ما يحرم من النسب» [[Neseb yoluyla haram olan süt yoluyla da haram olur.]]
+&- «يحرم من الرضاع ما يحرم من النسب» Neseb yoluyla haram olan süt yoluyla da haram olur.
 & Musahara | المصاهرة
-&- «فروع زوجته التي دخل بها» [[Duhul ettiği eşinin furu'u]] — «وربائبكم اللاتي في حجوركم من نسائكم اللاتي دخلتم بهن»
-&- «أصول زوجته» [[Eşinin usulü]] — «…وأمهات نسائكم…» — Kenar notu: kaynana.
-&- «زوجات أصوله» [[Usulünün eşleri]] — «ولا تنكحوا ما نكح آباؤكم…» — Kenar notu: üvey anne.
-&- «زوجات فروعه» [[Furu'unun eşleri]] — «…وحلائل أبنائكم…» — Kenar notu: gelin.
+&- «فروع زوجته التي دخل بها» Duhul ettiği eşinin furu'u — «وربائبكم اللاتي في حجوركم من نسائكم اللاتي دخلتم بهن»
+&- «أصول زوجته» Eşinin usulü — «…وأمهات نسائكم…» — Kenar notu: kaynana.
+&- «زوجات أصوله» Usulünün eşleri — «ولا تنكحوا ما نكح آباؤكم…» — Kenar notu: üvey anne.
+&- «زوجات فروعه» Furu'unun eşleri — «…وحلائل أبنائكم…» — Kenar notu: gelin.
 & Kaide | ملاحظة / القاعدة
-&- «دخول الأمهات يُحَرِّمُ البنات، ونِكاح البنات يُحَرِّمُ الأمهات» [[Annelere duhul kızları haram kılar; kızları nikahlamak anneleri haram kılar.]]
+&- «دخول الأمهات يُحَرِّمُ البنات، ونِكاح البنات يُحَرِّمُ الأمهات» Annelere duhul kızları haram kılar; kızları nikahlamak anneleri haram kılar.
 * Kaide: annelere duhul kızları, kızlarla nikah anneleri haram kılar.

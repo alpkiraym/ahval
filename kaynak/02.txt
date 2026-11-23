@@ -41,14 +41,14 @@
 - Eşler müslüman olduğunda şahitlerin de müslüman olması gerekir. İkisi de zımmi ise şahitlerin zımmi olması caizdir. Damat Müslüman olup gelin zımmi ise Ebu Hanife ve Ebu Yusuf'a göre şahitlerin ikisi de zımmi olabilir. Gelin için şahitlerin aynı dinden olmaları ya da olmamaları arasında bir fark yoktur. İmam Şafii, Muhammed ve Züfer'e göre damat Müslüman ise şahitlerin zımmi olması caiz olmaz.
 &# Şahitliğin şartları | شروط الشهادة
 & Üzerinde ittifak edilen şartlar | شروط متفق عليه
-&- «الإسلام إن كان الزوجان مسلمين» [[Eşler Müslümansa İslam]] — Taraflar Müslümansa şahitlerin de Müslüman olması lazım.
-&- «الحرية» [[Hürriyet]]
-&- «البلوغ» [[Bulûğ]]
-&- «السماع» [[İşitme]]
+&- «الإسلام إن كان الزوجان مسلمين» Eşler Müslümansa İslam — Taraflar Müslümansa şahitlerin de Müslüman olması lazım.
+&- «الحرية» Hürriyet
+&- «البلوغ» Bulûğ
+&- «السماع» İşitme
 &- Kenar notu: beşinci şart akıl.
 & İhtilaflı şartlar | شروط مختلف فيه
-&- «الذكورة في الجمع عند الشافعي وأحمد» [[Şâfiî ve Ahmed'e göre şahitlerin ikisinin de erkek olması]]
-&- «الذكورة في واحد عند أبي حنيفة» [[Ebû Hanîfe'ye göre birinin erkek olması]]
+&- «الذكورة في الجمع عند الشافعي وأحمد» Şâfiî ve Ahmed'e göre şahitlerin ikisinin de erkek olması
+&- «الذكورة في واحد عند أبي حنيفة» Ebû Hanîfe'ye göre birinin erkek olması
 * Şahitliğin dört şartı: hürriyet, bulûğ, akıl, icab ve kabulü işitmek; eşler Müslümansa şahitlerin de Müslüman olması gerekir.
 * Hanefilere göre iki erkek ya da bir erkek iki kadın şahit olur; görme, adalet ve tanınmamış olmak şart değildir (âmâ, fâsık, gelin ve damadın anne-babası şahit olabilir).
 * Damat Müslüman, gelin zimmî ise Ebû Hanîfe ve Ebû Yûsuf'a göre şahitler zimmî olabilir; Şâfiî, Muhammed ve Züfer'e göre olamaz.
@@ -87,23 +87,23 @@
 ## Şema: nikâhın şartları
 &# Nikâhın şartları | شروط الزواج
 & İn'ikad şartları · eksikse batıl olur | شروط الانعقاد
-&- «ما يرجع إلى العاقد: أن يكون عاقلا» [[Âkidle ilgili: akıllı olmak]]
-&- «ما يرجع إلى مجلس العقد: اتحاد المجلس» [[Meclisle ilgili: meclis birliği]]
-&- «أن يسمع كل من العاقدين كلام الآخر ويفهم ما يراد به» [[Âkidlerin birbirinin sözünü işitip kastedileni anlaması]]
-&- «ألا يخالف القبول الإيجاب» [[Kabulün icaba aykırı olmaması]]
+&- «ما يرجع إلى العاقد: أن يكون عاقلا» Âkidle ilgili: akıllı olmak
+&- «ما يرجع إلى مجلس العقد: اتحاد المجلس» Meclisle ilgili: meclis birliği
+&- «أن يسمع كل من العاقدين كلام الآخر ويفهم ما يراد به» Âkidlerin birbirinin sözünü işitip kastedileni anlaması
+&- «ألا يخالف القبول الإيجاب» Kabulün icaba aykırı olmaması
 &- Kenar notu: 1- Akıllı 2- Meclis birliği 3- Tarafların birbirini anlaması 4- İcap ve kabule uygun olması.
 & Sıhhat şartları · eksikse fasit olur | شروط الصحة
-&- «أن تكون الزوجة محلا قابلا للزواج» [[Kadının evlenmeye elverişli olması]] — Kenar notu: evliliğe uygun olması (mahrem olmayacak).
-&- «أن يكون العقد بحضرة الشاهدين» [[Akdin iki şahit huzurunda olması]]
-&- «أن يكون للزوجة ولي ذكر (ش-أ)» [[Kadının erkek velisinin bulunması (Şâfiî ve Ahmed)]] — Kenar notu: Hanefîde yok, Şâfiî ve Hanbelî'de var.
+&- «أن تكون الزوجة محلا قابلا للزواج» Kadının evlenmeye elverişli olması — Kenar notu: evliliğe uygun olması (mahrem olmayacak).
+&- «أن يكون العقد بحضرة الشاهدين» Akdin iki şahit huzurunda olması
+&- «أن يكون للزوجة ولي ذكر (ش-أ)» Kadının erkek velisinin bulunması (Şâfiî ve Ahmed) — Kenar notu: Hanefîde yok, Şâfiî ve Hanbelî'de var.
 & Nefaz şartları · eksikse mevkuf olur | شروط النفاذ
-&- «الحرية» [[Hürriyet]]
-&- «البلوغ» [[Bulûğ]]
-&- «العقل» [[Akıl]]
+&- «الحرية» Hürriyet
+&- «البلوغ» Bulûğ
+&- «العقل» Akıl
 & Lüzum şartları · eksikse feshe kabil olur | شروط اللزوم
-&- «إن كان المباشر الزوجين: بالنسبة للزوج لم يشترط للزوم العقد شيء أصلا» [[Akdi eşler kendileri yaptıysa: koca için lüzumda hiçbir şart aranmaz.]]
-&- «بالنسبة للزوجة يشترط للزومه شرطان: أن يكون الزوج كفئا لها، أن يكون المهر الذي عقدت عليه مهر مثلها» [[Kadın için iki şart: koca ona denk olmalı; mehir mehr-i misil olmalı.]] — Kenar notu: değilse feshe kabildir.
-&- «إن كان المباشر ولي الزوجين (الأب-الجد) لم يشترط للزوم الزواج شيء» [[Akdi baba ya da dede yaptıysa hiçbir şart aranmaz.]] — Kenar notu: baba ve dede evlendirirse geçerlidir; baba ve dede dışındakiler evlendirirse hıyâr-ı bulûğ vardır; baba ve dede daha şefkatlidir.
+&- «إن كان المباشر الزوجين: بالنسبة للزوج لم يشترط للزوم العقد شيء أصلا» Akdi eşler kendileri yaptıysa: koca için lüzumda hiçbir şart aranmaz.
+&- «بالنسبة للزوجة يشترط للزومه شرطان: أن يكون الزوج كفئا لها، أن يكون المهر الذي عقدت عليه مهر مثلها» Kadın için iki şart: koca ona denk olmalı; mehir mehr-i misil olmalı. — Kenar notu: değilse feshe kabildir.
+&- «إن كان المباشر ولي الزوجين (الأب-الجد) لم يشترط للزوم الزواج شيء» Akdi baba ya da dede yaptıysa hiçbir şart aranmaz. — Kenar notu: baba ve dede evlendirirse geçerlidir; baba ve dede dışındakiler evlendirirse hıyâr-ı bulûğ vardır; baba ve dede daha şefkatlidir.
 * Şartlar eksik olunca: in'ikad → batıl, sıhhat → fasit, nefaz → mevkuf, lüzum → feshe kabil.
 
 ## Evlilik akdinde muhayyerlik var mıdır?

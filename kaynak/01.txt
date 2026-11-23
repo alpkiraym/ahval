@@ -58,31 +58,31 @@
 ^# Hıtbe | الخطبة
 ^? Kadın evli mi? | إن كانت متزوجة؟
 ^  - Evli değil
-^    = caiz | [[Açıkça da üstü kapalı da talip olunabilir.]] | تجوز الخطبة تصريحا وتعريضا
+^    = caiz | Açıkça da üstü kapalı da talip olunabilir. | تجوز الخطبة تصريحا وتعريضا
 ^  - Evli
 ^    ? Boşanmış mı? | إما مطلقة / إما غير مطلقة
 ^      - Boşanmamış
-^        = degil | [[Ne üstü kapalı ne açıkça talip olunabilir.]] | لا تجوز تعريضا ولا تصريحا | Açık ve gizli caiz değil.
+^        = degil | Ne üstü kapalı ne açıkça talip olunabilir. | لا تجوز تعريضا ولا تصريحا | Açık ve gizli caiz değil.
 ^      - Boşanmış
 ^        ? İddet bekliyor mu? | إما معتدة / أو غير معتدة
 ^          - İddeti yok
-^            = caiz | [[Mahrem değilse ittifakla her iki yolla da talip olunabilir.]] | وهذه تجوز خطبته مطلقا بالاتفاق إن لم تكن محرما | Tasrih de ta'riz de caiz.
+^            = caiz | Mahrem değilse ittifakla her iki yolla da talip olunabilir. | وهذه تجوز خطبته مطلقا بالاتفاق إن لم تكن محرما | Tasrih de ta'riz de caiz.
 ^          - İddetli
 ^            ? İddetin sebebi nedir? | إما بالوفاة / إما بالطلاق
 ^              - Vefat
-^                = caiz | [[İttifakla üstü kapalı (ta'riz) talip olunabilir.]] | تجوز الخطبة تعريضا بالاتفاق | Vefat: kapalı (ta'riz) caiz; açık (tasrih) yok. Delil: «وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا عَرَّضْتُمْ بِهِ…» (البقرة، ٢/٢٣٥)
+^                = caiz | İttifakla üstü kapalı (ta'riz) talip olunabilir. | تجوز الخطبة تعريضا بالاتفاق | Vefat: kapalı (ta'riz) caiz; açık (tasrih) yok. Delil: «وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا عَرَّضْتُمْ بِهِ…» (البقرة، ٢/٢٣٥)
 ^              - Talak
 ^                ? Talak türü nedir? | إما رجعي / إما بائن
 ^                  - Ric'i
-^                    = degil | [[İttifakla caiz değildir.]] | غير جائز اتفاقا | Açık yok, kapalı yok; koca mehir ve nikah olmadan dönebilir.
+^                    = degil | İttifakla caiz değildir. | غير جائز اتفاقا | Açık yok, kapalı yok; koca mehir ve nikah olmadan dönebilir.
 ^                  - Bain
 ^                    ? Beynûnet hangisi? | بائن بينونة صغرى / بائن بينونة كبرى
 ^                      - Beynûnet-i suğrâ (1–2 talak)
-^                        = degil | [[Caiz değildir.]] | غير جائز | Yeni bir mehir, yeni bir nikah gerekir; tasrihle de ta'rizle de caiz değil.
+^                        = degil | Caiz değildir. | غير جائز | Yeni bir mehir, yeni bir nikah gerekir; tasrihle de ta'rizle de caiz değil.
 ^                      - Beynûnet-i kübrâ (3 talak)
-^                        = ihtilaf | [[Cumhura göre üstü kapalı talip olunabilir; Hanefiler buna muhaliftir.]] | تجوز خطبتها تعريضا عند الجمهور خلافا للأحناف | 3 talak, dönüş yok. Hanefilerde tasrih de ta'riz de caiz değil; cumhura göre ta'riz caiz.
-: الخطبة تصريحا = «الكلام الذي لا يحتمل غير الزواج» [[Evlilikten başka bir anlama gelmeyen sözdür.]]
-: الخطبة تعريضا = «الكلام الذي يحتمل الرغبة في الزواج وعدم الرغبة فيه» [[Evlilik isteğine de evlilik isteğinin olmamasına da ihtimali olan sözdür.]]
+^                        = ihtilaf | Cumhura göre üstü kapalı talip olunabilir; Hanefiler buna muhaliftir. | تجوز خطبتها تعريضا عند الجمهور خلافا للأحناف | 3 talak, dönüş yok. Hanefilerde tasrih de ta'riz de caiz değil; cumhura göre ta'riz caiz.
+: الخطبة تصريحا = «الكلام الذي لا يحتمل غير الزواج» Evlilikten başka bir anlama gelmeyen sözdür.
+: الخطبة تعريضا = «الكلام الذي يحتمل الرغبة في الزواج وعدم الرغبة فيه» Evlilik isteğine de evlilik isteğinin olmamasına da ihtimali olan sözdür.
 * Hıtbe: erkeğin kadını evlenmek için istemesi; sarih (tasrih) ya da üstü kapalı (ta'riz) olur.
 * Evli kadına hiçbir yolla talip olunmaz; boşanmış ve iddeti bitmiş, mahrem olmayan kadına talip olunur; başkasının teklifine razı olmuş kadına talip olunmaz.
 * Vefat iddeti: ta'riz caiz (Bakara 2/235). Ric'i talak iddeti ve beynûnet-i suğrâ: hiçbir yolla caiz değil. Beynûnet-i kübrâ: Hanefilere göre caiz değil, cumhur ve Şafiilere göre ta'riz caiz.
